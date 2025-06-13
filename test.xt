@@ -1,0 +1,136 @@
+[0] Passenger #1 waiting elevator at floor 1
+[1] Passenger #2 waiting elevator at floor 1
+[2] Passenger #3 waiting elevator at floor 2
+[2] Passenger #89 waiting elevator at floor 13
+[3] Passenger #4 waiting elevator at floor 3
+[4] Passenger #5 waiting elevator at floor 1
+[4] Passenger #90 waiting elevator at floor 14
+[5] Passenger #6 waiting elevator at floor 5
+[5] Passenger #61 waiting elevator at floor 10
+[6] Passenger #7 waiting elevator at floor 6
+[6] Passenger #91 waiting elevator at floor 15
+[7] Passenger #8 waiting elevator at floor 7
+[7] Passenger #62 waiting elevator at floor 11
+[7] Passenger #90 arrived at floor 10 via elevator #3
+[8] Passenger #9 waiting elevator at floor 8
+[8] Passenger #92 waiting elevator at floor 16
+[9] Passenger #10 waiting elevator at floor 9
+[9] Passenger #63 waiting elevator at floor 12
+[10] Passenger #11 waiting elevator at floor 10
+[10] Passenger #93 waiting elevator at floor 17
+[11] Passenger #12 waiting elevator at floor 11
+[11] Passenger #64 waiting elevator at floor 13
+[12] Passenger #13 waiting elevator at floor 12
+[12] Passenger #94 waiting elevator at floor 18
+[13] Passenger #14 waiting elevator at floor 13
+[13] Passenger #65 waiting elevator at floor 14
+[14] Passenger #15 waiting elevator at floor 14
+[14] Passenger #95 waiting elevator at floor 19
+[14] Passenger #10 arrived at floor 18 via elevator #2
+[14] Passenger #6 arrived at floor 12 via elevator #4
+[15] Passenger #16 waiting elevator at floor 15
+[15] Passenger #66 waiting elevator at floor 15
+[16] Passenger #17 waiting elevator at floor 16
+[16] Passenger #96 waiting elevator at floor 20
+[16] Passenger #8 arrived at floor 15 via elevator #5
+[17] Passenger #18 waiting elevator at floor 17
+[17] Passenger #67 waiting elevator at floor 16
+[18] Passenger #19 waiting elevator at floor 18
+[18] Passenger #97 waiting elevator at floor 21
+[19] Passenger #20 waiting elevator at floor 19
+[19] Passenger #68 waiting elevator at floor 17
+[20] Passenger #21 waiting elevator at floor 20
+[20] Passenger #98 waiting elevator at floor 22
+[21] Passenger #22 waiting elevator at floor 21
+[21] Passenger #69 waiting elevator at floor 18
+[22] Passenger #23 waiting elevator at floor 22
+[22] Passenger #99 waiting elevator at floor 23
+[22] Passenger #65 arrived at floor 20 via elevator #5
+[22] Passenger #15 arrived at floor 20 via elevator #5
+[23] Passenger #24 waiting elevator at floor 23
+[23] Passenger #70 waiting elevator at floor 19
+[24] Passenger #25 waiting elevator at floor 24
+[24] Passenger #100 waiting elevator at floor 24
+[25] Passenger #26 waiting elevator at floor 25
+[25] Passenger #71 waiting elevator at floor 20
+[26] Passenger #27 waiting elevator at floor 1
+[27] Passenger #28 waiting elevator at floor 2
+[27] Passenger #72 waiting elevator at floor 21
+[28] Passenger #29 waiting elevator at floor 3
+[28] Passenger #20 arrived at floor 1 via elevator #5
+[29] Passenger #30 waiting elevator at floor 4
+[29] Passenger #73 waiting elevator at floor 22
+[30] Passenger #31 waiting elevator at floor 5
+[31] Passenger #32 waiting elevator at floor 6
+[31] Passenger #74 waiting elevator at floor 23
+[31] Passenger #69 arrived at floor 5 via elevator #4
+[32] Passenger #33 waiting elevator at floor 7
+[32] Passenger #28 arrived at floor 6 via elevator #1
+[32] Passenger #61 arrived at floor 5 via elevator #5
+[33] Passenger #34 waiting elevator at floor 8
+[33] Passenger #75 waiting elevator at floor 24
+[33] Passenger #62 arrived at floor 7 via elevator #2
+[33] Passenger #23 arrived at floor 7 via elevator #2
+[34] Passenger #35 waiting elevator at floor 9
+[35] Passenger #36 waiting elevator at floor 10
+[35] Passenger #76 waiting elevator at floor 25
+[36] Passenger #37 waiting elevator at floor 11
+[36] Passenger #2 arrived at floor 10 via elevator #1
+[36] Passenger #71 arrived at floor 10 via elevator #1
+[37] Passenger #38 waiting elevator at floor 12
+[37] Passenger #77 waiting elevator at floor 1
+[37] Passenger #64 arrived at floor 10 via elevator #4
+[38] Passenger #39 waiting elevator at floor 13
+[39] Passenger #40 waiting elevator at floor 14
+[39] Passenger #78 waiting elevator at floor 2
+[39] Passenger #18 arrived at floor 12 via elevator #2
+[39] Passenger #68 arrived at floor 12 via elevator #2
+[39] Passenger #4 arrived at floor 1 via elevator #4
+[39] Passenger #70 arrived at floor 1 via elevator #4
+[40] Passenger #41 waiting elevator at floor 15
+[40] Passenger #38 arrived at floor 13 via elevator #5
+[41] Passenger #42 waiting elevator at floor 16
+[41] Passenger #79 waiting elevator at floor 3
+[42] Passenger #43 waiting elevator at floor 17
+[43] Passenger #44 waiting elevator at floor 18
+[43] Passenger #80 waiting elevator at floor 4
+[44] Passenger #45 waiting elevator at floor 19
+[44] Passenger #34 arrived at floor 17 via elevator #5
+[45] Passenger #46 waiting elevator at floor 20
+[45] Passenger #81 waiting elevator at floor 5
+[46] Passenger #47 waiting elevator at floor 21
+[47] Passenger #48 waiting elevator at floor 22
+[47] Passenger #82 waiting elevator at floor 6
+[47] Passenger #35 arrived at floor 5 via elevator #4
+[48] Passenger #49 waiting elevator at floor 23
+[48] Passenger #78 arrived at floor 6 via elevator #1
+[49] Passenger #50 waiting elevator at floor 24
+[49] Passenger #83 waiting elevator at floor 7
+[50] Passenger #51 waiting elevator at floor 25
+[51] Passenger #52 waiting elevator at floor 1
+[51] Passenger #84 waiting elevator at floor 8
+[52] Passenger #53 waiting elevator at floor 2
+[53] Passenger #54 waiting elevator at floor 3
+[53] Passenger #85 waiting elevator at floor 9
+[54] Passenger #55 waiting elevator at floor 4
+[54] Passenger #99 arrived at floor 3 via elevator #7
+[54] Passenger #49 arrived at floor 3 via elevator #7
+[55] Passenger #56 waiting elevator at floor 5
+[55] Passenger #86 waiting elevator at floor 10
+[55] Passenger #33 arrived at floor 3 via elevator #2
+[55] Passenger #48 arrived at floor 9 via elevator #3
+[56] Passenger #57 waiting elevator at floor 6
+[56] Passenger #76 arrived at floor 4 via elevator #7
+[56] Passenger #51 arrived at floor 10 via elevator #8
+[57] Passenger #58 waiting elevator at floor 7
+[57] Passenger #87 waiting elevator at floor 11
+[57] Passenger #14 arrived at floor 10 via elevator #3
+[57] Passenger #21 arrived at floor 10 via elevator #3
+[57] Passenger #40 arrived at floor 10 via elevator #3
+[58] Passenger #59 waiting elevator at floor 8
+[58] Passenger #91 arrived at floor 7 via elevator #8
+[58] Passenger #73 arrived at floor 7 via elevator #8
+[59] Passenger #60 waiting elevator at floor 9
+[59] Passenger #88 waiting elevator at floor 12
+[59] Passenger #77 arrived at floor 11 via elevator #4
+[61] Passenger #56 arrived at floor 12 via elevator #4

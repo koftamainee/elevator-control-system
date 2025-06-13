@@ -66,7 +66,7 @@ std::pair<std::vector<Elevator>, size_t> parse_elevators_file(
   std::vector<Elevator> elevators;
   elevators.reserve(k_elevators);
   for (size_t i = 0; i < k_elevators; ++i) {
-    elevators.emplace_back(1, max_loads[i], n_floors);
+    elevators.emplace_back(i + 1, 1, max_loads[i], n_floors);
   }
 
   return {std::move(elevators), n_floors};

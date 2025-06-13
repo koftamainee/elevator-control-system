@@ -1,201 +1,826 @@
-[2025-06-13 13:28:58][INFORMATION] Parsed elevators file. Results: 8 elevators, 25 floors
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:00 to numerical: 0
-[2025-06-13 13:28:58][INFORMATION] Passenger #1 | 65.200000 kg | 00:00 | floor 1 → floor 15
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:01 to numerical: 1
-[2025-06-13 13:28:58][INFORMATION] Passenger #2 | 72.100000 kg | 00:01 | floor 1 → floor 10
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:02 to numerical: 2
-[2025-06-13 13:28:58][INFORMATION] Passenger #3 | 88.500000 kg | 00:02 | floor 2 → floor 24
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:03 to numerical: 3
-[2025-06-13 13:28:58][INFORMATION] Passenger #4 | 56.700000 kg | 00:03 | floor 3 → floor 1
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:04 to numerical: 4
-[2025-06-13 13:28:58][INFORMATION] Passenger #5 | 112.300000 kg | 00:04 | floor 1 → floor 8
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:05 to numerical: 5
-[2025-06-13 13:28:58][INFORMATION] Passenger #6 | 94.000000 kg | 00:05 | floor 5 → floor 12
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:06 to numerical: 6
-[2025-06-13 13:28:58][INFORMATION] Passenger #7 | 68.900000 kg | 00:06 | floor 6 → floor 3
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:07 to numerical: 7
-[2025-06-13 13:28:58][INFORMATION] Passenger #8 | 101.500000 kg | 00:07 | floor 7 → floor 15
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:08 to numerical: 8
-[2025-06-13 13:28:58][INFORMATION] Passenger #9 | 77.800000 kg | 00:08 | floor 8 → floor 2
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:09 to numerical: 9
-[2025-06-13 13:28:58][INFORMATION] Passenger #10 | 83.200000 kg | 00:09 | floor 9 → floor 18
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:10 to numerical: 10
-[2025-06-13 13:28:58][INFORMATION] Passenger #11 | 62.400000 kg | 00:10 | floor 10 → floor 5
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:11 to numerical: 11
-[2025-06-13 13:28:58][INFORMATION] Passenger #12 | 107.100000 kg | 00:11 | floor 11 → floor 7
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:12 to numerical: 12
-[2025-06-13 13:28:58][INFORMATION] Passenger #13 | 115.000000 kg | 00:12 | floor 12 → floor 1
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:13 to numerical: 13
-[2025-06-13 13:28:58][INFORMATION] Passenger #14 | 71.300000 kg | 00:13 | floor 13 → floor 10
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:14 to numerical: 14
-[2025-06-13 13:28:58][INFORMATION] Passenger #15 | 79.600000 kg | 00:14 | floor 14 → floor 20
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:15 to numerical: 15
-[2025-06-13 13:28:58][INFORMATION] Passenger #16 | 92.400000 kg | 00:15 | floor 15 → floor 3
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:16 to numerical: 16
-[2025-06-13 13:28:58][INFORMATION] Passenger #17 | 124.800000 kg | 00:16 | floor 16 → floor 8
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:17 to numerical: 17
-[2025-06-13 13:28:58][INFORMATION] Passenger #18 | 67.500000 kg | 00:17 | floor 17 → floor 12
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:18 to numerical: 18
-[2025-06-13 13:28:58][INFORMATION] Passenger #19 | 73.900000 kg | 00:18 | floor 18 → floor 5
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:19 to numerical: 19
-[2025-06-13 13:28:58][INFORMATION] Passenger #20 | 85.700000 kg | 00:19 | floor 19 → floor 1
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:20 to numerical: 20
-[2025-06-13 13:28:58][INFORMATION] Passenger #21 | 58.200000 kg | 00:20 | floor 20 → floor 10
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:21 to numerical: 21
-[2025-06-13 13:28:58][INFORMATION] Passenger #22 | 96.300000 kg | 00:21 | floor 21 → floor 15
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:22 to numerical: 22
-[2025-06-13 13:28:58][INFORMATION] Passenger #23 | 81.400000 kg | 00:22 | floor 22 → floor 7
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:23 to numerical: 23
-[2025-06-13 13:28:58][INFORMATION] Passenger #24 | 118.600000 kg | 00:23 | floor 23 → floor 2
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:24 to numerical: 24
-[2025-06-13 13:28:58][INFORMATION] Passenger #25 | 53.900000 kg | 00:24 | floor 24 → floor 19
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:25 to numerical: 25
-[2025-06-13 13:28:58][INFORMATION] Passenger #26 | 99.200000 kg | 00:25 | floor 25 → floor 4
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:26 to numerical: 26
-[2025-06-13 13:28:58][INFORMATION] Passenger #27 | 69.100000 kg | 00:26 | floor 1 → floor 11
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:27 to numerical: 27
-[2025-06-13 13:28:58][INFORMATION] Passenger #28 | 87.400000 kg | 00:27 | floor 2 → floor 6
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:28 to numerical: 28
-[2025-06-13 13:28:58][INFORMATION] Passenger #29 | 74.800000 kg | 00:28 | floor 3 → floor 14
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:29 to numerical: 29
-[2025-06-13 13:28:58][INFORMATION] Passenger #30 | 82.500000 kg | 00:29 | floor 4 → floor 1
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:30 to numerical: 30
-[2025-06-13 13:28:58][INFORMATION] Passenger #31 | 61.700000 kg | 00:30 | floor 5 → floor 16
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:31 to numerical: 31
-[2025-06-13 13:28:58][INFORMATION] Passenger #32 | 103.900000 kg | 00:31 | floor 6 → floor 9
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:32 to numerical: 32
-[2025-06-13 13:28:58][INFORMATION] Passenger #33 | 109.200000 kg | 00:32 | floor 7 → floor 3
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:33 to numerical: 33
-[2025-06-13 13:28:58][INFORMATION] Passenger #34 | 76.500000 kg | 00:33 | floor 8 → floor 17
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:34 to numerical: 34
-[2025-06-13 13:28:58][INFORMATION] Passenger #35 | 91.800000 kg | 00:34 | floor 9 → floor 5
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:35 to numerical: 35
-[2025-06-13 13:28:58][INFORMATION] Passenger #36 | 59.300000 kg | 00:35 | floor 10 → floor 12
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:36 to numerical: 36
-[2025-06-13 13:28:58][INFORMATION] Passenger #37 | 127.400000 kg | 00:36 | floor 11 → floor 8
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:37 to numerical: 37
-[2025-06-13 13:28:58][INFORMATION] Passenger #38 | 70.600000 kg | 00:37 | floor 12 → floor 13
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:38 to numerical: 38
-[2025-06-13 13:28:58][INFORMATION] Passenger #39 | 64.800000 kg | 00:38 | floor 13 → floor 2
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:39 to numerical: 39
-[2025-06-13 13:28:58][INFORMATION] Passenger #40 | 97.100000 kg | 00:39 | floor 14 → floor 10
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:40 to numerical: 40
-[2025-06-13 13:28:58][INFORMATION] Passenger #41 | 48.500000 kg | 00:40 | floor 15 → floor 7
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:41 to numerical: 41
-[2025-06-13 13:28:58][INFORMATION] Passenger #42 | 119.700000 kg | 00:41 | floor 16 → floor 18
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:42 to numerical: 42
-[2025-06-13 13:28:58][INFORMATION] Passenger #43 | 78.300000 kg | 00:42 | floor 17 → floor 4
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:43 to numerical: 43
-[2025-06-13 13:28:58][INFORMATION] Passenger #44 | 89.600000 kg | 00:43 | floor 18 → floor 11
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:44 to numerical: 44
-[2025-06-13 13:28:58][INFORMATION] Passenger #45 | 105.800000 kg | 00:44 | floor 19 → floor 6
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:45 to numerical: 45
-[2025-06-13 13:28:58][INFORMATION] Passenger #46 | 63.900000 kg | 00:45 | floor 20 → floor 14
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:46 to numerical: 46
-[2025-06-13 13:28:58][INFORMATION] Passenger #47 | 98.700000 kg | 00:46 | floor 21 → floor 1
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:47 to numerical: 47
-[2025-06-13 13:28:58][INFORMATION] Passenger #48 | 75.200000 kg | 00:47 | floor 22 → floor 9
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:48 to numerical: 48
-[2025-06-13 13:28:58][INFORMATION] Passenger #49 | 116.300000 kg | 00:48 | floor 23 → floor 3
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:49 to numerical: 49
-[2025-06-13 13:28:58][INFORMATION] Passenger #50 | 54.600000 kg | 00:49 | floor 24 → floor 16
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:50 to numerical: 50
-[2025-06-13 13:28:58][INFORMATION] Passenger #51 | 66.800000 kg | 00:50 | floor 25 → floor 10
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:51 to numerical: 51
-[2025-06-13 13:28:58][INFORMATION] Passenger #52 | 72.900000 kg | 00:51 | floor 1 → floor 10
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:52 to numerical: 52
-[2025-06-13 13:28:58][INFORMATION] Passenger #53 | 86.200000 kg | 00:52 | floor 2 → floor 10
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:53 to numerical: 53
-[2025-06-13 13:28:58][INFORMATION] Passenger #54 | 113.500000 kg | 00:53 | floor 3 → floor 1
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:54 to numerical: 54
-[2025-06-13 13:28:58][INFORMATION] Passenger #55 | 102.100000 kg | 00:54 | floor 4 → floor 8
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:55 to numerical: 55
-[2025-06-13 13:28:58][INFORMATION] Passenger #56 | 93.400000 kg | 00:55 | floor 5 → floor 12
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:56 to numerical: 56
-[2025-06-13 13:28:58][INFORMATION] Passenger #57 | 79.500000 kg | 00:56 | floor 6 → floor 3
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:57 to numerical: 57
-[2025-06-13 13:28:58][INFORMATION] Passenger #58 | 108.700000 kg | 00:57 | floor 7 → floor 15
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:58 to numerical: 58
-[2025-06-13 13:28:58][INFORMATION] Passenger #59 | 84.900000 kg | 00:58 | floor 8 → floor 2
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:59 to numerical: 59
-[2025-06-13 13:28:58][INFORMATION] Passenger #60 | 95.300000 kg | 00:59 | floor 9 → floor 18
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:05 to numerical: 5
-[2025-06-13 13:28:58][INFORMATION] Passenger #61 | 60.700000 kg | 00:05 | floor 10 → floor 5
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:07 to numerical: 7
-[2025-06-13 13:28:58][INFORMATION] Passenger #62 | 104.600000 kg | 00:07 | floor 11 → floor 7
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:09 to numerical: 9
-[2025-06-13 13:28:58][INFORMATION] Passenger #63 | 117.900000 kg | 00:09 | floor 12 → floor 1
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:11 to numerical: 11
-[2025-06-13 13:28:58][INFORMATION] Passenger #64 | 68.200000 kg | 00:11 | floor 13 → floor 10
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:13 to numerical: 13
-[2025-06-13 13:28:58][INFORMATION] Passenger #65 | 81.300000 kg | 00:13 | floor 14 → floor 20
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:15 to numerical: 15
-[2025-06-13 13:28:58][INFORMATION] Passenger #66 | 90.500000 kg | 00:15 | floor 15 → floor 3
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:17 to numerical: 17
-[2025-06-13 13:28:58][INFORMATION] Passenger #67 | 125.100000 kg | 00:17 | floor 16 → floor 8
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:19 to numerical: 19
-[2025-06-13 13:28:58][INFORMATION] Passenger #68 | 71.400000 kg | 00:19 | floor 17 → floor 12
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:21 to numerical: 21
-[2025-06-13 13:28:58][INFORMATION] Passenger #69 | 77.600000 kg | 00:21 | floor 18 → floor 5
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:23 to numerical: 23
-[2025-06-13 13:28:58][INFORMATION] Passenger #70 | 83.800000 kg | 00:23 | floor 19 → floor 1
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:25 to numerical: 25
-[2025-06-13 13:28:58][INFORMATION] Passenger #71 | 57.300000 kg | 00:25 | floor 20 → floor 10
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:27 to numerical: 27
-[2025-06-13 13:28:58][INFORMATION] Passenger #72 | 94.200000 kg | 00:27 | floor 21 → floor 15
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:29 to numerical: 29
-[2025-06-13 13:28:58][INFORMATION] Passenger #73 | 80.500000 kg | 00:29 | floor 22 → floor 7
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:31 to numerical: 31
-[2025-06-13 13:28:58][INFORMATION] Passenger #74 | 114.800000 kg | 00:31 | floor 23 → floor 2
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:33 to numerical: 33
-[2025-06-13 13:28:58][INFORMATION] Passenger #75 | 52.400000 kg | 00:33 | floor 24 → floor 19
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:35 to numerical: 35
-[2025-06-13 13:28:58][INFORMATION] Passenger #76 | 100.300000 kg | 00:35 | floor 25 → floor 4
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:37 to numerical: 37
-[2025-06-13 13:28:58][INFORMATION] Passenger #77 | 70.900000 kg | 00:37 | floor 1 → floor 11
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:39 to numerical: 39
-[2025-06-13 13:28:58][INFORMATION] Passenger #78 | 85.400000 kg | 00:39 | floor 2 → floor 6
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:41 to numerical: 41
-[2025-06-13 13:28:58][INFORMATION] Passenger #79 | 73.700000 kg | 00:41 | floor 3 → floor 14
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:43 to numerical: 43
-[2025-06-13 13:28:58][INFORMATION] Passenger #80 | 82.600000 kg | 00:43 | floor 4 → floor 1
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:45 to numerical: 45
-[2025-06-13 13:28:58][INFORMATION] Passenger #81 | 62.800000 kg | 00:45 | floor 5 → floor 16
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:47 to numerical: 47
-[2025-06-13 13:28:58][INFORMATION] Passenger #82 | 106.500000 kg | 00:47 | floor 6 → floor 9
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:49 to numerical: 49
-[2025-06-13 13:28:58][INFORMATION] Passenger #83 | 110.800000 kg | 00:49 | floor 7 → floor 3
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:51 to numerical: 51
-[2025-06-13 13:28:58][INFORMATION] Passenger #84 | 75.100000 kg | 00:51 | floor 8 → floor 17
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:53 to numerical: 53
-[2025-06-13 13:28:58][INFORMATION] Passenger #85 | 92.700000 kg | 00:53 | floor 9 → floor 5
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:55 to numerical: 55
-[2025-06-13 13:28:58][INFORMATION] Passenger #86 | 58.400000 kg | 00:55 | floor 10 → floor 12
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:57 to numerical: 57
-[2025-06-13 13:28:58][INFORMATION] Passenger #87 | 126.300000 kg | 00:57 | floor 11 → floor 8
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:59 to numerical: 59
-[2025-06-13 13:28:58][INFORMATION] Passenger #88 | 69.500000 kg | 00:59 | floor 12 → floor 13
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:02 to numerical: 2
-[2025-06-13 13:28:58][INFORMATION] Passenger #89 | 65.700000 kg | 00:02 | floor 13 → floor 2
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:04 to numerical: 4
-[2025-06-13 13:28:58][INFORMATION] Passenger #90 | 96.800000 kg | 00:04 | floor 14 → floor 10
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:06 to numerical: 6
-[2025-06-13 13:28:58][INFORMATION] Passenger #91 | 47.600000 kg | 00:06 | floor 15 → floor 7
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:08 to numerical: 8
-[2025-06-13 13:28:58][INFORMATION] Passenger #92 | 120.900000 kg | 00:08 | floor 16 → floor 18
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:10 to numerical: 10
-[2025-06-13 13:28:58][INFORMATION] Passenger #93 | 78.900000 kg | 00:10 | floor 17 → floor 4
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:12 to numerical: 12
-[2025-06-13 13:28:58][INFORMATION] Passenger #94 | 88.100000 kg | 00:12 | floor 18 → floor 11
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:14 to numerical: 14
-[2025-06-13 13:28:58][INFORMATION] Passenger #95 | 104.200000 kg | 00:14 | floor 19 → floor 6
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:16 to numerical: 16
-[2025-06-13 13:28:58][INFORMATION] Passenger #96 | 64.500000 kg | 00:16 | floor 20 → floor 14
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:18 to numerical: 18
-[2025-06-13 13:28:58][INFORMATION] Passenger #97 | 99.800000 kg | 00:18 | floor 21 → floor 1
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:20 to numerical: 20
-[2025-06-13 13:28:58][INFORMATION] Passenger #98 | 74.300000 kg | 00:20 | floor 22 → floor 9
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:22 to numerical: 22
-[2025-06-13 13:28:58][INFORMATION] Passenger #99 | 115.600000 kg | 00:22 | floor 23 → floor 3
-[2025-06-13 13:28:58][INFORMATION] Parsed time 00:24 to numerical: 24
-[2025-06-13 13:28:58][INFORMATION] Passenger #100 | 55.900000 kg | 00:24 | floor 24 → floor 16
+Parsed elevators file. Results: 8 elevators, 25 floors
+Parsed time 00:00 to numerical: 0
+Passenger #1 | 65.200000 kg | 00:00 | floor 1 → floor 15
+Parsed time 00:01 to numerical: 1
+Passenger #2 | 72.100000 kg | 00:01 | floor 1 → floor 10
+Parsed time 00:02 to numerical: 2
+Passenger #3 | 88.500000 kg | 00:02 | floor 2 → floor 24
+Parsed time 00:03 to numerical: 3
+Passenger #4 | 56.700000 kg | 00:03 | floor 3 → floor 1
+Parsed time 00:04 to numerical: 4
+Passenger #5 | 112.300000 kg | 00:04 | floor 1 → floor 8
+Parsed time 00:05 to numerical: 5
+Passenger #6 | 94.000000 kg | 00:05 | floor 5 → floor 12
+Parsed time 00:06 to numerical: 6
+Passenger #7 | 68.900000 kg | 00:06 | floor 6 → floor 3
+Parsed time 00:07 to numerical: 7
+Passenger #8 | 101.500000 kg | 00:07 | floor 7 → floor 15
+Parsed time 00:08 to numerical: 8
+Passenger #9 | 77.800000 kg | 00:08 | floor 8 → floor 2
+Parsed time 00:09 to numerical: 9
+Passenger #10 | 83.200000 kg | 00:09 | floor 9 → floor 18
+Parsed time 00:10 to numerical: 10
+Passenger #11 | 62.400000 kg | 00:10 | floor 10 → floor 5
+Parsed time 00:11 to numerical: 11
+Passenger #12 | 107.100000 kg | 00:11 | floor 11 → floor 7
+Parsed time 00:12 to numerical: 12
+Passenger #13 | 115.000000 kg | 00:12 | floor 12 → floor 1
+Parsed time 00:13 to numerical: 13
+Passenger #14 | 71.300000 kg | 00:13 | floor 13 → floor 10
+Parsed time 00:14 to numerical: 14
+Passenger #15 | 79.600000 kg | 00:14 | floor 14 → floor 20
+Parsed time 00:15 to numerical: 15
+Passenger #16 | 92.400000 kg | 00:15 | floor 15 → floor 3
+Parsed time 00:16 to numerical: 16
+Passenger #17 | 124.800000 kg | 00:16 | floor 16 → floor 8
+Parsed time 00:17 to numerical: 17
+Passenger #18 | 67.500000 kg | 00:17 | floor 17 → floor 12
+Parsed time 00:18 to numerical: 18
+Passenger #19 | 73.900000 kg | 00:18 | floor 18 → floor 5
+Parsed time 00:19 to numerical: 19
+Passenger #20 | 85.700000 kg | 00:19 | floor 19 → floor 1
+Parsed time 00:20 to numerical: 20
+Passenger #21 | 58.200000 kg | 00:20 | floor 20 → floor 10
+Parsed time 00:21 to numerical: 21
+Passenger #22 | 96.300000 kg | 00:21 | floor 21 → floor 15
+Parsed time 00:22 to numerical: 22
+Passenger #23 | 81.400000 kg | 00:22 | floor 22 → floor 7
+Parsed time 00:23 to numerical: 23
+Passenger #24 | 118.600000 kg | 00:23 | floor 23 → floor 2
+Parsed time 00:24 to numerical: 24
+Passenger #25 | 53.900000 kg | 00:24 | floor 24 → floor 19
+Parsed time 00:25 to numerical: 25
+Passenger #26 | 99.200000 kg | 00:25 | floor 25 → floor 4
+Parsed time 00:26 to numerical: 26
+Passenger #27 | 69.100000 kg | 00:26 | floor 1 → floor 11
+Parsed time 00:27 to numerical: 27
+Passenger #28 | 87.400000 kg | 00:27 | floor 2 → floor 6
+Parsed time 00:28 to numerical: 28
+Passenger #29 | 74.800000 kg | 00:28 | floor 3 → floor 14
+Parsed time 00:29 to numerical: 29
+Passenger #30 | 82.500000 kg | 00:29 | floor 4 → floor 1
+Parsed time 00:30 to numerical: 30
+Passenger #31 | 61.700000 kg | 00:30 | floor 5 → floor 16
+Parsed time 00:31 to numerical: 31
+Passenger #32 | 103.900000 kg | 00:31 | floor 6 → floor 9
+Parsed time 00:32 to numerical: 32
+Passenger #33 | 109.200000 kg | 00:32 | floor 7 → floor 3
+Parsed time 00:33 to numerical: 33
+Passenger #34 | 76.500000 kg | 00:33 | floor 8 → floor 17
+Parsed time 00:34 to numerical: 34
+Passenger #35 | 91.800000 kg | 00:34 | floor 9 → floor 5
+Parsed time 00:35 to numerical: 35
+Passenger #36 | 59.300000 kg | 00:35 | floor 10 → floor 12
+Parsed time 00:36 to numerical: 36
+Passenger #37 | 127.400000 kg | 00:36 | floor 11 → floor 8
+Parsed time 00:37 to numerical: 37
+Passenger #38 | 70.600000 kg | 00:37 | floor 12 → floor 13
+Parsed time 00:38 to numerical: 38
+Passenger #39 | 64.800000 kg | 00:38 | floor 13 → floor 2
+Parsed time 00:39 to numerical: 39
+Passenger #40 | 97.100000 kg | 00:39 | floor 14 → floor 10
+Parsed time 00:40 to numerical: 40
+Passenger #41 | 48.500000 kg | 00:40 | floor 15 → floor 7
+Parsed time 00:41 to numerical: 41
+Passenger #42 | 119.700000 kg | 00:41 | floor 16 → floor 18
+Parsed time 00:42 to numerical: 42
+Passenger #43 | 78.300000 kg | 00:42 | floor 17 → floor 4
+Parsed time 00:43 to numerical: 43
+Passenger #44 | 89.600000 kg | 00:43 | floor 18 → floor 11
+Parsed time 00:44 to numerical: 44
+Passenger #45 | 105.800000 kg | 00:44 | floor 19 → floor 6
+Parsed time 00:45 to numerical: 45
+Passenger #46 | 63.900000 kg | 00:45 | floor 20 → floor 14
+Parsed time 00:46 to numerical: 46
+Passenger #47 | 98.700000 kg | 00:46 | floor 21 → floor 1
+Parsed time 00:47 to numerical: 47
+Passenger #48 | 75.200000 kg | 00:47 | floor 22 → floor 9
+Parsed time 00:48 to numerical: 48
+Passenger #49 | 116.300000 kg | 00:48 | floor 23 → floor 3
+Parsed time 00:49 to numerical: 49
+Passenger #50 | 54.600000 kg | 00:49 | floor 24 → floor 16
+Parsed time 00:50 to numerical: 50
+Passenger #51 | 66.800000 kg | 00:50 | floor 25 → floor 10
+Parsed time 00:51 to numerical: 51
+Passenger #52 | 72.900000 kg | 00:51 | floor 1 → floor 10
+Parsed time 00:52 to numerical: 52
+Passenger #53 | 86.200000 kg | 00:52 | floor 2 → floor 10
+Parsed time 00:53 to numerical: 53
+Passenger #54 | 113.500000 kg | 00:53 | floor 3 → floor 1
+Parsed time 00:54 to numerical: 54
+Passenger #55 | 102.100000 kg | 00:54 | floor 4 → floor 8
+Parsed time 00:55 to numerical: 55
+Passenger #56 | 93.400000 kg | 00:55 | floor 5 → floor 12
+Parsed time 00:56 to numerical: 56
+Passenger #57 | 79.500000 kg | 00:56 | floor 6 → floor 3
+Parsed time 00:57 to numerical: 57
+Passenger #58 | 108.700000 kg | 00:57 | floor 7 → floor 15
+Parsed time 00:58 to numerical: 58
+Passenger #59 | 84.900000 kg | 00:58 | floor 8 → floor 2
+Parsed time 00:59 to numerical: 59
+Passenger #60 | 95.300000 kg | 00:59 | floor 9 → floor 18
+Parsed time 00:05 to numerical: 5
+Passenger #61 | 60.700000 kg | 00:05 | floor 10 → floor 5
+Parsed time 00:07 to numerical: 7
+Passenger #62 | 104.600000 kg | 00:07 | floor 11 → floor 7
+Parsed time 00:09 to numerical: 9
+Passenger #63 | 117.900000 kg | 00:09 | floor 12 → floor 1
+Parsed time 00:11 to numerical: 11
+Passenger #64 | 68.200000 kg | 00:11 | floor 13 → floor 10
+Parsed time 00:13 to numerical: 13
+Passenger #65 | 81.300000 kg | 00:13 | floor 14 → floor 20
+Parsed time 00:15 to numerical: 15
+Passenger #66 | 90.500000 kg | 00:15 | floor 15 → floor 3
+Parsed time 00:17 to numerical: 17
+Passenger #67 | 125.100000 kg | 00:17 | floor 16 → floor 8
+Parsed time 00:19 to numerical: 19
+Passenger #68 | 71.400000 kg | 00:19 | floor 17 → floor 12
+Parsed time 00:21 to numerical: 21
+Passenger #69 | 77.600000 kg | 00:21 | floor 18 → floor 5
+Parsed time 00:23 to numerical: 23
+Passenger #70 | 83.800000 kg | 00:23 | floor 19 → floor 1
+Parsed time 00:25 to numerical: 25
+Passenger #71 | 57.300000 kg | 00:25 | floor 20 → floor 10
+Parsed time 00:27 to numerical: 27
+Passenger #72 | 94.200000 kg | 00:27 | floor 21 → floor 15
+Parsed time 00:29 to numerical: 29
+Passenger #73 | 80.500000 kg | 00:29 | floor 22 → floor 7
+Parsed time 00:31 to numerical: 31
+Passenger #74 | 114.800000 kg | 00:31 | floor 23 → floor 2
+Parsed time 00:33 to numerical: 33
+Passenger #75 | 52.400000 kg | 00:33 | floor 24 → floor 19
+Parsed time 00:35 to numerical: 35
+Passenger #76 | 100.300000 kg | 00:35 | floor 25 → floor 4
+Parsed time 00:37 to numerical: 37
+Passenger #77 | 70.900000 kg | 00:37 | floor 1 → floor 11
+Parsed time 00:39 to numerical: 39
+Passenger #78 | 85.400000 kg | 00:39 | floor 2 → floor 6
+Parsed time 00:41 to numerical: 41
+Passenger #79 | 73.700000 kg | 00:41 | floor 3 → floor 14
+Parsed time 00:43 to numerical: 43
+Passenger #80 | 82.600000 kg | 00:43 | floor 4 → floor 1
+Parsed time 00:45 to numerical: 45
+Passenger #81 | 62.800000 kg | 00:45 | floor 5 → floor 16
+Parsed time 00:47 to numerical: 47
+Passenger #82 | 106.500000 kg | 00:47 | floor 6 → floor 9
+Parsed time 00:49 to numerical: 49
+Passenger #83 | 110.800000 kg | 00:49 | floor 7 → floor 3
+Parsed time 00:51 to numerical: 51
+Passenger #84 | 75.100000 kg | 00:51 | floor 8 → floor 17
+Parsed time 00:53 to numerical: 53
+Passenger #85 | 92.700000 kg | 00:53 | floor 9 → floor 5
+Parsed time 00:55 to numerical: 55
+Passenger #86 | 58.400000 kg | 00:55 | floor 10 → floor 12
+Parsed time 00:57 to numerical: 57
+Passenger #87 | 126.300000 kg | 00:57 | floor 11 → floor 8
+Parsed time 00:59 to numerical: 59
+Passenger #88 | 69.500000 kg | 00:59 | floor 12 → floor 13
+Parsed time 00:02 to numerical: 2
+Passenger #89 | 65.700000 kg | 00:02 | floor 13 → floor 2
+Parsed time 00:04 to numerical: 4
+Passenger #90 | 96.800000 kg | 00:04 | floor 14 → floor 10
+Parsed time 00:06 to numerical: 6
+Passenger #91 | 47.600000 kg | 00:06 | floor 15 → floor 7
+Parsed time 00:08 to numerical: 8
+Passenger #92 | 120.900000 kg | 00:08 | floor 16 → floor 18
+Parsed time 00:10 to numerical: 10
+Passenger #93 | 78.900000 kg | 00:10 | floor 17 → floor 4
+Parsed time 00:12 to numerical: 12
+Passenger #94 | 88.100000 kg | 00:12 | floor 18 → floor 11
+Parsed time 00:14 to numerical: 14
+Passenger #95 | 104.200000 kg | 00:14 | floor 19 → floor 6
+Parsed time 00:16 to numerical: 16
+Passenger #96 | 64.500000 kg | 00:16 | floor 20 → floor 14
+Parsed time 00:18 to numerical: 18
+Passenger #97 | 99.800000 kg | 00:18 | floor 21 → floor 1
+Parsed time 00:20 to numerical: 20
+Passenger #98 | 74.300000 kg | 00:20 | floor 22 → floor 9
+Parsed time 00:22 to numerical: 22
+Passenger #99 | 115.600000 kg | 00:22 | floor 23 → floor 3
+Parsed time 00:24 to numerical: 24
+Passenger #100 | 55.900000 kg | 00:24 | floor 24 → floor 16
+[0] Passenger #1 waiting elevator at floor 1
+[0] Elevator #1 interrupted to floor 1
+[1] Passenger #2 waiting elevator at floor 1
+[1] Elevator #1 arrived at floor 1
+[1] Passenger #1 entered elevator on floor 1
+[1] Passenger #2 entered elevator on floor 1
+[1] Elevator #1 started idleing (no buttons pressed)
+[2] Passenger #3 waiting elevator at floor 2
+[2] Passenger #89 waiting elevator at floor 13
+[2] Elevator #2 interrupted to floor 2
+[2] Elevator #3 interrupted to floor 13
+[3] Passenger #4 waiting elevator at floor 3
+[3] Elevator #4 interrupted to floor 3
+[3] Elevator #2 arrived at floor 2
+[3] Passenger #3 entered elevator on floor 2
+[3] Elevator #2 started idleing (no buttons pressed)
+[3] Elevator #3 arrived at floor 13
+[3] Passenger #89 entered elevator on floor 13
+[3] Elevator #3 started idleing (no buttons pressed)
+[4] Passenger #5 waiting elevator at floor 1
+[4] Passenger #90 waiting elevator at floor 14
+[4] Elevator #5 interrupted to floor 1
+[4] Elevator #6 interrupted to floor 14
+[4] Elevator #4 arrived at floor 3
+[4] Passenger #4 entered elevator on floor 3
+[4] Elevator #4 started idleing (no buttons pressed)
+[5] Passenger #6 waiting elevator at floor 5
+[5] Passenger #61 waiting elevator at floor 10
+[5] Elevator #7 interrupted to floor 5
+[5] Elevator #8 interrupted to floor 10
+[5] Elevator #5 arrived at floor 1
+[5] Passenger #5 entered elevator on floor 1
+[5] Elevator #5 started idleing (no buttons pressed)
+[5] Elevator #6 arrived at floor 14
+[5] Passenger #90 entered elevator on floor 14
+[5] Elevator #6 started idleing (no buttons pressed)
+[6] Passenger #7 waiting elevator at floor 6
+[6] Passenger #91 waiting elevator at floor 15
+[6] Elevator #1 interrupted to floor 6
+[6] Elevator #2 interrupted to floor 15
+[6] Elevator #7 arrived at floor 5
+[6] Passenger #6 entered elevator on floor 5
+[6] Elevator #7 started idleing (no buttons pressed)
+[6] Elevator #8 arrived at floor 10
+[6] Passenger #61 entered elevator on floor 10
+[6] Elevator #8 started idleing (no buttons pressed)
+[7] Passenger #8 waiting elevator at floor 7
+[7] Passenger #62 waiting elevator at floor 11
+[7] Elevator #3 interrupted to floor 7
+[7] Elevator #4 interrupted to floor 11
+[7] Elevator #1 arrived at floor 6
+[7] Passenger #7 entered elevator on floor 6
+[7] Elevator #1 started idleing (no buttons pressed)
+[7] Elevator #2 arrived at floor 15
+[7] Passenger #91 entered elevator on floor 15
+[7] Elevator #2 started idleing (no buttons pressed)
+[8] Passenger #9 waiting elevator at floor 8
+[8] Passenger #92 waiting elevator at floor 16
+[8] Elevator #1 interrupted to floor 8
+[8] Elevator #2 interrupted to floor 16
+[8] Elevator #3 arrived at floor 7
+[8] Passenger #8 entered elevator on floor 7
+[8] Elevator #3 started idleing (no buttons pressed)
+[8] Elevator #4 arrived at floor 11
+[8] Passenger #62 entered elevator on floor 11
+[8] Elevator #4 started idleing (no buttons pressed)
+[9] Passenger #10 waiting elevator at floor 9
+[9] Passenger #63 waiting elevator at floor 12
+[9] Elevator #3 interrupted to floor 9
+[9] Elevator #4 interrupted to floor 12
+[9] Elevator #1 arrived at floor 8
+[9] Passenger #9 entered elevator on floor 8
+[9] Elevator #1 started idleing (no buttons pressed)
+[9] Elevator #2 arrived at floor 16
+[9] Passenger #92 entered elevator on floor 16
+[9] Elevator #2 started idleing (no buttons pressed)
+[10] Passenger #11 waiting elevator at floor 10
+[10] Passenger #93 waiting elevator at floor 17
+[10] Elevator #1 interrupted to floor 10
+[10] Elevator #2 interrupted to floor 17
+[10] Elevator #3 arrived at floor 9
+[10] Passenger #10 entered elevator on floor 9
+[10] Elevator #3 started idleing (no buttons pressed)
+[10] Elevator #4 arrived at floor 12
+[10] Passenger #63 entered elevator on floor 12
+[10] Elevator #4 started idleing (no buttons pressed)
+[11] Passenger #12 waiting elevator at floor 11
+[11] Passenger #64 waiting elevator at floor 13
+[11] Elevator #3 interrupted to floor 11
+[11] Elevator #4 interrupted to floor 13
+[11] Elevator #1 arrived at floor 10
+[11] Passenger #2 arrived at floor 10 via elevator #1
+[11] Passenger #11 entered elevator on floor 10
+[11] Elevator #1 started idleing (no buttons pressed)
+[11] Elevator #2 arrived at floor 17
+[11] Passenger #93 entered elevator on floor 17
+[11] Elevator #2 started idleing (no buttons pressed)
+[12] Passenger #13 waiting elevator at floor 12
+[12] Passenger #94 waiting elevator at floor 18
+[12] Elevator #1 interrupted to floor 12
+[12] Elevator #2 interrupted to floor 18
+[12] Elevator #3 arrived at floor 11
+[12] Passenger #12 entered elevator on floor 11
+[12] Elevator #3 started idleing (no buttons pressed)
+[12] Elevator #4 arrived at floor 13
+[12] Passenger #64 entered elevator on floor 13
+[12] Elevator #4 started idleing (no buttons pressed)
+[13] Passenger #14 waiting elevator at floor 13
+[13] Passenger #65 waiting elevator at floor 14
+[13] Elevator #3 interrupted to floor 13
+[13] Elevator #4 interrupted to floor 14
+[13] Elevator #1 arrived at floor 12
+[13] Passenger #13 entered elevator on floor 12
+[13] Elevator #1 started idleing (no buttons pressed)
+[13] Elevator #2 arrived at floor 18
+[13] Passenger #92 arrived at floor 18 via elevator #2
+[13] Passenger #94 entered elevator on floor 18
+[13] Elevator #2 started idleing (no buttons pressed)
+[14] Passenger #15 waiting elevator at floor 14
+[14] Passenger #95 waiting elevator at floor 19
+[14] Elevator #1 interrupted to floor 19
+[14] Elevator #3 arrived at floor 13
+[14] Passenger #14 entered elevator on floor 13
+[14] Elevator #3 started idleing (no buttons pressed)
+[14] Elevator #4 arrived at floor 14
+[14] Passenger #65 entered elevator on floor 14
+[14] Passenger #15 entered elevator on floor 14
+[14] Elevator #4 started idleing (no buttons pressed)
+[15] Passenger #16 waiting elevator at floor 15
+[15] Passenger #66 waiting elevator at floor 15
+[15] Elevator #2 interrupted to floor 15
+[15] Elevator #1 arrived at floor 19
+[15] Passenger #95 entered elevator on floor 19
+[15] Elevator #1 started idleing (no buttons pressed)
+[16] Passenger #17 waiting elevator at floor 16
+[16] Passenger #96 waiting elevator at floor 20
+[16] Elevator #1 interrupted to floor 16
+[16] Elevator #3 interrupted to floor 20
+[16] Elevator #2 arrived at floor 15
+[16] Passenger #16 entered elevator on floor 15
+[16] Passenger #66 entered elevator on floor 15
+[16] Elevator #2 started idleing (no buttons pressed)
+[17] Passenger #18 waiting elevator at floor 17
+[17] Passenger #67 waiting elevator at floor 16
+[17] Elevator #2 interrupted to floor 17
+[17] Elevator #1 arrived at floor 16
+[17] Passenger #17 entered elevator on floor 16
+[17] Passenger #67 entered elevator on floor 16
+[17] Elevator #1 started idleing (no buttons pressed)
+[17] Elevator #3 arrived at floor 20
+[17] Passenger #96 entered elevator on floor 20
+[17] Elevator #3 started idleing (no buttons pressed)
+[18] Passenger #19 waiting elevator at floor 18
+[18] Passenger #97 waiting elevator at floor 21
+[18] Elevator #1 interrupted to floor 18
+[18] Elevator #3 interrupted to floor 21
+[18] Elevator #2 arrived at floor 17
+[18] Passenger #18 entered elevator on floor 17
+[18] Elevator #2 started idleing (no buttons pressed)
+[19] Passenger #20 waiting elevator at floor 19
+[19] Passenger #68 waiting elevator at floor 17
+[19] Elevator #2 interrupted to floor 17
+[19] Elevator #4 interrupted to floor 19
+[19] Elevator #1 arrived at floor 18
+[19] Passenger #19 entered elevator on floor 18
+[19] Elevator #1 started idleing (no buttons pressed)
+[19] Elevator #3 arrived at floor 21
+[19] Passenger #97 entered elevator on floor 21
+[19] Elevator #3 started idleing (no buttons pressed)
+[20] Passenger #21 waiting elevator at floor 20
+[20] Passenger #98 waiting elevator at floor 22
+[20] Elevator #1 interrupted to floor 20
+[20] Elevator #3 interrupted to floor 22
+[20] Elevator #2 arrived at floor 17
+[20] Passenger #68 entered elevator on floor 17
+[20] Elevator #2 started idleing (no buttons pressed)
+[20] Elevator #4 arrived at floor 19
+[20] Passenger #20 entered elevator on floor 19
+[20] Elevator #4 started idleing (no buttons pressed)
+[21] Passenger #22 waiting elevator at floor 21
+[21] Passenger #69 waiting elevator at floor 18
+[21] Elevator #2 interrupted to floor 18
+[21] Elevator #4 interrupted to floor 21
+[21] Elevator #1 arrived at floor 20
+[21] Passenger #21 entered elevator on floor 20
+[21] Elevator #1 started idleing (no buttons pressed)
+[21] Elevator #3 arrived at floor 22
+[21] Passenger #98 entered elevator on floor 22
+[21] Elevator #3 started idleing (no buttons pressed)
+[22] Passenger #23 waiting elevator at floor 22
+[22] Passenger #99 waiting elevator at floor 23
+[22] Elevator #1 interrupted to floor 22
+[22] Elevator #3 interrupted to floor 23
+[22] Elevator #2 arrived at floor 18
+[22] Passenger #69 entered elevator on floor 18
+[22] Elevator #2 started idleing (no buttons pressed)
+[22] Elevator #4 arrived at floor 21
+[22] Passenger #22 entered elevator on floor 21
+[22] Elevator #4 started idleing (no buttons pressed)
+[23] Passenger #24 waiting elevator at floor 23
+[23] Passenger #70 waiting elevator at floor 19
+[23] Elevator #2 interrupted to floor 19
+[23] Elevator #1 arrived at floor 22
+[23] Passenger #23 entered elevator on floor 22
+[23] Elevator #1 started idleing (no buttons pressed)
+[23] Elevator #3 arrived at floor 23
+[23] Passenger #99 entered elevator on floor 23
+[23] Passenger #24 entered elevator on floor 23
+[23] Elevator #3 started idleing (no buttons pressed)
+[24] Passenger #25 waiting elevator at floor 24
+[24] Passenger #100 waiting elevator at floor 24
+[24] Elevator #1 interrupted to floor 24
+[24] Elevator #2 arrived at floor 19
+[24] Passenger #70 entered elevator on floor 19
+[24] Elevator #2 started idleing (no buttons pressed)
+[25] Passenger #26 waiting elevator at floor 25
+[25] Passenger #71 waiting elevator at floor 20
+[25] Elevator #2 interrupted to floor 20
+[25] Elevator #3 interrupted to floor 25
+[25] Elevator #1 arrived at floor 24
+[25] Elevator #1 started idleing (no buttons pressed)
+[26] Passenger #27 waiting elevator at floor 1
+[26] Elevator #1 interrupted to floor 1
+[26] Elevator #4 interrupted to floor 24
+[26] Elevator #2 arrived at floor 20
+[26] Elevator #2 started idleing (no buttons pressed)
+[26] Elevator #3 arrived at floor 25
+[26] Passenger #26 entered elevator on floor 25
+[26] Elevator #3 started idleing (no buttons pressed)
+[27] Passenger #28 waiting elevator at floor 2
+[27] Passenger #72 waiting elevator at floor 21
+[27] Elevator #2 interrupted to floor 2
+[27] Elevator #3 interrupted to floor 20
+[27] Elevator #5 interrupted to floor 21
+[27] Elevator #1 arrived at floor 1
+[27] Passenger #13 arrived at floor 1 via elevator #1
+[27] Passenger #27 entered elevator on floor 1
+[27] Elevator #1 started idleing (no buttons pressed)
+[27] Elevator #4 arrived at floor 24
+[27] Passenger #25 entered elevator on floor 24
+[27] Passenger #100 entered elevator on floor 24
+[27] Elevator #4 started idleing (no buttons pressed)
+[28] Passenger #29 waiting elevator at floor 3
+[28] Elevator #1 interrupted to floor 3
+[28] Elevator #2 arrived at floor 2
+[28] Elevator #2 started idleing (no buttons pressed)
+[28] Elevator #3 arrived at floor 20
+[28] Passenger #71 entered elevator on floor 20
+[28] Elevator #3 started idleing (no buttons pressed)
+[28] Elevator #5 arrived at floor 21
+[28] Passenger #72 entered elevator on floor 21
+[28] Elevator #5 started idleing (no buttons pressed)
+[29] Passenger #30 waiting elevator at floor 4
+[29] Passenger #73 waiting elevator at floor 22
+[29] Elevator #2 interrupted to floor 2
+[29] Elevator #3 interrupted to floor 4
+[29] Elevator #4 interrupted to floor 22
+[29] Elevator #1 arrived at floor 3
+[29] Passenger #7 arrived at floor 3 via elevator #1
+[29] Passenger #29 entered elevator on floor 3
+[29] Elevator #1 started idleing (no buttons pressed)
+[30] Passenger #31 waiting elevator at floor 5
+[30] Elevator #1 interrupted to floor 5
+[30] Elevator #2 arrived at floor 2
+[30] Elevator #2 started idleing (no buttons pressed)
+[30] Elevator #3 arrived at floor 4
+[30] Passenger #26 arrived at floor 4 via elevator #3
+[30] Passenger #30 entered elevator on floor 4
+[30] Elevator #3 started idleing (no buttons pressed)
+[30] Elevator #4 arrived at floor 22
+[30] Passenger #73 entered elevator on floor 22
+[30] Elevator #4 started idleing (no buttons pressed)
+[31] Passenger #32 waiting elevator at floor 6
+[31] Passenger #74 waiting elevator at floor 23
+[31] Elevator #2 interrupted to floor 2
+[31] Elevator #3 interrupted to floor 6
+[31] Elevator #4 interrupted to floor 23
+[31] Elevator #1 arrived at floor 5
+[31] Passenger #11 arrived at floor 5 via elevator #1
+[31] Passenger #19 arrived at floor 5 via elevator #1
+[31] Passenger #31 entered elevator on floor 5
+[31] Elevator #1 started idleing (no buttons pressed)
+[32] Passenger #33 waiting elevator at floor 7
+[32] Elevator #1 interrupted to floor 7
+[32] Elevator #2 arrived at floor 2
+[32] Elevator #2 started idleing (no buttons pressed)
+[32] Elevator #3 arrived at floor 6
+[32] Passenger #32 entered elevator on floor 6
+[32] Elevator #3 started idleing (no buttons pressed)
+[32] Elevator #4 arrived at floor 23
+[32] Passenger #74 entered elevator on floor 23
+[32] Elevator #4 started idleing (no buttons pressed)
+[33] Passenger #34 waiting elevator at floor 8
+[33] Passenger #75 waiting elevator at floor 24
+[33] Elevator #2 interrupted to floor 2
+[33] Elevator #3 interrupted to floor 8
+[33] Elevator #4 interrupted to floor 24
+[33] Elevator #1 arrived at floor 7
+[33] Passenger #23 arrived at floor 7 via elevator #1
+[33] Passenger #33 entered elevator on floor 7
+[33] Elevator #1 started idleing (no buttons pressed)
+[34] Passenger #35 waiting elevator at floor 9
+[34] Elevator #1 interrupted to floor 9
+[34] Elevator #2 arrived at floor 2
+[34] Elevator #2 started idleing (no buttons pressed)
+[34] Elevator #3 arrived at floor 8
+[34] Elevator #3 started idleing (no buttons pressed)
+[34] Elevator #4 arrived at floor 24
+[34] Passenger #75 entered elevator on floor 24
+[34] Elevator #4 started idleing (no buttons pressed)
+[35] Passenger #36 waiting elevator at floor 10
+[35] Passenger #76 waiting elevator at floor 25
+[35] Elevator #2 interrupted to floor 2
+[35] Elevator #3 interrupted to floor 8
+[35] Elevator #4 interrupted to floor 10
+[35] Elevator #5 interrupted to floor 25
+[35] Elevator #1 arrived at floor 9
+[35] Passenger #35 entered elevator on floor 9
+[35] Elevator #1 started idleing (no buttons pressed)
+[36] Passenger #37 waiting elevator at floor 11
+[36] Elevator #1 interrupted to floor 11
+[36] Elevator #2 arrived at floor 2
+[36] Elevator #2 started idleing (no buttons pressed)
+[36] Elevator #3 arrived at floor 8
+[36] Elevator #3 started idleing (no buttons pressed)
+[36] Elevator #4 arrived at floor 10
+[36] Passenger #64 arrived at floor 10 via elevator #4
+[36] Passenger #36 entered elevator on floor 10
+[36] Elevator #4 started idleing (no buttons pressed)
+[36] Elevator #5 arrived at floor 25
+[36] Passenger #76 entered elevator on floor 25
+[36] Elevator #5 started idleing (no buttons pressed)
+[37] Passenger #38 waiting elevator at floor 12
+[37] Passenger #77 waiting elevator at floor 1
+[37] Elevator #2 interrupted to floor 1
+[37] Elevator #3 interrupted to floor 2
+[37] Elevator #4 interrupted to floor 8
+[37] Elevator #5 interrupted to floor 12
+[37] Elevator #1 arrived at floor 11
+[37] Passenger #27 arrived at floor 11 via elevator #1
+[37] Elevator #1 started idleing (no buttons pressed)
+[38] Passenger #39 waiting elevator at floor 13
+[38] Elevator #1 interrupted to floor 11
+[38] Elevator #6 interrupted to floor 13
+[38] Elevator #2 arrived at floor 1
+[38] Passenger #70 arrived at floor 1 via elevator #2
+[38] Passenger #77 entered elevator on floor 1
+[38] Elevator #2 started idleing (no buttons pressed)
+[38] Elevator #3 arrived at floor 2
+[38] Passenger #89 arrived at floor 2 via elevator #3
+[38] Passenger #24 arrived at floor 2 via elevator #3
+[38] Passenger #28 entered elevator on floor 2
+[38] Elevator #3 started idleing (no buttons pressed)
+[38] Elevator #4 arrived at floor 8
+[38] Passenger #34 entered elevator on floor 8
+[38] Elevator #4 started idleing (no buttons pressed)
+[38] Elevator #5 arrived at floor 12
+[38] Passenger #38 entered elevator on floor 12
+[38] Elevator #5 started idleing (no buttons pressed)
+[39] Passenger #40 waiting elevator at floor 14
+[39] Passenger #78 waiting elevator at floor 2
+[39] Elevator #2 interrupted to floor 2
+[39] Elevator #3 interrupted to floor 14
+[39] Elevator #1 arrived at floor 11
+[39] Elevator #1 started idleing (no buttons pressed)
+[39] Elevator #6 arrived at floor 13
+[39] Passenger #39 entered elevator on floor 13
+[39] Elevator #6 started idleing (no buttons pressed)
+[40] Passenger #41 waiting elevator at floor 15
+[40] Elevator #1 interrupted to floor 11
+[40] Elevator #4 interrupted to floor 15
+[40] Elevator #2 arrived at floor 2
+[40] Elevator #2 started idleing (no buttons pressed)
+[40] Elevator #3 arrived at floor 14
+[40] Passenger #96 arrived at floor 14 via elevator #3
+[40] Passenger #40 entered elevator on floor 14
+[40] Elevator #3 started idleing (no buttons pressed)
+[41] Passenger #42 waiting elevator at floor 16
+[41] Passenger #79 waiting elevator at floor 3
+[41] Elevator #2 interrupted to floor 2
+[41] Elevator #3 interrupted to floor 3
+[41] Elevator #5 interrupted to floor 16
+[41] Elevator #1 arrived at floor 11
+[41] Elevator #1 started idleing (no buttons pressed)
+[41] Elevator #4 arrived at floor 15
+[41] Passenger #22 arrived at floor 15 via elevator #4
+[41] Passenger #41 entered elevator on floor 15
+[41] Elevator #4 started idleing (no buttons pressed)
+[42] Passenger #43 waiting elevator at floor 17
+[42] Elevator #1 interrupted to floor 11
+[42] Elevator #4 interrupted to floor 17
+[42] Elevator #2 arrived at floor 2
+[42] Elevator #2 started idleing (no buttons pressed)
+[42] Elevator #3 arrived at floor 3
+[42] Passenger #99 arrived at floor 3 via elevator #3
+[42] Passenger #79 entered elevator on floor 3
+[42] Elevator #3 started idleing (no buttons pressed)
+[42] Elevator #5 arrived at floor 16
+[42] Passenger #42 entered elevator on floor 16
+[42] Elevator #5 started idleing (no buttons pressed)
+[43] Passenger #44 waiting elevator at floor 18
+[43] Passenger #80 waiting elevator at floor 4
+[43] Elevator #2 interrupted to floor 2
+[43] Elevator #3 interrupted to floor 4
+[43] Elevator #5 interrupted to floor 18
+[43] Elevator #1 arrived at floor 11
+[43] Elevator #1 started idleing (no buttons pressed)
+[43] Elevator #4 arrived at floor 17
+[43] Passenger #34 arrived at floor 17 via elevator #4
+[43] Passenger #43 entered elevator on floor 17
+[43] Elevator #4 started idleing (no buttons pressed)
+[44] Passenger #45 waiting elevator at floor 19
+[44] Elevator #1 interrupted to floor 11
+[44] Elevator #4 interrupted to floor 19
+[44] Elevator #2 arrived at floor 2
+[44] Elevator #2 started idleing (no buttons pressed)
+[44] Elevator #3 arrived at floor 4
+[44] Passenger #80 entered elevator on floor 4
+[44] Elevator #3 started idleing (no buttons pressed)
+[44] Elevator #5 arrived at floor 18
+[44] Passenger #42 arrived at floor 18 via elevator #5
+[44] Passenger #44 entered elevator on floor 18
+[44] Elevator #5 started idleing (no buttons pressed)
+[45] Passenger #46 waiting elevator at floor 20
+[45] Passenger #81 waiting elevator at floor 5
+[45] Elevator #2 interrupted to floor 2
+[45] Elevator #3 interrupted to floor 5
+[45] Elevator #5 interrupted to floor 20
+[45] Elevator #1 arrived at floor 11
+[45] Elevator #1 started idleing (no buttons pressed)
+[45] Elevator #4 arrived at floor 19
+[45] Passenger #25 arrived at floor 19 via elevator #4
+[45] Passenger #75 arrived at floor 19 via elevator #4
+[45] Passenger #45 entered elevator on floor 19
+[45] Elevator #4 started idleing (no buttons pressed)
+[46] Passenger #47 waiting elevator at floor 21
+[46] Elevator #1 interrupted to floor 11
+[46] Elevator #4 interrupted to floor 21
+[46] Elevator #2 arrived at floor 2
+[46] Elevator #2 started idleing (no buttons pressed)
+[46] Elevator #3 arrived at floor 5
+[46] Passenger #81 entered elevator on floor 5
+[46] Elevator #3 started idleing (no buttons pressed)
+[46] Elevator #5 arrived at floor 20
+[46] Passenger #46 entered elevator on floor 20
+[46] Elevator #5 started idleing (no buttons pressed)
+[47] Passenger #48 waiting elevator at floor 22
+[47] Passenger #82 waiting elevator at floor 6
+[47] Elevator #2 interrupted to floor 2
+[47] Elevator #3 interrupted to floor 6
+[47] Elevator #5 interrupted to floor 22
+[47] Elevator #1 arrived at floor 11
+[47] Elevator #1 started idleing (no buttons pressed)
+[47] Elevator #4 arrived at floor 21
+[47] Passenger #47 entered elevator on floor 21
+[47] Elevator #4 started idleing (no buttons pressed)
+[48] Passenger #49 waiting elevator at floor 23
+[48] Elevator #1 interrupted to floor 11
+[48] Elevator #4 interrupted to floor 23
+[48] Elevator #2 arrived at floor 2
+[48] Elevator #2 started idleing (no buttons pressed)
+[48] Elevator #3 arrived at floor 6
+[48] Passenger #28 arrived at floor 6 via elevator #3
+[48] Elevator #3 started idleing (no buttons pressed)
+[48] Elevator #5 arrived at floor 22
+[48] Passenger #48 entered elevator on floor 22
+[48] Elevator #5 started idleing (no buttons pressed)
+[49] Passenger #50 waiting elevator at floor 24
+[49] Passenger #83 waiting elevator at floor 7
+[49] Elevator #2 interrupted to floor 2
+[49] Elevator #3 interrupted to floor 6
+[49] Elevator #5 interrupted to floor 7
+[49] Elevator #6 interrupted to floor 24
+[49] Elevator #1 arrived at floor 11
+[49] Elevator #1 started idleing (no buttons pressed)
+[49] Elevator #4 arrived at floor 23
+[49] Passenger #49 entered elevator on floor 23
+[49] Elevator #4 started idleing (no buttons pressed)
+[50] Passenger #51 waiting elevator at floor 25
+[50] Elevator #1 interrupted to floor 11
+[50] Elevator #4 interrupted to floor 25
+[50] Elevator #2 arrived at floor 2
+[50] Elevator #2 started idleing (no buttons pressed)
+[50] Elevator #3 arrived at floor 6
+[50] Elevator #3 started idleing (no buttons pressed)
+[50] Elevator #5 arrived at floor 7
+[50] Passenger #83 entered elevator on floor 7
+[50] Elevator #5 started idleing (no buttons pressed)
+[50] Elevator #6 arrived at floor 24
+[50] Passenger #50 entered elevator on floor 24
+[50] Elevator #6 started idleing (no buttons pressed)
+[51] Passenger #52 waiting elevator at floor 1
+[51] Passenger #84 waiting elevator at floor 8
+[51] Elevator #2 interrupted to floor 1
+[51] Elevator #3 interrupted to floor 2
+[51] Elevator #5 interrupted to floor 6
+[51] Elevator #6 interrupted to floor 8
+[51] Elevator #1 arrived at floor 11
+[51] Elevator #1 started idleing (no buttons pressed)
+[51] Elevator #4 arrived at floor 25
+[51] Passenger #51 entered elevator on floor 25
+[51] Elevator #4 started idleing (no buttons pressed)
+[52] Passenger #53 waiting elevator at floor 2
+[52] Elevator #1 interrupted to floor 11
+[52] Elevator #2 arrived at floor 1
+[52] Elevator #2 started idleing (no buttons pressed)
+[52] Elevator #3 arrived at floor 2
+[52] Passenger #78 entered elevator on floor 2
+[52] Elevator #3 started idleing (no buttons pressed)
+[52] Elevator #5 arrived at floor 6
+[52] Passenger #82 entered elevator on floor 6
+[52] Elevator #5 started idleing (no buttons pressed)
+[52] Elevator #6 arrived at floor 8
+[52] Passenger #84 entered elevator on floor 8
+[52] Elevator #6 started idleing (no buttons pressed)
+[53] Passenger #54 waiting elevator at floor 3
+[53] Passenger #85 waiting elevator at floor 9
+[53] Elevator #2 interrupted to floor 1
+[53] Elevator #3 interrupted to floor 2
+[53] Elevator #4 interrupted to floor 3
+[53] Elevator #5 interrupted to floor 9
+[53] Elevator #1 arrived at floor 11
+[53] Elevator #1 started idleing (no buttons pressed)
+[54] Passenger #55 waiting elevator at floor 4
+[54] Elevator #1 interrupted to floor 4
+[54] Elevator #6 interrupted to floor 11
+[54] Elevator #2 arrived at floor 1
+[54] Elevator #2 started idleing (no buttons pressed)
+[54] Elevator #3 arrived at floor 2
+[54] Elevator #3 started idleing (no buttons pressed)
+[54] Elevator #4 arrived at floor 3
+[54] Passenger #49 arrived at floor 3 via elevator #4
+[54] Passenger #54 entered elevator on floor 3
+[54] Elevator #4 started idleing (no buttons pressed)
+[54] Elevator #5 arrived at floor 9
+[54] Passenger #48 arrived at floor 9 via elevator #5
+[54] Passenger #82 arrived at floor 9 via elevator #5
+[54] Passenger #85 entered elevator on floor 9
+[54] Elevator #5 started idleing (no buttons pressed)
+[55] Passenger #56 waiting elevator at floor 5
+[55] Passenger #86 waiting elevator at floor 10
+[55] Elevator #2 interrupted to floor 1
+[55] Elevator #3 interrupted to floor 2
+[55] Elevator #4 interrupted to floor 5
+[55] Elevator #5 interrupted to floor 10
+[55] Elevator #1 arrived at floor 4
+[55] Passenger #55 entered elevator on floor 4
+[55] Elevator #1 started idleing (no buttons pressed)
+[55] Elevator #6 arrived at floor 11
+[55] Passenger #37 entered elevator on floor 11
+[55] Elevator #6 started idleing (no buttons pressed)
+[56] Passenger #57 waiting elevator at floor 6
+[56] Elevator #1 interrupted to floor 6
+[56] Elevator #2 arrived at floor 1
+[56] Elevator #2 started idleing (no buttons pressed)
+[56] Elevator #3 arrived at floor 2
+[56] Elevator #3 started idleing (no buttons pressed)
+[56] Elevator #4 arrived at floor 5
+[56] Passenger #56 entered elevator on floor 5
+[56] Elevator #4 started idleing (no buttons pressed)
+[56] Elevator #5 arrived at floor 10
+[56] Passenger #86 entered elevator on floor 10
+[56] Elevator #5 started idleing (no buttons pressed)
+[57] Passenger #58 waiting elevator at floor 7
+[57] Passenger #87 waiting elevator at floor 11
+[57] Elevator #2 interrupted to floor 1
+[57] Elevator #3 interrupted to floor 2
+[57] Elevator #4 interrupted to floor 7
+[57] Elevator #5 interrupted to floor 11
+[57] Elevator #1 arrived at floor 6
+[57] Passenger #95 arrived at floor 6 via elevator #1
+[57] Passenger #57 entered elevator on floor 6
+[57] Elevator #1 started idleing (no buttons pressed)
+[58] Passenger #59 waiting elevator at floor 8
+[58] Elevator #1 interrupted to floor 8
+[58] Elevator #2 arrived at floor 1
+[58] Elevator #2 started idleing (no buttons pressed)
+[58] Elevator #3 arrived at floor 2
+[58] Elevator #3 started idleing (no buttons pressed)
+[58] Elevator #4 arrived at floor 7
+[58] Passenger #62 arrived at floor 7 via elevator #4
+[58] Passenger #73 arrived at floor 7 via elevator #4
+[58] Passenger #41 arrived at floor 7 via elevator #4
+[58] Passenger #58 entered elevator on floor 7
+[58] Elevator #4 started idleing (no buttons pressed)
+[58] Elevator #5 arrived at floor 11
+[58] Passenger #44 arrived at floor 11 via elevator #5
+[58] Passenger #87 entered elevator on floor 11
+[58] Elevator #5 started idleing (no buttons pressed)
+[59] Passenger #60 waiting elevator at floor 9
+[59] Passenger #88 waiting elevator at floor 12
+[59] Elevator #2 interrupted to floor 1
+[59] Elevator #3 interrupted to floor 2
+[59] Elevator #4 interrupted to floor 9
+[59] Elevator #5 interrupted to floor 12
+[59] Elevator #1 arrived at floor 8
+[59] Passenger #17 arrived at floor 8 via elevator #1
+[59] Passenger #67 arrived at floor 8 via elevator #1
+[59] Passenger #55 arrived at floor 8 via elevator #1
+[59] Passenger #59 entered elevator on floor 8
+[59] Elevator #1 started idleing (no buttons pressed)
+[60] Elevator #2 arrived at floor 1
+[60] Elevator #2 started idleing (no buttons pressed)
+[60] Elevator #3 arrived at floor 2
+[60] Elevator #3 started idleing (no buttons pressed)
+[60] Elevator #4 arrived at floor 9
+[60] Passenger #60 entered elevator on floor 9
+[60] Elevator #4 started idleing (no buttons pressed)
+[60] Elevator #5 arrived at floor 12
+[60] Passenger #86 arrived at floor 12 via elevator #5
+[60] Passenger #88 entered elevator on floor 12
+[60] Elevator #5 started idleing (no buttons pressed)
+[61] Elevator #1 interrupted to floor 1
+[61] Elevator #2 interrupted to floor 2
+[62] Elevator #1 arrived at floor 1
+[62] Passenger #52 entered elevator on floor 1
+[62] Elevator #1 started idleing (no buttons pressed)
+[62] Elevator #2 arrived at floor 2
+[62] Elevator #2 started idleing (no buttons pressed)
+[63] Elevator #1 interrupted to floor 2
+[64] Elevator #1 arrived at floor 2
+[64] Passenger #9 arrived at floor 2 via elevator #1
+[64] Passenger #59 arrived at floor 2 via elevator #1
+[64] Passenger #53 entered elevator on floor 2
+[64] Elevator #1 started idleing (no buttons pressed)

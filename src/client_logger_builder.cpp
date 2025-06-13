@@ -22,7 +22,7 @@ client_logger_builder::client_logger_builder() {
         std::make_pair(std::set<std::string>(), severity.second);
   }
 
-  _log_format = "[%d %t][%s] %m";
+  _log_format = "%m";
 }
 
 logger_builder *client_logger_builder::set_log_format(

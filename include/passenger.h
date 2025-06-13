@@ -10,6 +10,8 @@ class Passenger final {
   size_t m_boarding_floor;
   size_t m_target_floor;
   double m_weight;
+  size_t m_boarding_time = 0;
+  size_t m_deboarding_time = 0;
 
   bool m_has_overload_lift = false;
   std::set<Passenger*> m_met_passengers;
@@ -32,6 +34,7 @@ class Passenger final {
   void add_met_passenger(Passenger* passenger) {
     m_met_passengers.insert(passenger);
   }
+  void set_deboarding_time(size_t time) { m_deboarding_time = time; }
 
   void set_overload_lift() { m_has_overload_lift = true; }
 
