@@ -19,57 +19,34 @@ ElevatorSystem::ElevatorSystem(std::vector<Elevator> elevators,
 
 ElevatorSystem &ElevatorSystem::model(std::string const &input_file) {
   parse_passengers_file(input_file);
+  information_with_guard(
+      "Modeling "
+      "starts!\n-----------------------------------------------------------");
 
-  while (m_time < 1000) {
+  while (m_remaining_passengers > 0) {
     arrive_passengers(m_time);
     for (int i = 1; i < m_waiting_passengers_by_floor.size(); ++i) {
       auto &pas_list = m_waiting_passengers_by_floor[i];
       if (pas_list.size() > 0 &&
           !m_floors_already_called_elevator.contains(i)) {
         Elevator *e = calculate_most_suitable_elevator(i);
-        interrupt_elevator(e, i);
         m_floors_already_called_elevator.insert(i);
+        if (e->current_floor() == i) {
+          process_floor_arival(i, e);
+        } else {
+          interrupt_elevator(e, i);
+        }
       }
     }
     for (auto &e : m_elevators) {
-      if (e.time_travel_ends() == m_time && e.time_travel_ends() != 0 &&
-          e.target_floor() != 0) {
+      if (m_time >= e.time_travel_ends() && e.target_floor() > 0) {
         e.set_current_floor(e.target_floor());
         e.set_target_floor(0);
         process_floor_arival(e.current_floor(), &e);
       }
-      // if (e.state() == ElevatorState::IdleClosed ||
-      //     e.state() == ElevatorState::IdleOpen) {
-      //   calculate_next_elevator_target(e.current_floor(), &e);
-      // }
     }
 
     ++m_time;
-  }
-
-  std::cout << test_passengers_appeared_on_starting_floors << ", "
-            << test_pasengers_succesfully_moved_to_dest << std::endl;
-
-  std::cout << "passengers in elevators:\n";
-  for (auto &e : m_elevators) {
-    std::cout << ((e.state() == ElevatorState::IdleOpen ||
-                   e.state() == ElevatorState::IdleClosed)
-                      ? "idle"
-                      : "moving")
-              << std::endl;
-    std::cout << e.passengers().size() << ": ";
-    if (e.passengers().size() > 0) {
-      for (auto &pas : e.passengers()) {
-        std::cout << pas->target_floor() << " ";
-      }
-      std::cout << ", pressed_buttons: ";
-      for (int i = 0; i < e.pressed_buttons().size(); ++i) {
-        if (e.pressed_buttons()[i]) {
-          std::cout << i << " ";
-        }
-      }
-      std::cout << std::endl;
-    }
   }
 
   return *this;
@@ -174,6 +151,8 @@ void ElevatorSystem::process_floor_arival(size_t floor, Elevator *elevator) {
   process_passengers_deboarding(floor, elevator);
 
   move_passengers_from_floor_to_elevator(floor, elevator);
+  elevator->set_state(ElevatorState::IdleClosed, m_time);
+  elevator->calculate_moving_time(m_time);
 
   calculate_next_elevator_target(floor, elevator);
 }
@@ -210,6 +189,7 @@ void ElevatorSystem::move_passengers_from_floor_to_elevator(
     Passenger *next_passenger = *it;
     if (elevator->try_move_passenger_in(next_passenger)) {
       it = waiting_queue.erase(it);
+      elevator->pressed_buttons()[next_passenger->target_floor()] = true;
       information_with_guard("[" + std::to_string(m_time) + "] Passenger #" +
                              std::to_string(next_passenger->id()) +
                              " entered elevator on floor " +
@@ -231,8 +211,11 @@ void ElevatorSystem::calculate_next_elevator_target(size_t floor,
         information_with_guard("[" + std::to_string(m_time) + "] Elevator #" +
                                std::to_string(elevator->id()) +
                                " continues MovingUp - next target floor " +
-                               std::to_string(f));
+                               std::to_string(f) + ", will arrive at [" +
+                               std::to_string(elevator->time_travel_ends()) +
+                               "]");
         elevator->set_state(ElevatorState::MovingUp, m_time);
+        elevator->set_target_floor(f);
         return;
       }
     }
@@ -243,8 +226,10 @@ void ElevatorSystem::calculate_next_elevator_target(size_t floor,
             "[" + std::to_string(m_time) + "] Elevator #" +
             std::to_string(elevator->id()) +
             " changes direction to MovingDown - next target floor " +
-            std::to_string(f));
+            std::to_string(f) + ", will arrive at [" +
+            std::to_string(elevator->time_travel_ends()) + "]");
         elevator->set_state(ElevatorState::MovingDown, m_time);
+        elevator->set_target_floor(f);
         return;
       }
     }
@@ -253,11 +238,14 @@ void ElevatorSystem::calculate_next_elevator_target(size_t floor,
              elevator->state() == ElevatorState::IdleClosed) {
     for (size_t f = floor - 1; f != static_cast<size_t>(-1); --f) {
       if (buttons[f]) {
-        information_with_guard("[" + std::to_string(m_time) + "] Elevator #" +
-                               std::to_string(elevator->id()) +
-                               " continues MovingDown - next target floor " +
-                               std::to_string(f));
+        information_with_guard(
+            "[" + std::to_string(m_time) + "] Elevator #" +
+            std::to_string(elevator->id()) +
+            " continues MovingDown - next target floor " + std::to_string(f) +
+            ", will arrive at [" +
+            std::to_string(m_time + elevator->time_travel_ends()) + "]");
         elevator->set_state(ElevatorState::MovingDown, m_time);
+        elevator->set_target_floor(f);
         return;
       }
     }
@@ -268,30 +256,31 @@ void ElevatorSystem::calculate_next_elevator_target(size_t floor,
             "[" + std::to_string(m_time) + "] Elevator #" +
             std::to_string(elevator->id()) +
             " changes direction to MovingUp - next target floor " +
-            std::to_string(f));
+            std::to_string(f) + ", will arrive at [" +
+            std::to_string(m_time + elevator->time_travel_ends()) + "]");
         elevator->set_state(ElevatorState::MovingUp, m_time);
+        elevator->set_target_floor(f);
         return;
       }
     }
   }
-  std::cout << " failed\n";
 
   information_with_guard("[" + std::to_string(m_time) + "] Elevator #" +
                          std::to_string(elevator->id()) +
                          " started idleing (no buttons pressed)");
   elevator->set_state(ElevatorState::IdleClosed, m_time);
 }
-
 void ElevatorSystem::arrive_passengers(size_t current_time) {
   auto range_in_time = m_time_index.equal_range(current_time);
   for (auto it = range_in_time.first; it != range_in_time.second; ++it) {
     Passenger *p = it->second;
     m_waiting_passengers_by_floor[p->boarding_floor()].push_back(p);
     test_passengers_appeared_on_starting_floors++;
-    information_with_guard("[" + std::to_string(m_time) + "] Passenger #" +
-                           std::to_string(p->id()) +
-                           " waiting elevator at floor " +
-                           std::to_string(p->boarding_floor()));
+    information_with_guard(
+        "[" + std::to_string(m_time) + "] Passenger #" +
+        std::to_string(p->id()) + " waiting elevator at floor " +
+        std::to_string(p->boarding_floor()) +
+        ", Target floor: " + std::to_string(p->target_floor()));
   }
 }
 

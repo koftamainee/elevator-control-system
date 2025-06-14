@@ -40,7 +40,9 @@ std::vector<bool> &Elevator::pressed_buttons() noexcept {
 }
 
 size_t Elevator::idle_time() const noexcept { return m_idle_time; }
-size_t Elevator::moving_time() const noexcept { return m_moving_time; }
+size_t Elevator::moving_time() const noexcept {
+  return m_time_travel_ends - m_timestamp_when_last_state_set;
+}
 size_t Elevator::floors_passed() const noexcept { return m_floors_passed; }
 double Elevator::total_cargo() const noexcept { return m_total_cargo; }
 double Elevator::max_load_reached() const noexcept {
@@ -99,8 +101,7 @@ void Elevator::move_passenger_out(std::vector<Passenger *>::iterator &it) {
 void Elevator::calculate_moving_time(size_t current_time) {
   size_t moving_time =
       3 + static_cast<size_t>(std::floor(5 * (m_current_load / m_max_load)));
-  moving_time = (moving_time / 60) + 1;
-  m_time_travel_ends = current_time += moving_time;
+  m_time_travel_ends = current_time + moving_time;
 }
 
 size_t Elevator::time_travel_ends() const { return m_time_travel_ends; }

@@ -23,7 +23,7 @@ class ElevatorSystem final : private logger_guardant {
   int test_pasengers_succesfully_moved_to_dest = 0;
 
   std::multimap<size_t, Passenger *> m_time_index;
-  std::set<int> m_floors_already_called_elevator;
+  std::set<size_t> m_floors_already_called_elevator;
 
   size_t m_time = 0;
 
