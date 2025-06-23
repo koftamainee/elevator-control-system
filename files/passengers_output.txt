@@ -1,0 +1,900 @@
+Passenger 1:
+  Appearance time: 0
+  Origin floor: 1
+  Target floor: 15
+  Boarding time: 0
+  Total travel time: 3
+  Met passengers: 
+  Had overload: no
+
+Passenger 2:
+  Appearance time: 1
+  Origin floor: 1
+  Target floor: 10
+  Boarding time: 0
+  Total travel time: 4
+  Met passengers: 
+  Had overload: no
+
+Passenger 3:
+  Appearance time: 2
+  Origin floor: 2
+  Target floor: 24
+  Boarding time: 0
+  Total travel time: 16
+  Met passengers: 
+  Had overload: no
+
+Passenger 4:
+  Appearance time: 3
+  Origin floor: 3
+  Target floor: 1
+  Boarding time: 0
+  Total travel time: 127
+  Met passengers: 30, 80
+  Had overload: no
+
+Passenger 5:
+  Appearance time: 4
+  Origin floor: 1
+  Target floor: 8
+  Boarding time: 0
+  Total travel time: 10
+  Met passengers: 
+  Had overload: no
+
+Passenger 6:
+  Appearance time: 5
+  Origin floor: 5
+  Target floor: 12
+  Boarding time: 0
+  Total travel time: 11
+  Met passengers: 
+  Had overload: no
+
+Passenger 7:
+  Appearance time: 6
+  Origin floor: 6
+  Target floor: 3
+  Boarding time: 0
+  Total travel time: 116
+  Met passengers: 30, 53, 80
+  Had overload: no
+
+Passenger 8:
+  Appearance time: 7
+  Origin floor: 7
+  Target floor: 15
+  Boarding time: 0
+  Total travel time: 103
+  Met passengers: 16, 19, 66, 69, 89, 93, 95
+  Had overload: no
+
+Passenger 9:
+  Appearance time: 8
+  Origin floor: 8
+  Target floor: 2
+  Boarding time: 0
+  Total travel time: 13
+  Met passengers: 
+  Had overload: no
+
+Passenger 10:
+  Appearance time: 9
+  Origin floor: 9
+  Target floor: 18
+  Boarding time: 0
+  Total travel time: 121
+  Met passengers: 14, 22, 39, 47, 64, 72, 97
+  Had overload: yes
+
+Passenger 11:
+  Appearance time: 10
+  Origin floor: 10
+  Target floor: 5
+  Boarding time: 0
+  Total travel time: 33
+  Met passengers: 61
+  Had overload: no
+
+Passenger 12:
+  Appearance time: 11
+  Origin floor: 11
+  Target floor: 7
+  Boarding time: 0
+  Total travel time: 96
+  Met passengers: 16, 17, 19, 41, 62, 66, 67, 69, 89, 91, 93, 95
+  Had overload: no
+
+Passenger 13:
+  Appearance time: 12
+  Origin floor: 12
+  Target floor: 1
+  Boarding time: 0
+  Total travel time: 68
+  Met passengers: 
+  Had overload: no
+
+Passenger 14:
+  Appearance time: 13
+  Origin floor: 13
+  Target floor: 10
+  Boarding time: 0
+  Total travel time: 96
+  Met passengers: 22, 36, 46, 47, 64, 72, 97
+  Had overload: yes
+
+Passenger 15:
+  Appearance time: 14
+  Origin floor: 14
+  Target floor: 20
+  Boarding time: 0
+  Total travel time: 26
+  Met passengers: 65, 90
+  Had overload: no
+
+Passenger 16:
+  Appearance time: 15
+  Origin floor: 15
+  Target floor: 3
+  Boarding time: 0
+  Total travel time: 133
+  Met passengers: 17, 18, 19, 67, 68, 69, 91, 93, 94, 95
+  Had overload: no
+
+Passenger 17:
+  Appearance time: 16
+  Origin floor: 16
+  Target floor: 8
+  Boarding time: 0
+  Total travel time: 90
+  Met passengers: 18, 19, 68, 92, 93, 94, 95
+  Had overload: no
+
+Passenger 18:
+  Appearance time: 17
+  Origin floor: 17
+  Target floor: 12
+  Boarding time: 0
+  Total travel time: 62
+  Met passengers: 19, 93, 94, 95
+  Had overload: no
+
+Passenger 19:
+  Appearance time: 18
+  Origin floor: 18
+  Target floor: 5
+  Boarding time: 0
+  Total travel time: 114
+  Met passengers: 94, 95
+  Had overload: no
+
+Passenger 20:
+  Appearance time: 19
+  Origin floor: 19
+  Target floor: 1
+  Boarding time: 0
+  Total travel time: 208
+  Met passengers: 35, 39, 44, 47, 85, 97
+  Had overload: no
+
+Passenger 21:
+  Appearance time: 20
+  Origin floor: 20
+  Target floor: 10
+  Boarding time: 0
+  Total travel time: 30
+  Met passengers: 90
+  Had overload: no
+
+Passenger 22:
+  Appearance time: 21
+  Origin floor: 21
+  Target floor: 15
+  Boarding time: 0
+  Total travel time: 103
+  Met passengers: 36, 46, 97
+  Had overload: no
+
+Passenger 23:
+  Appearance time: 22
+  Origin floor: 22
+  Target floor: 7
+  Boarding time: 0
+  Total travel time: 182
+  Met passengers: 20, 35, 39, 44, 45, 47, 70, 85, 97, 98
+  Had overload: no
+
+Passenger 24:
+  Appearance time: 23
+  Origin floor: 23
+  Target floor: 2
+  Boarding time: 0
+  Total travel time: 150
+  Met passengers: 99
+  Had overload: yes
+
+Passenger 25:
+  Appearance time: 24
+  Origin floor: 24
+  Target floor: 19
+  Boarding time: 0
+  Total travel time: 155
+  Met passengers: 
+  Had overload: yes
+
+Passenger 26:
+  Appearance time: 25
+  Origin floor: 25
+  Target floor: 4
+  Boarding time: 0
+  Total travel time: 164
+  Met passengers: 
+  Had overload: yes
+
+Passenger 27:
+  Appearance time: 26
+  Origin floor: 1
+  Target floor: 11
+  Boarding time: 0
+  Total travel time: 75
+  Met passengers: 
+  Had overload: no
+
+Passenger 28:
+  Appearance time: 27
+  Origin floor: 2
+  Target floor: 6
+  Boarding time: 0
+  Total travel time: 101
+  Met passengers: 30, 80
+  Had overload: no
+
+Passenger 29:
+  Appearance time: 28
+  Origin floor: 3
+  Target floor: 14
+  Boarding time: 0
+  Total travel time: 122
+  Met passengers: 4, 30, 80
+  Had overload: no
+
+Passenger 30:
+  Appearance time: 29
+  Origin floor: 4
+  Target floor: 1
+  Boarding time: 0
+  Total travel time: 127
+  Met passengers: 59
+  Had overload: no
+
+Passenger 31:
+  Appearance time: 30
+  Origin floor: 5
+  Target floor: 16
+  Boarding time: 0
+  Total travel time: 36
+  Met passengers: 
+  Had overload: no
+
+Passenger 32:
+  Appearance time: 31
+  Origin floor: 6
+  Target floor: 9
+  Boarding time: 0
+  Total travel time: 107
+  Met passengers: 7, 30, 53, 80
+  Had overload: no
+
+Passenger 33:
+  Appearance time: 32
+  Origin floor: 7
+  Target floor: 3
+  Boarding time: 0
+  Total travel time: 133
+  Met passengers: 8, 16, 19, 66, 69, 89, 93, 95
+  Had overload: no
+
+Passenger 34:
+  Appearance time: 33
+  Origin floor: 8
+  Target floor: 17
+  Boarding time: 0
+  Total travel time: 83
+  Met passengers: 
+  Had overload: no
+
+Passenger 35:
+  Appearance time: 34
+  Origin floor: 9
+  Target floor: 5
+  Boarding time: 0
+  Total travel time: 194
+  Met passengers: 10, 14, 22, 39, 47, 64, 72, 97
+  Had overload: yes
+
+Passenger 36:
+  Appearance time: 35
+  Origin floor: 10
+  Target floor: 12
+  Boarding time: 0
+  Total travel time: 82
+  Met passengers: 
+  Had overload: no
+
+Passenger 37:
+  Appearance time: 36
+  Origin floor: 11
+  Target floor: 8
+  Boarding time: 0
+  Total travel time: 79
+  Met passengers: 
+  Had overload: yes
+
+Passenger 38:
+  Appearance time: 37
+  Origin floor: 12
+  Target floor: 13
+  Boarding time: 0
+  Total travel time: 65
+  Met passengers: 13
+  Had overload: no
+
+Passenger 39:
+  Appearance time: 38
+  Origin floor: 13
+  Target floor: 2
+  Boarding time: 0
+  Total travel time: 204
+  Met passengers: 14, 22, 36, 46, 47, 64, 72, 97
+  Had overload: yes
+
+Passenger 40:
+  Appearance time: 39
+  Origin floor: 14
+  Target floor: 10
+  Boarding time: 0
+  Total travel time: 45
+  Met passengers: 
+  Had overload: no
+
+Passenger 41:
+  Appearance time: 40
+  Origin floor: 15
+  Target floor: 7
+  Boarding time: 0
+  Total travel time: 96
+  Met passengers: 16, 17, 18, 19, 66, 67, 68, 69, 91, 93, 94, 95
+  Had overload: no
+
+Passenger 42:
+  Appearance time: 41
+  Origin floor: 16
+  Target floor: 18
+  Boarding time: 0
+  Total travel time: 121
+  Met passengers: 10, 35, 39, 47, 60, 85, 97
+  Had overload: no
+
+Passenger 43:
+  Appearance time: 42
+  Origin floor: 17
+  Target floor: 4
+  Boarding time: 0
+  Total travel time: 87
+  Met passengers: 59
+  Had overload: no
+
+Passenger 44:
+  Appearance time: 43
+  Origin floor: 18
+  Target floor: 11
+  Boarding time: 0
+  Total travel time: 161
+  Met passengers: 35, 39, 47, 85, 97
+  Had overload: no
+
+Passenger 45:
+  Appearance time: 44
+  Origin floor: 19
+  Target floor: 6
+  Boarding time: 0
+  Total travel time: 188
+  Met passengers: 20, 35, 39, 44, 47, 70, 85, 97
+  Had overload: no
+
+Passenger 46:
+  Appearance time: 45
+  Origin floor: 20
+  Target floor: 14
+  Boarding time: 0
+  Total travel time: 67
+  Met passengers: 36
+  Had overload: no
+
+Passenger 47:
+  Appearance time: 46
+  Origin floor: 21
+  Target floor: 1
+  Boarding time: 0
+  Total travel time: 208
+  Met passengers: 22, 36, 46, 72, 97
+  Had overload: no
+
+Passenger 48:
+  Appearance time: 47
+  Origin floor: 22
+  Target floor: 9
+  Boarding time: 0
+  Total travel time: 140
+  Met passengers: 73
+  Had overload: yes
+
+Passenger 49:
+  Appearance time: 48
+  Origin floor: 23
+  Target floor: 3
+  Boarding time: 0
+  Total travel time: 147
+  Met passengers: 24, 74, 99
+  Had overload: yes
+
+Passenger 50:
+  Appearance time: 49
+  Origin floor: 24
+  Target floor: 16
+  Boarding time: 0
+  Total travel time: 158
+  Met passengers: 25, 75, 100
+  Had overload: yes
+
+Passenger 51:
+  Appearance time: 50
+  Origin floor: 25
+  Target floor: 10
+  Boarding time: 0
+  Total travel time: 161
+  Met passengers: 26, 76
+  Had overload: yes
+
+Passenger 52:
+  Appearance time: 51
+  Origin floor: 1
+  Target floor: 10
+  Boarding time: 0
+  Total travel time: 72
+  Met passengers: 27, 77
+  Had overload: no
+
+Passenger 53:
+  Appearance time: 52
+  Origin floor: 2
+  Target floor: 10
+  Boarding time: 0
+  Total travel time: 112
+  Met passengers: 28, 30, 78, 80
+  Had overload: no
+
+Passenger 54:
+  Appearance time: 53
+  Origin floor: 3
+  Target floor: 1
+  Boarding time: 0
+  Total travel time: 127
+  Met passengers: 4, 29, 30, 79, 80
+  Had overload: no
+
+Passenger 55:
+  Appearance time: 54
+  Origin floor: 4
+  Target floor: 8
+  Boarding time: 0
+  Total travel time: 92
+  Met passengers: 30, 59, 80
+  Had overload: no
+
+Passenger 56:
+  Appearance time: 55
+  Origin floor: 5
+  Target floor: 12
+  Boarding time: 0
+  Total travel time: 119
+  Met passengers: 16, 33, 66, 81, 83, 89, 93
+  Had overload: no
+
+Passenger 57:
+  Appearance time: 56
+  Origin floor: 6
+  Target floor: 3
+  Boarding time: 0
+  Total travel time: 116
+  Met passengers: 7, 30, 32, 53, 80, 82
+  Had overload: no
+
+Passenger 58:
+  Appearance time: 57
+  Origin floor: 7
+  Target floor: 15
+  Boarding time: 0
+  Total travel time: 103
+  Met passengers: 8, 16, 19, 33, 66, 69, 83, 89, 93, 95
+  Had overload: no
+
+Passenger 59:
+  Appearance time: 58
+  Origin floor: 8
+  Target floor: 2
+  Boarding time: 0
+  Total travel time: 96
+  Met passengers: 34, 84
+  Had overload: no
+
+Passenger 60:
+  Appearance time: 59
+  Origin floor: 9
+  Target floor: 18
+  Boarding time: 0
+  Total travel time: 121
+  Met passengers: 10, 14, 22, 35, 39, 47, 64, 72, 85, 97
+  Had overload: yes
+
+Passenger 61:
+  Appearance time: 5
+  Origin floor: 10
+  Target floor: 5
+  Boarding time: 0
+  Total travel time: 33
+  Met passengers: 
+  Had overload: no
+
+Passenger 62:
+  Appearance time: 7
+  Origin floor: 11
+  Target floor: 7
+  Boarding time: 0
+  Total travel time: 96
+  Met passengers: 16, 17, 19, 41, 66, 67, 69, 89, 91, 93, 95
+  Had overload: no
+
+Passenger 63:
+  Appearance time: 9
+  Origin floor: 12
+  Target floor: 1
+  Boarding time: 0
+  Total travel time: 14
+  Met passengers: 
+  Had overload: no
+
+Passenger 64:
+  Appearance time: 11
+  Origin floor: 13
+  Target floor: 10
+  Boarding time: 0
+  Total travel time: 96
+  Met passengers: 22, 36, 46, 47, 72, 97
+  Had overload: yes
+
+Passenger 65:
+  Appearance time: 13
+  Origin floor: 14
+  Target floor: 20
+  Boarding time: 0
+  Total travel time: 26
+  Met passengers: 90
+  Had overload: no
+
+Passenger 66:
+  Appearance time: 15
+  Origin floor: 15
+  Target floor: 3
+  Boarding time: 0
+  Total travel time: 133
+  Met passengers: 16, 17, 18, 19, 67, 68, 69, 91, 93, 94, 95
+  Had overload: no
+
+Passenger 67:
+  Appearance time: 17
+  Origin floor: 16
+  Target floor: 8
+  Boarding time: 0
+  Total travel time: 90
+  Met passengers: 17, 18, 19, 68, 92, 93, 94, 95
+  Had overload: no
+
+Passenger 68:
+  Appearance time: 19
+  Origin floor: 17
+  Target floor: 12
+  Boarding time: 0
+  Total travel time: 62
+  Met passengers: 18, 19, 93, 94, 95
+  Had overload: no
+
+Passenger 69:
+  Appearance time: 21
+  Origin floor: 18
+  Target floor: 5
+  Boarding time: 0
+  Total travel time: 114
+  Met passengers: 17, 18, 19, 67, 68, 93, 94, 95
+  Had overload: no
+
+Passenger 70:
+  Appearance time: 23
+  Origin floor: 19
+  Target floor: 1
+  Boarding time: 0
+  Total travel time: 208
+  Met passengers: 20, 35, 39, 44, 47, 85, 97
+  Had overload: no
+
+Passenger 71:
+  Appearance time: 25
+  Origin floor: 20
+  Target floor: 10
+  Boarding time: 0
+  Total travel time: 30
+  Met passengers: 21, 90
+  Had overload: no
+
+Passenger 72:
+  Appearance time: 27
+  Origin floor: 21
+  Target floor: 15
+  Boarding time: 0
+  Total travel time: 103
+  Met passengers: 22, 36, 46, 97
+  Had overload: no
+
+Passenger 73:
+  Appearance time: 29
+  Origin floor: 22
+  Target floor: 7
+  Boarding time: 0
+  Total travel time: 143
+  Met passengers: 
+  Had overload: yes
+
+Passenger 74:
+  Appearance time: 31
+  Origin floor: 23
+  Target floor: 2
+  Boarding time: 0
+  Total travel time: 150
+  Met passengers: 24, 99
+  Had overload: yes
+
+Passenger 75:
+  Appearance time: 33
+  Origin floor: 24
+  Target floor: 19
+  Boarding time: 0
+  Total travel time: 155
+  Met passengers: 25, 100
+  Had overload: yes
+
+Passenger 76:
+  Appearance time: 35
+  Origin floor: 25
+  Target floor: 4
+  Boarding time: 0
+  Total travel time: 164
+  Met passengers: 26
+  Had overload: yes
+
+Passenger 77:
+  Appearance time: 37
+  Origin floor: 1
+  Target floor: 11
+  Boarding time: 0
+  Total travel time: 75
+  Met passengers: 27
+  Had overload: no
+
+Passenger 78:
+  Appearance time: 39
+  Origin floor: 2
+  Target floor: 6
+  Boarding time: 0
+  Total travel time: 101
+  Met passengers: 28, 30, 80
+  Had overload: no
+
+Passenger 79:
+  Appearance time: 41
+  Origin floor: 3
+  Target floor: 14
+  Boarding time: 0
+  Total travel time: 122
+  Met passengers: 4, 29, 30, 80
+  Had overload: no
+
+Passenger 80:
+  Appearance time: 43
+  Origin floor: 4
+  Target floor: 1
+  Boarding time: 0
+  Total travel time: 127
+  Met passengers: 30, 59
+  Had overload: no
+
+Passenger 81:
+  Appearance time: 45
+  Origin floor: 5
+  Target floor: 16
+  Boarding time: 0
+  Total travel time: 124
+  Met passengers: 16, 33, 66, 83, 89, 93
+  Had overload: no
+
+Passenger 82:
+  Appearance time: 47
+  Origin floor: 6
+  Target floor: 9
+  Boarding time: 0
+  Total travel time: 107
+  Met passengers: 7, 30, 32, 53, 80
+  Had overload: no
+
+Passenger 83:
+  Appearance time: 49
+  Origin floor: 7
+  Target floor: 3
+  Boarding time: 0
+  Total travel time: 133
+  Met passengers: 8, 16, 19, 33, 66, 69, 89, 93, 95
+  Had overload: no
+
+Passenger 84:
+  Appearance time: 51
+  Origin floor: 8
+  Target floor: 17
+  Boarding time: 0
+  Total travel time: 83
+  Met passengers: 34
+  Had overload: no
+
+Passenger 85:
+  Appearance time: 53
+  Origin floor: 9
+  Target floor: 5
+  Boarding time: 0
+  Total travel time: 194
+  Met passengers: 10, 14, 22, 35, 39, 47, 64, 72, 97
+  Had overload: yes
+
+Passenger 86:
+  Appearance time: 55
+  Origin floor: 10
+  Target floor: 12
+  Boarding time: 0
+  Total travel time: 61
+  Met passengers: 
+  Had overload: no
+
+Passenger 87:
+  Appearance time: 57
+  Origin floor: 11
+  Target floor: 8
+  Boarding time: 0
+  Total travel time: 79
+  Met passengers: 37
+  Had overload: yes
+
+Passenger 88:
+  Appearance time: 59
+  Origin floor: 12
+  Target floor: 13
+  Boarding time: 0
+  Total travel time: 65
+  Met passengers: 13, 38
+  Had overload: no
+
+Passenger 89:
+  Appearance time: 2
+  Origin floor: 13
+  Target floor: 2
+  Boarding time: 0
+  Total travel time: 136
+  Met passengers: 16, 17, 18, 19, 41, 66, 67, 68, 69, 91, 93, 94, 95
+  Had overload: no
+
+Passenger 90:
+  Appearance time: 4
+  Origin floor: 14
+  Target floor: 10
+  Boarding time: 0
+  Total travel time: 30
+  Met passengers: 
+  Had overload: no
+
+Passenger 91:
+  Appearance time: 6
+  Origin floor: 15
+  Target floor: 7
+  Boarding time: 0
+  Total travel time: 96
+  Met passengers: 17, 18, 19, 67, 68, 69, 93, 94, 95
+  Had overload: no
+
+Passenger 92:
+  Appearance time: 8
+  Origin floor: 16
+  Target floor: 18
+  Boarding time: 0
+  Total travel time: 35
+  Met passengers: 18, 19, 68, 93, 94, 95
+  Had overload: no
+
+Passenger 93:
+  Appearance time: 10
+  Origin floor: 17
+  Target floor: 4
+  Boarding time: 0
+  Total travel time: 129
+  Met passengers: 19, 94, 95
+  Had overload: no
+
+Passenger 94:
+  Appearance time: 12
+  Origin floor: 18
+  Target floor: 11
+  Boarding time: 0
+  Total travel time: 69
+  Met passengers: 95
+  Had overload: no
+
+Passenger 95:
+  Appearance time: 14
+  Origin floor: 19
+  Target floor: 6
+  Boarding time: 0
+  Total travel time: 109
+  Met passengers: 
+  Had overload: no
+
+Passenger 96:
+  Appearance time: 16
+  Origin floor: 20
+  Target floor: 14
+  Boarding time: 0
+  Total travel time: 22
+  Met passengers: 
+  Had overload: no
+
+Passenger 97:
+  Appearance time: 18
+  Origin floor: 21
+  Target floor: 1
+  Boarding time: 0
+  Total travel time: 208
+  Met passengers: 36, 46
+  Had overload: no
+
+Passenger 98:
+  Appearance time: 20
+  Origin floor: 22
+  Target floor: 9
+  Boarding time: 0
+  Total travel time: 168
+  Met passengers: 20, 35, 39, 44, 45, 47, 70, 85, 97
+  Had overload: no
+
+Passenger 99:
+  Appearance time: 22
+  Origin floor: 23
+  Target floor: 3
+  Boarding time: 0
+  Total travel time: 147
+  Met passengers: 
+  Had overload: yes
+
+Passenger 100:
+  Appearance time: 24
+  Origin floor: 24
+  Target floor: 16
+  Boarding time: 0
+  Total travel time: 158
+  Met passengers: 25
+  Had overload: yes
+

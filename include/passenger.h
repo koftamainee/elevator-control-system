@@ -37,6 +37,8 @@ class Passenger final {
   void set_deboarding_time(size_t time) { m_deboarding_time = time; }
 
   void set_overload_lift() { m_has_overload_lift = true; }
+  size_t boarding_time() const { return m_boarding_time; }
+  size_t deboarding_time() const { return m_deboarding_time; }
 
   bool has_met_passenger(Passenger* const passenger) const {
     return m_met_passengers.contains(passenger);

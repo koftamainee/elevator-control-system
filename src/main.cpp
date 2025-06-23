@@ -66,7 +66,7 @@ std::pair<std::vector<Elevator>, size_t> parse_elevators_file(
   std::vector<Elevator> elevators;
   elevators.reserve(k_elevators);
   for (size_t i = 0; i < k_elevators; ++i) {
-    elevators.emplace_back(i + 1, 1, max_loads[i], n_floors);
+    elevators.emplace_back(i + 1, 1, max_loads.at(i), n_floors);
   }
 
   return {std::move(elevators), n_floors};
@@ -92,9 +92,8 @@ int main(int argc, char **argv) {
         "Parsed elevators file. Results: " + std::to_string(elevators.size()) +
         " elevators, " + std::to_string(floors_count) + " floors");
 
-    ElevatorSystem(elevators, floors_count, log.get())
-        .model(argv[2])
-        .print_results(argv[3], argv[4]);
+    ElevatorSystem system(elevators, floors_count, log.get());
+    system.model(argv[2]).print_results(argv[3], argv[4]);
     return 0;
   } catch (std::exception const &e) {
     std::cerr << "Runtime error occured during the execution: " << e.what()

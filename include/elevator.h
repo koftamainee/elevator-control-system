@@ -36,6 +36,7 @@ class Elevator final {
   void calculate_moving_time(size_t current_time);
   size_t time_travel_ends() const;
   size_t id() const;
+  void set_floors_passed(size_t floors);
 
   bool try_move_passenger_in(Passenger *p);
   void move_passenger_out(std::vector<Passenger *>::iterator &it);
@@ -44,6 +45,9 @@ class Elevator final {
   void set_target_floor(size_t floor);
   void set_current_floor(size_t floor);
   size_t target_floor() const;
+
+  size_t elevator_aproximate_floor(size_t time) const;
+  void calculate_moving_time_with_interrupt(size_t m_time, size_t floor);
 
  private:
   size_t m_id;

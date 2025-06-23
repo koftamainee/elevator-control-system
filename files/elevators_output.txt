@@ -1,0 +1,24 @@
+Elevator 1:
+  Idle time: 4
+  Moving time: 2
+  Floors passed: 0
+  Total cargo: 2063.6
+  Max load reached: 968.4
+  Overloads count: 13
+
+Elevator 2:
+  Idle time: 80
+  Moving time: 18446744073709551568
+  Floors passed: 0
+  Total cargo: 3674.7
+  Max load reached: 610.1
+  Overloads count: 0
+
+Elevator 3:
+  Idle time: 57
+  Moving time: 18446744073709551573
+  Floors passed: 0
+  Total cargo: 2806.8
+  Max load reached: 1156.2
+  Overloads count: 9
+
