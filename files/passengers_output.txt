@@ -3,7 +3,7 @@ Passenger 1:
   Origin floor: 1
   Target floor: 15
   Boarding time: 0
-  Total travel time: 3
+  Total travel time: 39
   Met passengers: 
   Had overload: no
 
@@ -12,7 +12,7 @@ Passenger 2:
   Origin floor: 1
   Target floor: 10
   Boarding time: 0
-  Total travel time: 4
+  Total travel time: 28
   Met passengers: 
   Had overload: no
 
@@ -21,8 +21,8 @@ Passenger 3:
   Origin floor: 2
   Target floor: 24
   Boarding time: 0
-  Total travel time: 16
-  Met passengers: 
+  Total travel time: 233
+  Met passengers: 47
   Had overload: no
 
 Passenger 4:
@@ -30,8 +30,8 @@ Passenger 4:
   Origin floor: 3
   Target floor: 1
   Boarding time: 0
-  Total travel time: 127
-  Met passengers: 30, 80
+  Total travel time: 198
+  Met passengers: 
   Had overload: no
 
 Passenger 5:
@@ -39,7 +39,7 @@ Passenger 5:
   Origin floor: 1
   Target floor: 8
   Boarding time: 0
-  Total travel time: 10
+  Total travel time: 25
   Met passengers: 
   Had overload: no
 
@@ -48,7 +48,7 @@ Passenger 6:
   Origin floor: 5
   Target floor: 12
   Boarding time: 0
-  Total travel time: 11
+  Total travel time: 41
   Met passengers: 
   Had overload: no
 
@@ -57,8 +57,8 @@ Passenger 7:
   Origin floor: 6
   Target floor: 3
   Boarding time: 0
-  Total travel time: 116
-  Met passengers: 30, 53, 80
+  Total travel time: 154
+  Met passengers: 9, 16, 19, 47, 49, 66, 69
   Had overload: no
 
 Passenger 8:
@@ -66,8 +66,8 @@ Passenger 8:
   Origin floor: 7
   Target floor: 15
   Boarding time: 0
-  Total travel time: 103
-  Met passengers: 16, 19, 66, 69, 89, 93, 95
+  Total travel time: 120
+  Met passengers: 
   Had overload: no
 
 Passenger 9:
@@ -75,8 +75,8 @@ Passenger 9:
   Origin floor: 8
   Target floor: 2
   Boarding time: 0
-  Total travel time: 13
-  Met passengers: 
+  Total travel time: 155
+  Met passengers: 1
   Had overload: no
 
 Passenger 10:
@@ -84,16 +84,16 @@ Passenger 10:
   Origin floor: 9
   Target floor: 18
   Boarding time: 0
-  Total travel time: 121
-  Met passengers: 14, 22, 39, 47, 64, 72, 97
-  Had overload: yes
+  Total travel time: 63
+  Met passengers: 1, 9
+  Had overload: no
 
 Passenger 11:
   Appearance time: 10
   Origin floor: 10
   Target floor: 5
   Boarding time: 0
-  Total travel time: 33
+  Total travel time: 29
   Met passengers: 61
   Had overload: no
 
@@ -102,8 +102,8 @@ Passenger 12:
   Origin floor: 11
   Target floor: 7
   Boarding time: 0
-  Total travel time: 96
-  Met passengers: 16, 17, 19, 41, 62, 66, 67, 69, 89, 91, 93, 95
+  Total travel time: 80
+  Met passengers: 62, 86
   Had overload: no
 
 Passenger 13:
@@ -111,8 +111,8 @@ Passenger 13:
   Origin floor: 12
   Target floor: 1
   Boarding time: 0
-  Total travel time: 68
-  Met passengers: 
+  Total travel time: 238
+  Met passengers: 63
   Had overload: no
 
 Passenger 14:
@@ -120,17 +120,17 @@ Passenger 14:
   Origin floor: 13
   Target floor: 10
   Boarding time: 0
-  Total travel time: 96
-  Met passengers: 22, 36, 46, 47, 64, 72, 97
-  Had overload: yes
+  Total travel time: 46
+  Met passengers: 13, 63, 64, 89
+  Had overload: no
 
 Passenger 15:
   Appearance time: 14
   Origin floor: 14
   Target floor: 20
   Boarding time: 0
-  Total travel time: 26
-  Met passengers: 65, 90
+  Total travel time: 195
+  Met passengers: 4, 54, 65, 90
   Had overload: no
 
 Passenger 16:
@@ -138,8 +138,8 @@ Passenger 16:
   Origin floor: 15
   Target floor: 3
   Boarding time: 0
-  Total travel time: 133
-  Met passengers: 17, 18, 19, 67, 68, 69, 91, 93, 94, 95
+  Total travel time: 154
+  Met passengers: 9, 10, 91
   Had overload: no
 
 Passenger 17:
@@ -147,8 +147,8 @@ Passenger 17:
   Origin floor: 16
   Target floor: 8
   Boarding time: 0
-  Total travel time: 90
-  Met passengers: 18, 19, 68, 92, 93, 94, 95
+  Total travel time: 211
+  Met passengers: 13, 39, 43, 59, 63, 89, 92, 93
   Had overload: no
 
 Passenger 18:
@@ -156,8 +156,8 @@ Passenger 18:
   Origin floor: 17
   Target floor: 12
   Boarding time: 0
-  Total travel time: 62
-  Met passengers: 19, 93, 94, 95
+  Total travel time: 113
+  Met passengers: 13, 35, 39, 59, 63, 85, 89, 93
   Had overload: no
 
 Passenger 19:
@@ -165,8 +165,8 @@ Passenger 19:
   Origin floor: 18
   Target floor: 5
   Boarding time: 0
-  Total travel time: 114
-  Met passengers: 94, 95
+  Total travel time: 153
+  Met passengers: 9, 16, 47, 48, 49, 66, 91, 94
   Had overload: no
 
 Passenger 20:
@@ -174,8 +174,8 @@ Passenger 20:
   Origin floor: 19
   Target floor: 1
   Boarding time: 0
-  Total travel time: 208
-  Met passengers: 35, 39, 44, 47, 85, 97
+  Total travel time: 237
+  Met passengers: 47, 50, 95
   Had overload: no
 
 Passenger 21:
@@ -183,8 +183,8 @@ Passenger 21:
   Origin floor: 20
   Target floor: 10
   Boarding time: 0
-  Total travel time: 30
-  Met passengers: 90
+  Total travel time: 197
+  Met passengers: 4, 40, 54, 90, 96
   Had overload: no
 
 Passenger 22:
@@ -192,8 +192,8 @@ Passenger 22:
   Origin floor: 21
   Target floor: 15
   Boarding time: 0
-  Total travel time: 103
-  Met passengers: 36, 46, 97
+  Total travel time: 246
+  Met passengers: 97
   Had overload: no
 
 Passenger 23:
@@ -201,8 +201,8 @@ Passenger 23:
   Origin floor: 22
   Target floor: 7
   Boarding time: 0
-  Total travel time: 182
-  Met passengers: 20, 35, 39, 44, 45, 47, 70, 85, 97, 98
+  Total travel time: 253
+  Met passengers: 22, 72, 97, 98
   Had overload: no
 
 Passenger 24:
@@ -210,25 +210,25 @@ Passenger 24:
   Origin floor: 23
   Target floor: 2
   Boarding time: 0
-  Total travel time: 150
-  Met passengers: 99
-  Had overload: yes
+  Total travel time: 256
+  Met passengers: 22, 23, 72, 73, 97, 98, 99
+  Had overload: no
 
 Passenger 25:
   Appearance time: 24
   Origin floor: 24
   Target floor: 19
   Boarding time: 0
-  Total travel time: 155
-  Met passengers: 
-  Had overload: yes
+  Total travel time: 242
+  Met passengers: 22, 23, 24, 72, 73, 74, 97, 98, 99
+  Had overload: no
 
 Passenger 26:
   Appearance time: 25
   Origin floor: 25
   Target floor: 4
   Boarding time: 0
-  Total travel time: 164
+  Total travel time: 289
   Met passengers: 
   Had overload: yes
 
@@ -237,7 +237,7 @@ Passenger 27:
   Origin floor: 1
   Target floor: 11
   Boarding time: 0
-  Total travel time: 75
+  Total travel time: 58
   Met passengers: 
   Had overload: no
 
@@ -246,8 +246,8 @@ Passenger 28:
   Origin floor: 2
   Target floor: 6
   Boarding time: 0
-  Total travel time: 101
-  Met passengers: 30, 80
+  Total travel time: 175
+  Met passengers: 3, 47
   Had overload: no
 
 Passenger 29:
@@ -255,8 +255,8 @@ Passenger 29:
   Origin floor: 3
   Target floor: 14
   Boarding time: 0
-  Total travel time: 122
-  Met passengers: 4, 30, 80
+  Total travel time: 165
+  Met passengers: 4
   Had overload: no
 
 Passenger 30:
@@ -264,8 +264,8 @@ Passenger 30:
   Origin floor: 4
   Target floor: 1
   Boarding time: 0
-  Total travel time: 127
-  Met passengers: 59
+  Total travel time: 238
+  Met passengers: 13, 39, 59, 63, 89
   Had overload: no
 
 Passenger 31:
@@ -273,8 +273,8 @@ Passenger 31:
   Origin floor: 5
   Target floor: 16
   Boarding time: 0
-  Total travel time: 36
-  Met passengers: 
+  Total travel time: 187
+  Met passengers: 13, 39, 43, 59, 63, 89, 93
   Had overload: no
 
 Passenger 32:
@@ -282,8 +282,8 @@ Passenger 32:
   Origin floor: 6
   Target floor: 9
   Boarding time: 0
-  Total travel time: 107
-  Met passengers: 7, 30, 53, 80
+  Total travel time: 152
+  Met passengers: 7, 9, 16, 19, 47, 49, 66, 69
   Had overload: no
 
 Passenger 33:
@@ -291,8 +291,8 @@ Passenger 33:
   Origin floor: 7
   Target floor: 3
   Boarding time: 0
-  Total travel time: 133
-  Met passengers: 8, 16, 19, 66, 69, 89, 93, 95
+  Total travel time: 121
+  Met passengers: 8
   Had overload: no
 
 Passenger 34:
@@ -300,8 +300,8 @@ Passenger 34:
   Origin floor: 8
   Target floor: 17
   Boarding time: 0
-  Total travel time: 83
-  Met passengers: 
+  Total travel time: 112
+  Met passengers: 13, 35, 39, 63, 85, 89
   Had overload: no
 
 Passenger 35:
@@ -309,17 +309,17 @@ Passenger 35:
   Origin floor: 9
   Target floor: 5
   Boarding time: 0
-  Total travel time: 194
-  Met passengers: 10, 14, 22, 39, 47, 64, 72, 97
-  Had overload: yes
+  Total travel time: 114
+  Met passengers: 13, 39, 63, 89
+  Had overload: no
 
 Passenger 36:
   Appearance time: 35
   Origin floor: 10
   Target floor: 12
   Boarding time: 0
-  Total travel time: 82
-  Met passengers: 
+  Total travel time: 56
+  Met passengers: 13, 39, 63, 89
   Had overload: no
 
 Passenger 37:
@@ -327,17 +327,17 @@ Passenger 37:
   Origin floor: 11
   Target floor: 8
   Boarding time: 0
-  Total travel time: 79
-  Met passengers: 
-  Had overload: yes
+  Total travel time: 59
+  Met passengers: 12, 62, 86
+  Had overload: no
 
 Passenger 38:
   Appearance time: 37
   Origin floor: 12
   Target floor: 13
   Boarding time: 0
-  Total travel time: 65
-  Met passengers: 13
+  Total travel time: 45
+  Met passengers: 13, 63
   Had overload: no
 
 Passenger 39:
@@ -345,17 +345,17 @@ Passenger 39:
   Origin floor: 13
   Target floor: 2
   Boarding time: 0
-  Total travel time: 204
-  Met passengers: 14, 22, 36, 46, 47, 64, 72, 97
-  Had overload: yes
+  Total travel time: 237
+  Met passengers: 13, 14, 63, 64, 89
+  Had overload: no
 
 Passenger 40:
   Appearance time: 39
   Origin floor: 14
   Target floor: 10
   Boarding time: 0
-  Total travel time: 45
-  Met passengers: 
+  Total travel time: 197
+  Met passengers: 4, 15, 54, 65, 90
   Had overload: no
 
 Passenger 41:
@@ -363,8 +363,8 @@ Passenger 41:
   Origin floor: 15
   Target floor: 7
   Boarding time: 0
-  Total travel time: 96
-  Met passengers: 16, 17, 18, 19, 66, 67, 68, 69, 91, 93, 94, 95
+  Total travel time: 130
+  Met passengers: 9, 16, 19, 44, 47, 48, 49, 66, 69, 91, 94
   Had overload: no
 
 Passenger 42:
@@ -372,17 +372,17 @@ Passenger 42:
   Origin floor: 16
   Target floor: 18
   Boarding time: 0
-  Total travel time: 121
-  Met passengers: 10, 35, 39, 47, 60, 85, 97
-  Had overload: no
+  Total travel time: 210
+  Met passengers: 13, 17, 39, 43, 59, 63, 67, 89, 93
+  Had overload: yes
 
 Passenger 43:
   Appearance time: 42
   Origin floor: 17
   Target floor: 4
   Boarding time: 0
-  Total travel time: 87
-  Met passengers: 59
+  Total travel time: 212
+  Met passengers: 13, 18, 35, 39, 59, 63, 68, 85, 89, 93
   Had overload: no
 
 Passenger 44:
@@ -390,8 +390,8 @@ Passenger 44:
   Origin floor: 18
   Target floor: 11
   Boarding time: 0
-  Total travel time: 161
-  Met passengers: 35, 39, 47, 85, 97
+  Total travel time: 65
+  Met passengers: 9, 16, 19, 47, 48, 49, 66, 69, 91, 94
   Had overload: no
 
 Passenger 45:
@@ -399,8 +399,8 @@ Passenger 45:
   Origin floor: 19
   Target floor: 6
   Boarding time: 0
-  Total travel time: 188
-  Met passengers: 20, 35, 39, 44, 47, 70, 85, 97
+  Total travel time: 236
+  Met passengers: 20, 47, 50, 70, 95
   Had overload: no
 
 Passenger 46:
@@ -408,8 +408,8 @@ Passenger 46:
   Origin floor: 20
   Target floor: 14
   Boarding time: 0
-  Total travel time: 67
-  Met passengers: 36
+  Total travel time: 196
+  Met passengers: 4, 21, 40, 54, 71, 90, 96
   Had overload: no
 
 Passenger 47:
@@ -417,8 +417,8 @@ Passenger 47:
   Origin floor: 21
   Target floor: 1
   Boarding time: 0
-  Total travel time: 208
-  Met passengers: 22, 36, 46, 72, 97
+  Total travel time: 237
+  Met passengers: 9, 10, 16, 66, 91
   Had overload: no
 
 Passenger 48:
@@ -426,26 +426,26 @@ Passenger 48:
   Origin floor: 22
   Target floor: 9
   Boarding time: 0
-  Total travel time: 140
-  Met passengers: 73
-  Had overload: yes
+  Total travel time: 66
+  Met passengers: 9, 10, 16, 47, 66, 91
+  Had overload: no
 
 Passenger 49:
   Appearance time: 48
   Origin floor: 23
   Target floor: 3
   Boarding time: 0
-  Total travel time: 147
-  Met passengers: 24, 74, 99
-  Had overload: yes
+  Total travel time: 154
+  Met passengers: 9, 10, 16, 47, 48, 66, 91
+  Had overload: no
 
 Passenger 50:
   Appearance time: 49
   Origin floor: 24
   Target floor: 16
   Boarding time: 0
-  Total travel time: 158
-  Met passengers: 25, 75, 100
+  Total travel time: 235
+  Met passengers: 47, 75
   Had overload: yes
 
 Passenger 51:
@@ -453,7 +453,7 @@ Passenger 51:
   Origin floor: 25
   Target floor: 10
   Boarding time: 0
-  Total travel time: 161
+  Total travel time: 288
   Met passengers: 26, 76
   Had overload: yes
 
@@ -462,8 +462,8 @@ Passenger 52:
   Origin floor: 1
   Target floor: 10
   Boarding time: 0
-  Total travel time: 72
-  Met passengers: 27, 77
+  Total travel time: 78
+  Met passengers: 
   Had overload: no
 
 Passenger 53:
@@ -471,8 +471,8 @@ Passenger 53:
   Origin floor: 2
   Target floor: 10
   Boarding time: 0
-  Total travel time: 112
-  Met passengers: 28, 30, 78, 80
+  Total travel time: 191
+  Met passengers: 3, 28, 47, 78
   Had overload: no
 
 Passenger 54:
@@ -480,8 +480,8 @@ Passenger 54:
   Origin floor: 3
   Target floor: 1
   Boarding time: 0
-  Total travel time: 127
-  Met passengers: 4, 29, 30, 79, 80
+  Total travel time: 198
+  Met passengers: 4, 29, 79
   Had overload: no
 
 Passenger 55:
@@ -489,8 +489,8 @@ Passenger 55:
   Origin floor: 4
   Target floor: 8
   Boarding time: 0
-  Total travel time: 92
-  Met passengers: 30, 59, 80
+  Total travel time: 236
+  Met passengers: 13, 30, 39, 59, 63, 80, 89
   Had overload: no
 
 Passenger 56:
@@ -498,8 +498,8 @@ Passenger 56:
   Origin floor: 5
   Target floor: 12
   Boarding time: 0
-  Total travel time: 119
-  Met passengers: 16, 33, 66, 81, 83, 89, 93
+  Total travel time: 163
+  Met passengers: 13, 31, 39, 43, 59, 63, 81, 89, 93
   Had overload: no
 
 Passenger 57:
@@ -507,8 +507,8 @@ Passenger 57:
   Origin floor: 6
   Target floor: 3
   Boarding time: 0
-  Total travel time: 116
-  Met passengers: 7, 30, 32, 53, 80, 82
+  Total travel time: 154
+  Met passengers: 7, 9, 16, 19, 32, 47, 49, 66, 69, 82
   Had overload: no
 
 Passenger 58:
@@ -516,8 +516,8 @@ Passenger 58:
   Origin floor: 7
   Target floor: 15
   Boarding time: 0
-  Total travel time: 103
-  Met passengers: 8, 16, 19, 33, 66, 69, 83, 89, 93, 95
+  Total travel time: 120
+  Met passengers: 8, 33, 83
   Had overload: no
 
 Passenger 59:
@@ -525,8 +525,8 @@ Passenger 59:
   Origin floor: 8
   Target floor: 2
   Boarding time: 0
-  Total travel time: 96
-  Met passengers: 34, 84
+  Total travel time: 237
+  Met passengers: 13, 34, 35, 39, 63, 84, 85, 89
   Had overload: no
 
 Passenger 60:
@@ -534,16 +534,16 @@ Passenger 60:
   Origin floor: 9
   Target floor: 18
   Boarding time: 0
-  Total travel time: 121
-  Met passengers: 10, 14, 22, 35, 39, 47, 64, 72, 85, 97
-  Had overload: yes
+  Total travel time: 129
+  Met passengers: 9, 16, 19, 41, 47, 49, 66, 69, 91
+  Had overload: no
 
 Passenger 61:
   Appearance time: 5
   Origin floor: 10
   Target floor: 5
   Boarding time: 0
-  Total travel time: 33
+  Total travel time: 29
   Met passengers: 
   Had overload: no
 
@@ -552,8 +552,8 @@ Passenger 62:
   Origin floor: 11
   Target floor: 7
   Boarding time: 0
-  Total travel time: 96
-  Met passengers: 16, 17, 19, 41, 66, 67, 69, 89, 91, 93, 95
+  Total travel time: 80
+  Met passengers: 86
   Had overload: no
 
 Passenger 63:
@@ -561,7 +561,7 @@ Passenger 63:
   Origin floor: 12
   Target floor: 1
   Boarding time: 0
-  Total travel time: 14
+  Total travel time: 238
   Met passengers: 
   Had overload: no
 
@@ -570,17 +570,17 @@ Passenger 64:
   Origin floor: 13
   Target floor: 10
   Boarding time: 0
-  Total travel time: 96
-  Met passengers: 22, 36, 46, 47, 72, 97
-  Had overload: yes
+  Total travel time: 46
+  Met passengers: 13, 63, 89
+  Had overload: no
 
 Passenger 65:
   Appearance time: 13
   Origin floor: 14
   Target floor: 20
   Boarding time: 0
-  Total travel time: 26
-  Met passengers: 90
+  Total travel time: 195
+  Met passengers: 4, 54, 90
   Had overload: no
 
 Passenger 66:
@@ -588,8 +588,8 @@ Passenger 66:
   Origin floor: 15
   Target floor: 3
   Boarding time: 0
-  Total travel time: 133
-  Met passengers: 16, 17, 18, 19, 67, 68, 69, 91, 93, 94, 95
+  Total travel time: 154
+  Met passengers: 9, 10, 16, 91
   Had overload: no
 
 Passenger 67:
@@ -597,8 +597,8 @@ Passenger 67:
   Origin floor: 16
   Target floor: 8
   Boarding time: 0
-  Total travel time: 90
-  Met passengers: 17, 18, 19, 68, 92, 93, 94, 95
+  Total travel time: 211
+  Met passengers: 13, 17, 39, 43, 59, 63, 89, 92, 93
   Had overload: no
 
 Passenger 68:
@@ -606,8 +606,8 @@ Passenger 68:
   Origin floor: 17
   Target floor: 12
   Boarding time: 0
-  Total travel time: 62
-  Met passengers: 18, 19, 93, 94, 95
+  Total travel time: 113
+  Met passengers: 13, 18, 35, 39, 59, 63, 85, 89, 93
   Had overload: no
 
 Passenger 69:
@@ -615,8 +615,8 @@ Passenger 69:
   Origin floor: 18
   Target floor: 5
   Boarding time: 0
-  Total travel time: 114
-  Met passengers: 17, 18, 19, 67, 68, 93, 94, 95
+  Total travel time: 153
+  Met passengers: 9, 16, 19, 47, 48, 49, 66, 91, 94
   Had overload: no
 
 Passenger 70:
@@ -624,8 +624,8 @@ Passenger 70:
   Origin floor: 19
   Target floor: 1
   Boarding time: 0
-  Total travel time: 208
-  Met passengers: 20, 35, 39, 44, 47, 85, 97
+  Total travel time: 237
+  Met passengers: 20, 47, 50, 95
   Had overload: no
 
 Passenger 71:
@@ -633,8 +633,8 @@ Passenger 71:
   Origin floor: 20
   Target floor: 10
   Boarding time: 0
-  Total travel time: 30
-  Met passengers: 21, 90
+  Total travel time: 197
+  Met passengers: 4, 21, 40, 54, 90, 96
   Had overload: no
 
 Passenger 72:
@@ -642,8 +642,8 @@ Passenger 72:
   Origin floor: 21
   Target floor: 15
   Boarding time: 0
-  Total travel time: 103
-  Met passengers: 22, 36, 46, 97
+  Total travel time: 246
+  Met passengers: 22, 97
   Had overload: no
 
 Passenger 73:
@@ -651,26 +651,26 @@ Passenger 73:
   Origin floor: 22
   Target floor: 7
   Boarding time: 0
-  Total travel time: 143
-  Met passengers: 
-  Had overload: yes
+  Total travel time: 253
+  Met passengers: 22, 23, 72, 97, 98
+  Had overload: no
 
 Passenger 74:
   Appearance time: 31
   Origin floor: 23
   Target floor: 2
   Boarding time: 0
-  Total travel time: 150
-  Met passengers: 24, 99
-  Had overload: yes
+  Total travel time: 256
+  Met passengers: 22, 23, 24, 72, 73, 97, 98, 99
+  Had overload: no
 
 Passenger 75:
   Appearance time: 33
   Origin floor: 24
   Target floor: 19
   Boarding time: 0
-  Total travel time: 155
-  Met passengers: 25, 100
+  Total travel time: 234
+  Met passengers: 47
   Had overload: yes
 
 Passenger 76:
@@ -678,7 +678,7 @@ Passenger 76:
   Origin floor: 25
   Target floor: 4
   Boarding time: 0
-  Total travel time: 164
+  Total travel time: 289
   Met passengers: 26
   Had overload: yes
 
@@ -687,8 +687,8 @@ Passenger 77:
   Origin floor: 1
   Target floor: 11
   Boarding time: 0
-  Total travel time: 75
-  Met passengers: 27
+  Total travel time: 65
+  Met passengers: 
   Had overload: no
 
 Passenger 78:
@@ -696,8 +696,8 @@ Passenger 78:
   Origin floor: 2
   Target floor: 6
   Boarding time: 0
-  Total travel time: 101
-  Met passengers: 28, 30, 80
+  Total travel time: 175
+  Met passengers: 3, 28, 47
   Had overload: no
 
 Passenger 79:
@@ -705,8 +705,8 @@ Passenger 79:
   Origin floor: 3
   Target floor: 14
   Boarding time: 0
-  Total travel time: 122
-  Met passengers: 4, 29, 30, 80
+  Total travel time: 165
+  Met passengers: 4, 29
   Had overload: no
 
 Passenger 80:
@@ -714,8 +714,8 @@ Passenger 80:
   Origin floor: 4
   Target floor: 1
   Boarding time: 0
-  Total travel time: 127
-  Met passengers: 30, 59
+  Total travel time: 238
+  Met passengers: 13, 30, 39, 59, 63, 89
   Had overload: no
 
 Passenger 81:
@@ -723,8 +723,8 @@ Passenger 81:
   Origin floor: 5
   Target floor: 16
   Boarding time: 0
-  Total travel time: 124
-  Met passengers: 16, 33, 66, 83, 89, 93
+  Total travel time: 187
+  Met passengers: 13, 31, 39, 43, 59, 63, 89, 93
   Had overload: no
 
 Passenger 82:
@@ -732,8 +732,8 @@ Passenger 82:
   Origin floor: 6
   Target floor: 9
   Boarding time: 0
-  Total travel time: 107
-  Met passengers: 7, 30, 32, 53, 80
+  Total travel time: 152
+  Met passengers: 7, 9, 16, 19, 32, 47, 49, 66, 69
   Had overload: no
 
 Passenger 83:
@@ -741,8 +741,8 @@ Passenger 83:
   Origin floor: 7
   Target floor: 3
   Boarding time: 0
-  Total travel time: 133
-  Met passengers: 8, 16, 19, 33, 66, 69, 89, 93, 95
+  Total travel time: 121
+  Met passengers: 8, 33
   Had overload: no
 
 Passenger 84:
@@ -750,8 +750,8 @@ Passenger 84:
   Origin floor: 8
   Target floor: 17
   Boarding time: 0
-  Total travel time: 83
-  Met passengers: 34
+  Total travel time: 112
+  Met passengers: 13, 34, 35, 39, 63, 85, 89
   Had overload: no
 
 Passenger 85:
@@ -759,17 +759,17 @@ Passenger 85:
   Origin floor: 9
   Target floor: 5
   Boarding time: 0
-  Total travel time: 194
-  Met passengers: 10, 14, 22, 35, 39, 47, 64, 72, 97
-  Had overload: yes
+  Total travel time: 114
+  Met passengers: 13, 35, 39, 63, 89
+  Had overload: no
 
 Passenger 86:
   Appearance time: 55
   Origin floor: 10
   Target floor: 12
   Boarding time: 0
-  Total travel time: 61
-  Met passengers: 
+  Total travel time: 75
+  Met passengers: 27
   Had overload: no
 
 Passenger 87:
@@ -777,17 +777,17 @@ Passenger 87:
   Origin floor: 11
   Target floor: 8
   Boarding time: 0
-  Total travel time: 79
-  Met passengers: 37
-  Had overload: yes
+  Total travel time: 59
+  Met passengers: 12, 37, 62, 86
+  Had overload: no
 
 Passenger 88:
   Appearance time: 59
   Origin floor: 12
   Target floor: 13
   Boarding time: 0
-  Total travel time: 65
-  Met passengers: 13, 38
+  Total travel time: 79
+  Met passengers: 12, 62
   Had overload: no
 
 Passenger 89:
@@ -795,8 +795,8 @@ Passenger 89:
   Origin floor: 13
   Target floor: 2
   Boarding time: 0
-  Total travel time: 136
-  Met passengers: 16, 17, 18, 19, 41, 66, 67, 68, 69, 91, 93, 94, 95
+  Total travel time: 237
+  Met passengers: 13, 63
   Had overload: no
 
 Passenger 90:
@@ -804,8 +804,8 @@ Passenger 90:
   Origin floor: 14
   Target floor: 10
   Boarding time: 0
-  Total travel time: 30
-  Met passengers: 
+  Total travel time: 197
+  Met passengers: 4, 54
   Had overload: no
 
 Passenger 91:
@@ -813,8 +813,8 @@ Passenger 91:
   Origin floor: 15
   Target floor: 7
   Boarding time: 0
-  Total travel time: 96
-  Met passengers: 17, 18, 19, 67, 68, 69, 93, 94, 95
+  Total travel time: 130
+  Met passengers: 9, 10
   Had overload: no
 
 Passenger 92:
@@ -822,8 +822,8 @@ Passenger 92:
   Origin floor: 16
   Target floor: 18
   Boarding time: 0
-  Total travel time: 35
-  Met passengers: 18, 19, 68, 93, 94, 95
+  Total travel time: 195
+  Met passengers: 13, 39, 43, 59, 63, 89, 93
   Had overload: no
 
 Passenger 93:
@@ -831,8 +831,8 @@ Passenger 93:
   Origin floor: 17
   Target floor: 4
   Boarding time: 0
-  Total travel time: 129
-  Met passengers: 19, 94, 95
+  Total travel time: 212
+  Met passengers: 13, 35, 39, 59, 63, 85, 89
   Had overload: no
 
 Passenger 94:
@@ -840,8 +840,8 @@ Passenger 94:
   Origin floor: 18
   Target floor: 11
   Boarding time: 0
-  Total travel time: 69
-  Met passengers: 95
+  Total travel time: 65
+  Met passengers: 9, 16, 47, 48, 49, 66, 91
   Had overload: no
 
 Passenger 95:
@@ -849,8 +849,8 @@ Passenger 95:
   Origin floor: 19
   Target floor: 6
   Boarding time: 0
-  Total travel time: 109
-  Met passengers: 
+  Total travel time: 236
+  Met passengers: 47, 50
   Had overload: no
 
 Passenger 96:
@@ -858,8 +858,8 @@ Passenger 96:
   Origin floor: 20
   Target floor: 14
   Boarding time: 0
-  Total travel time: 22
-  Met passengers: 
+  Total travel time: 196
+  Met passengers: 4, 40, 54, 90
   Had overload: no
 
 Passenger 97:
@@ -867,8 +867,8 @@ Passenger 97:
   Origin floor: 21
   Target floor: 1
   Boarding time: 0
-  Total travel time: 208
-  Met passengers: 36, 46
+  Total travel time: 257
+  Met passengers: 
   Had overload: no
 
 Passenger 98:
@@ -876,8 +876,8 @@ Passenger 98:
   Origin floor: 22
   Target floor: 9
   Boarding time: 0
-  Total travel time: 168
-  Met passengers: 20, 35, 39, 44, 45, 47, 70, 85, 97
+  Total travel time: 252
+  Met passengers: 22, 72, 97
   Had overload: no
 
 Passenger 99:
@@ -885,16 +885,16 @@ Passenger 99:
   Origin floor: 23
   Target floor: 3
   Boarding time: 0
-  Total travel time: 147
-  Met passengers: 
-  Had overload: yes
+  Total travel time: 255
+  Met passengers: 22, 23, 72, 73, 97, 98
+  Had overload: no
 
 Passenger 100:
   Appearance time: 24
   Origin floor: 24
   Target floor: 16
   Boarding time: 0
-  Total travel time: 158
-  Met passengers: 25
-  Had overload: yes
+  Total travel time: 245
+  Met passengers: 22, 23, 24, 25, 72, 73, 74, 97, 98, 99
+  Had overload: no
 

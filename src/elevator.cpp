@@ -8,17 +8,10 @@
 Elevator::Elevator(size_t id, int starting_floor, double max_load,
                    size_t total_floors, ElevatorState initial_state)
     : m_current_floor(starting_floor),
-      m_target_floor(0),
       m_state(initial_state),
       m_current_load(0.0),
       m_max_load(max_load),
       m_pressed_buttons(total_floors + 1, false),
-      m_idle_time(0),
-      m_moving_time(0),
-      m_floors_passed(0),
-      m_total_cargo(0.0),
-      m_max_load_reached(0.0),
-      m_overloads_count(0),
       m_id(id) {
   if (starting_floor < 1) {
     throw std::invalid_argument("Starting floor must be positive");
@@ -123,7 +116,7 @@ void Elevator::calculate_moving_time_with_interrupt(size_t current_time,
   double floors_per_time_unit =
       static_cast<double>(total_floors_to_pass) /
       (m_time_travel_ends - m_timestamp_when_last_state_set);
-  size_t floors_passed_approx =
+  auto floors_passed_approx =
       static_cast<size_t>(time_elapsed * floors_per_time_unit);
 
   size_t current_floor_approx = (m_state == ElevatorState::MovingUp)

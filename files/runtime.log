@@ -1,4 +1,4 @@
-Parsed elevators file. Results: 1 elevators, 25 floors
+Parsed elevators file. Results: 8 elevators, 25 floors
 Parsed time 00:00 to numerical: 0
 Passenger #1 | 65.200000 kg | 00:00 | floor 1 → floor 15
 Parsed time 00:01 to numerical: 1
@@ -206,4 +206,2259 @@ Modeling starts!
 [0] Passenger #1 entered elevator on floor 1
 [0] Elevator #1 continues MovingUp - next target floor 15, will arrive at [42]
 [1] Passenger #2 waiting elevator at floor 1, Target floor: 10
-[1] Elevator #1 interrupted to floor 1 (approximate current floor: 1), will arrive at 9223372036854775809
+[1] Elevator #2 arrived at floor 1
+[1] Passenger #2 entered elevator on floor 1
+[1] Elevator #2 continues MovingUp - next target floor 10, will arrive at [28]
+[2] Passenger #3 waiting elevator at floor 2, Target floor: 24
+[2] Passenger #89 waiting elevator at floor 13, Target floor: 2
+[2] Elevator #3 started idleing (no buttons pressed)
+[2] Elevator #3 continues MovingUp - next target floor 13, will arrive at [32]
+[3] Passenger #4 waiting elevator at floor 3, Target floor: 1
+[3] Elevator #3 continues MovingUp - next target floor 13, will arrive at [30]
+[4] Passenger #5 waiting elevator at floor 1, Target floor: 8
+[4] Passenger #90 waiting elevator at floor 14, Target floor: 10
+[4] Elevator #4 arrived at floor 1
+[4] Passenger #5 entered elevator on floor 1
+[4] Elevator #4 continues MovingUp - next target floor 8, will arrive at [25]
+[4] Elevator #3 continues MovingUp - next target floor 13, will arrive at [28]
+[5] Passenger #6 waiting elevator at floor 5, Target floor: 12
+[5] Passenger #61 waiting elevator at floor 10, Target floor: 5
+[5] Elevator #3 continues MovingUp - next target floor 13, will arrive at [26]
+[5] Elevator #3 continues MovingUp - next target floor 10, will arrive at [14]
+[6] Passenger #7 waiting elevator at floor 6, Target floor: 3
+[6] Passenger #91 waiting elevator at floor 15, Target floor: 7
+[6] Elevator #1 continues MovingUp - next target floor 6, will arrive at [12]
+[6] Elevator #3 continues MovingUp - next target floor 10, will arrive at [12]
+[7] Passenger #8 waiting elevator at floor 7, Target floor: 15
+[7] Passenger #62 waiting elevator at floor 11, Target floor: 7
+[7] Elevator #1 continues MovingUp - next target floor 6, will arrive at [10]
+[7] Elevator #3 continues MovingUp - next target floor 10, will arrive at [10]
+[8] Passenger #9 waiting elevator at floor 8, Target floor: 2
+[8] Passenger #92 waiting elevator at floor 16, Target floor: 18
+[8] Elevator #1 continues MovingUp - next target floor 7, will arrive at [11]
+[8] Elevator #3 continues MovingUp - next target floor 11, will arrive at [11]
+[9] Passenger #10 waiting elevator at floor 9, Target floor: 18
+[9] Passenger #63 waiting elevator at floor 12, Target floor: 1
+[9] Elevator #1 continues MovingUp - next target floor 8, will arrive at [12]
+[9] Elevator #3 continues MovingUp - next target floor 12, will arrive at [12]
+[10] Passenger #11 waiting elevator at floor 10, Target floor: 5
+[10] Passenger #93 waiting elevator at floor 17, Target floor: 4
+[10] Elevator #3 continues MovingUp - next target floor 13, will arrive at [13]
+[11] Passenger #12 waiting elevator at floor 11, Target floor: 7
+[11] Passenger #64 waiting elevator at floor 13, Target floor: 10
+[12] Passenger #13 waiting elevator at floor 12, Target floor: 1
+[12] Passenger #94 waiting elevator at floor 18, Target floor: 11
+[12] Elevator #3 continues MovingUp - next target floor 14, will arrive at [15]
+[12] Elevator #1 arrived at floor 8
+[12] Passenger #9 entered elevator on floor 8
+[12] Elevator #1 continues MovingUp - next target floor 9, will arrive at [15]
+[13] Passenger #14 waiting elevator at floor 13, Target floor: 10
+[13] Passenger #65 waiting elevator at floor 14, Target floor: 20
+[14] Passenger #15 waiting elevator at floor 14, Target floor: 20
+[14] Passenger #95 waiting elevator at floor 19, Target floor: 6
+[14] Elevator #3 continues MovingUp - next target floor 15, will arrive at [17]
+[15] Passenger #16 waiting elevator at floor 15, Target floor: 3
+[15] Passenger #66 waiting elevator at floor 15, Target floor: 3
+[15] Elevator #1 arrived at floor 9
+[15] Passenger #10 entered elevator on floor 9
+[15] Elevator #1 continues MovingUp - next target floor 15, will arrive at [39]
+[16] Passenger #17 waiting elevator at floor 16, Target floor: 8
+[16] Passenger #96 waiting elevator at floor 20, Target floor: 14
+[16] Elevator #3 continues MovingUp - next target floor 16, will arrive at [19]
+[17] Passenger #18 waiting elevator at floor 17, Target floor: 12
+[17] Passenger #67 waiting elevator at floor 16, Target floor: 8
+[18] Passenger #19 waiting elevator at floor 18, Target floor: 5
+[18] Passenger #97 waiting elevator at floor 21, Target floor: 1
+[18] Elevator #3 continues MovingUp - next target floor 17, will arrive at [21]
+[19] Passenger #20 waiting elevator at floor 19, Target floor: 1
+[19] Passenger #68 waiting elevator at floor 17, Target floor: 12
+[20] Passenger #21 waiting elevator at floor 20, Target floor: 10
+[20] Passenger #98 waiting elevator at floor 22, Target floor: 9
+[20] Elevator #3 continues MovingUp - next target floor 18, will arrive at [23]
+[21] Passenger #22 waiting elevator at floor 21, Target floor: 15
+[21] Passenger #69 waiting elevator at floor 18, Target floor: 5
+[22] Passenger #23 waiting elevator at floor 22, Target floor: 7
+[22] Passenger #99 waiting elevator at floor 23, Target floor: 3
+[22] Elevator #3 continues MovingUp - next target floor 19, will arrive at [25]
+[23] Passenger #24 waiting elevator at floor 23, Target floor: 2
+[23] Passenger #70 waiting elevator at floor 19, Target floor: 1
+[24] Passenger #25 waiting elevator at floor 24, Target floor: 19
+[24] Passenger #100 waiting elevator at floor 24, Target floor: 16
+[24] Elevator #3 continues MovingUp - next target floor 20, will arrive at [27]
+[25] Passenger #26 waiting elevator at floor 25, Target floor: 4
+[25] Passenger #71 waiting elevator at floor 20, Target floor: 10
+[25] Elevator #3 continues MovingUp - next target floor 21, will arrive at [28]
+[25] Elevator #4 arrived at floor 8
+[25] Passenger #5 arrived at floor 8 via elevator #4
+[25] Elevator #4 started idleing (no buttons pressed)
+[26] Passenger #27 waiting elevator at floor 1, Target floor: 11
+[26] Elevator #4 changes direction to MovingDown - next target floor 1, will arrive at [2]
+[26] Elevator #4 arrived at floor 1
+[26] Passenger #27 entered elevator on floor 1
+[26] Elevator #4 continues MovingUp - next target floor 11, will arrive at [56]
+[27] Passenger #28 waiting elevator at floor 2, Target floor: 6
+[27] Passenger #72 waiting elevator at floor 21, Target floor: 15
+[28] Passenger #29 waiting elevator at floor 3, Target floor: 14
+[28] Elevator #2 arrived at floor 10
+[28] Passenger #2 arrived at floor 10 via elevator #2
+[28] Passenger #61 entered elevator on floor 10
+[28] Passenger #11 entered elevator on floor 10
+[28] Elevator #2 changes direction to MovingDown - next target floor 5, will arrive at [13]
+[28] Elevator #3 arrived at floor 21
+[28] Passenger #97 entered elevator on floor 21
+[28] Passenger #22 entered elevator on floor 21
+[28] Passenger #72 entered elevator on floor 21
+[28] Elevator #3 continues MovingUp - next target floor 22, will arrive at [32]
+[29] Passenger #30 waiting elevator at floor 4, Target floor: 1
+[29] Passenger #73 waiting elevator at floor 22, Target floor: 7
+[29] Elevator #2 continues MovingDown - next target floor 5, will arrive at [55]
+[29] Elevator #2 arrived at floor 5
+[29] Passenger #61 arrived at floor 5 via elevator #2
+[29] Passenger #11 arrived at floor 5 via elevator #2
+[29] Passenger #6 entered elevator on floor 5
+[29] Elevator #2 continues MovingUp - next target floor 12, will arrive at [50]
+[30] Passenger #31 waiting elevator at floor 5, Target floor: 16
+[30] Elevator #2 continues MovingUp - next target floor 12, will arrive at [48]
+[31] Passenger #32 waiting elevator at floor 6, Target floor: 9
+[31] Passenger #74 waiting elevator at floor 23, Target floor: 2
+[32] Passenger #33 waiting elevator at floor 7, Target floor: 3
+[32] Elevator #3 arrived at floor 22
+[32] Passenger #98 entered elevator on floor 22
+[32] Passenger #23 entered elevator on floor 22
+[32] Passenger #73 entered elevator on floor 22
+[32] Elevator #3 continues MovingUp - next target floor 23, will arrive at [37]
+[33] Passenger #34 waiting elevator at floor 8, Target floor: 17
+[33] Passenger #75 waiting elevator at floor 24, Target floor: 19
+[33] Elevator #2 continues MovingUp - next target floor 12, will arrive at [45]
+[34] Passenger #35 waiting elevator at floor 9, Target floor: 5
+[34] Elevator #2 continues MovingUp - next target floor 12, will arrive at [43]
+[35] Passenger #36 waiting elevator at floor 10, Target floor: 12
+[35] Passenger #76 waiting elevator at floor 25, Target floor: 4
+[35] Elevator #2 continues MovingUp - next target floor 12, will arrive at [41]
+[36] Passenger #37 waiting elevator at floor 11, Target floor: 8
+[37] Passenger #38 waiting elevator at floor 12, Target floor: 13
+[37] Passenger #77 waiting elevator at floor 1, Target floor: 11
+[37] Elevator #5 arrived at floor 1
+[37] Passenger #77 entered elevator on floor 1
+[37] Elevator #5 continues MovingUp - next target floor 11, will arrive at [67]
+[37] Elevator #3 arrived at floor 23
+[37] Passenger #99 entered elevator on floor 23
+[37] Passenger #24 entered elevator on floor 23
+[37] Passenger #74 entered elevator on floor 23
+[37] Elevator #3 continues MovingUp - next target floor 24, will arrive at [44]
+[38] Passenger #39 waiting elevator at floor 13, Target floor: 2
+[39] Passenger #40 waiting elevator at floor 14, Target floor: 10
+[39] Passenger #78 waiting elevator at floor 2, Target floor: 6
+[39] Elevator #1 arrived at floor 15
+[39] Passenger #1 arrived at floor 15 via elevator #1
+[39] Passenger #91 entered elevator on floor 15
+[39] Passenger #16 entered elevator on floor 15
+[39] Passenger #66 entered elevator on floor 15
+[39] Elevator #1 continues MovingUp - next target floor 18, will arrive at [51]
+[40] Passenger #41 waiting elevator at floor 15, Target floor: 7
+[40] Elevator #1 continues MovingUp - next target floor 18, will arrive at [48]
+[41] Passenger #42 waiting elevator at floor 16, Target floor: 18
+[41] Passenger #79 waiting elevator at floor 3, Target floor: 14
+[41] Elevator #2 arrived at floor 12
+[41] Passenger #6 arrived at floor 12 via elevator #2
+[41] Passenger #63 entered elevator on floor 12
+[41] Passenger #13 entered elevator on floor 12
+[41] Passenger #38 entered elevator on floor 12
+[41] Elevator #2 continues MovingUp - next target floor 13, will arrive at [45]
+[42] Passenger #43 waiting elevator at floor 17, Target floor: 4
+[43] Passenger #44 waiting elevator at floor 18, Target floor: 11
+[43] Passenger #80 waiting elevator at floor 4, Target floor: 1
+[44] Passenger #45 waiting elevator at floor 19, Target floor: 6
+[44] Elevator #3 arrived at floor 24
+[44] Passenger #25 entered elevator on floor 24
+[44] Passenger #100 entered elevator on floor 24
+[44] Elevator #3 continues MovingUp - next target floor 25, will arrive at [51]
+[45] Passenger #46 waiting elevator at floor 20, Target floor: 14
+[45] Passenger #81 waiting elevator at floor 5, Target floor: 16
+[45] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [38]
+[45] Elevator #2 arrived at floor 13
+[45] Passenger #38 arrived at floor 13 via elevator #2
+[45] Passenger #89 entered elevator on floor 13
+[45] Passenger #64 entered elevator on floor 13
+[45] Passenger #14 entered elevator on floor 13
+[45] Passenger #39 entered elevator on floor 13
+[45] Elevator #2 changes direction to MovingDown - next target floor 10, will arrive at [30]
+[45] Elevator #3 arrived at floor 24
+[45] Elevator #3 continues MovingUp - next target floor 25, will arrive at [52]
+[46] Passenger #47 waiting elevator at floor 21, Target floor: 1
+[46] Elevator #1 continues MovingUp - next target floor 21, will arrive at [58]
+[46] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [39]
+[46] Elevator #2 arrived at floor 10
+[46] Passenger #64 arrived at floor 10 via elevator #2
+[46] Passenger #14 arrived at floor 10 via elevator #2
+[46] Passenger #36 entered elevator on floor 10
+[46] Elevator #2 continues MovingUp - next target floor 12, will arrive at [56]
+[46] Elevator #3 arrived at floor 24
+[46] Elevator #3 continues MovingUp - next target floor 25, will arrive at [53]
+[47] Passenger #48 waiting elevator at floor 22, Target floor: 9
+[47] Passenger #82 waiting elevator at floor 6, Target floor: 9
+[47] Elevator #1 continues MovingUp - next target floor 21, will arrive at [55]
+[47] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [40]
+[47] Elevator #3 arrived at floor 24
+[47] Elevator #3 continues MovingUp - next target floor 25, will arrive at [54]
+[48] Passenger #49 waiting elevator at floor 23, Target floor: 3
+[48] Elevator #1 continues MovingUp - next target floor 21, will arrive at [52]
+[48] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [41]
+[48] Elevator #3 arrived at floor 24
+[48] Elevator #3 continues MovingUp - next target floor 25, will arrive at [55]
+[49] Passenger #50 waiting elevator at floor 24, Target floor: 16
+[49] Passenger #83 waiting elevator at floor 7, Target floor: 3
+[49] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [42]
+[49] Elevator #3 arrived at floor 24
+[49] Elevator #3 continues MovingUp - next target floor 25, will arrive at [56]
+[50] Passenger #51 waiting elevator at floor 25, Target floor: 10
+[50] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [43]
+[50] Elevator #3 arrived at floor 24
+[50] Elevator #3 continues MovingUp - next target floor 25, will arrive at [57]
+[51] Passenger #52 waiting elevator at floor 1, Target floor: 10
+[51] Passenger #84 waiting elevator at floor 8, Target floor: 17
+[51] Elevator #6 arrived at floor 1
+[51] Passenger #52 entered elevator on floor 1
+[51] Elevator #6 continues MovingUp - next target floor 10, will arrive at [78]
+[51] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [44]
+[51] Elevator #3 arrived at floor 24
+[51] Elevator #3 continues MovingUp - next target floor 25, will arrive at [58]
+[52] Passenger #53 waiting elevator at floor 2, Target floor: 10
+[52] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [45]
+[52] Elevator #1 arrived at floor 21
+[52] Passenger #47 entered elevator on floor 21
+[52] Elevator #1 continues MovingUp - next target floor 22, will arrive at [57]
+[52] Elevator #3 arrived at floor 24
+[52] Elevator #3 continues MovingUp - next target floor 25, will arrive at [59]
+[53] Passenger #54 waiting elevator at floor 3, Target floor: 1
+[53] Passenger #85 waiting elevator at floor 9, Target floor: 5
+[53] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [46]
+[53] Elevator #3 arrived at floor 24
+[53] Elevator #3 continues MovingUp - next target floor 25, will arrive at [60]
+[54] Passenger #55 waiting elevator at floor 4, Target floor: 8
+[54] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [47]
+[54] Elevator #3 arrived at floor 24
+[54] Elevator #3 continues MovingUp - next target floor 25, will arrive at [61]
+[55] Passenger #56 waiting elevator at floor 5, Target floor: 12
+[55] Passenger #86 waiting elevator at floor 10, Target floor: 12
+[55] Elevator #4 changes direction to MovingDown - next target floor 10, will arrive at [52]
+[55] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [48]
+[55] Elevator #3 arrived at floor 24
+[55] Elevator #3 continues MovingUp - next target floor 25, will arrive at [62]
+[55] Elevator #4 arrived at floor 10
+[55] Passenger #86 entered elevator on floor 10
+[55] Elevator #4 continues MovingUp - next target floor 11, will arrive at [58]
+[56] Passenger #57 waiting elevator at floor 6, Target floor: 3
+[56] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [49]
+[56] Elevator #2 arrived at floor 12
+[56] Passenger #36 arrived at floor 12 via elevator #2
+[56] Elevator #2 changes direction to MovingDown - next target floor 9, will arrive at [44]
+[56] Elevator #3 arrived at floor 24
+[56] Elevator #3 continues MovingUp - next target floor 25, will arrive at [63]
+[57] Passenger #58 waiting elevator at floor 7, Target floor: 15
+[57] Passenger #87 waiting elevator at floor 11, Target floor: 8
+[57] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [50]
+[57] Elevator #1 arrived at floor 22
+[57] Passenger #48 entered elevator on floor 22
+[57] Elevator #1 continues MovingUp - next target floor 23, will arrive at [62]
+[57] Elevator #2 arrived at floor 9
+[57] Passenger #35 entered elevator on floor 9
+[57] Passenger #85 entered elevator on floor 9
+[57] Elevator #2 changes direction to MovingDown - next target floor 8, will arrive at [52]
+[57] Elevator #3 arrived at floor 24
+[57] Elevator #3 continues MovingUp - next target floor 25, will arrive at [64]
+[58] Passenger #59 waiting elevator at floor 8, Target floor: 2
+[58] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [51]
+[58] Elevator #2 arrived at floor 8
+[58] Passenger #34 entered elevator on floor 8
+[58] Passenger #84 entered elevator on floor 8
+[58] Passenger #59 entered elevator on floor 8
+[58] Elevator #2 continues MovingUp - next target floor 17, will arrive at [112]
+[58] Elevator #3 arrived at floor 24
+[58] Elevator #3 continues MovingUp - next target floor 25, will arrive at [65]
+[58] Elevator #4 arrived at floor 11
+[58] Passenger #27 arrived at floor 11 via elevator #4
+[58] Passenger #62 entered elevator on floor 11
+[58] Passenger #12 entered elevator on floor 11
+[58] Passenger #37 entered elevator on floor 11
+[58] Passenger #87 entered elevator on floor 11
+[58] Elevator #4 continues MovingUp - next target floor 12, will arrive at [63]
+[59] Passenger #60 waiting elevator at floor 9, Target floor: 18
+[59] Passenger #88 waiting elevator at floor 12, Target floor: 13
+[59] Elevator #5 continues MovingUp - next target floor 11, will arrive at [65]
+[59] Elevator #4 changes direction to MovingDown - next target floor 8, will arrive at [39]
+[59] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [52]
+[59] Elevator #3 arrived at floor 24
+[59] Elevator #3 continues MovingUp - next target floor 25, will arrive at [66]
+[59] Elevator #4 arrived at floor 8
+[59] Passenger #37 arrived at floor 8 via elevator #4
+[59] Passenger #87 arrived at floor 8 via elevator #4
+[59] Elevator #4 continues MovingUp - next target floor 12, will arrive at [75]
+[60] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [53]
+[60] Elevator #3 arrived at floor 24
+[60] Elevator #3 continues MovingUp - next target floor 25, will arrive at [67]
+[61] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [54]
+[61] Elevator #3 arrived at floor 24
+[61] Elevator #3 continues MovingUp - next target floor 25, will arrive at [68]
+[62] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [55]
+[62] Elevator #1 arrived at floor 23
+[62] Passenger #49 entered elevator on floor 23
+[62] Elevator #1 changes direction to MovingDown - next target floor 18, will arrive at [32]
+[62] Elevator #3 arrived at floor 24
+[62] Elevator #3 continues MovingUp - next target floor 25, will arrive at [69]
+[63] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [56]
+[63] Elevator #1 arrived at floor 18
+[63] Passenger #10 arrived at floor 18 via elevator #1
+[63] Passenger #94 entered elevator on floor 18
+[63] Passenger #19 entered elevator on floor 18
+[63] Passenger #69 entered elevator on floor 18
+[63] Passenger #44 entered elevator on floor 18
+[63] Elevator #1 changes direction to MovingDown - next target floor 15, will arrive at [42]
+[63] Elevator #3 arrived at floor 24
+[63] Elevator #3 continues MovingUp - next target floor 25, will arrive at [70]
+[64] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [57]
+[64] Elevator #1 arrived at floor 15
+[64] Passenger #41 entered elevator on floor 15
+[64] Elevator #1 changes direction to MovingDown - next target floor 11, will arrive at [36]
+[64] Elevator #3 arrived at floor 24
+[64] Elevator #3 continues MovingUp - next target floor 25, will arrive at [71]
+[65] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [58]
+[65] Elevator #1 arrived at floor 11
+[65] Passenger #94 arrived at floor 11 via elevator #1
+[65] Passenger #44 arrived at floor 11 via elevator #1
+[65] Elevator #1 changes direction to MovingDown - next target floor 9, will arrive at [53]
+[65] Elevator #3 arrived at floor 24
+[65] Elevator #3 continues MovingUp - next target floor 25, will arrive at [72]
+[65] Elevator #5 arrived at floor 11
+[65] Passenger #77 arrived at floor 11 via elevator #5
+[65] Elevator #5 changes direction to MovingDown - next target floor 9, will arrive at [59]
+[66] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [59]
+[66] Elevator #1 arrived at floor 9
+[66] Passenger #48 arrived at floor 9 via elevator #1
+[66] Passenger #60 entered elevator on floor 9
+[66] Elevator #1 continues MovingUp - next target floor 18, will arrive at [129]
+[66] Elevator #3 arrived at floor 24
+[66] Elevator #3 continues MovingUp - next target floor 25, will arrive at [73]
+[66] Elevator #5 arrived at floor 9
+[66] Elevator #5 started idleing (no buttons pressed)
+[67] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [60]
+[67] Elevator #3 arrived at floor 24
+[67] Elevator #3 continues MovingUp - next target floor 25, will arrive at [74]
+[67] Elevator #5 arrived at floor 9
+[67] Elevator #5 started idleing (no buttons pressed)
+[68] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [61]
+[68] Elevator #3 arrived at floor 24
+[68] Elevator #3 continues MovingUp - next target floor 25, will arrive at [75]
+[68] Elevator #5 arrived at floor 9
+[68] Elevator #5 started idleing (no buttons pressed)
+[69] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [62]
+[69] Elevator #3 arrived at floor 24
+[69] Elevator #3 continues MovingUp - next target floor 25, will arrive at [76]
+[69] Elevator #5 arrived at floor 9
+[69] Elevator #5 started idleing (no buttons pressed)
+[70] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [63]
+[70] Elevator #3 arrived at floor 24
+[70] Elevator #3 continues MovingUp - next target floor 25, will arrive at [77]
+[70] Elevator #5 arrived at floor 9
+[70] Elevator #5 started idleing (no buttons pressed)
+[71] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [64]
+[71] Elevator #3 arrived at floor 24
+[71] Elevator #3 continues MovingUp - next target floor 25, will arrive at [78]
+[71] Elevator #5 arrived at floor 9
+[71] Elevator #5 started idleing (no buttons pressed)
+[72] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [65]
+[72] Elevator #3 arrived at floor 24
+[72] Elevator #3 continues MovingUp - next target floor 25, will arrive at [79]
+[72] Elevator #5 arrived at floor 9
+[72] Elevator #5 started idleing (no buttons pressed)
+[73] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [66]
+[73] Elevator #3 arrived at floor 24
+[73] Elevator #3 continues MovingUp - next target floor 25, will arrive at [80]
+[73] Elevator #5 arrived at floor 9
+[73] Elevator #5 started idleing (no buttons pressed)
+[74] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [67]
+[74] Elevator #3 arrived at floor 24
+[74] Elevator #3 continues MovingUp - next target floor 25, will arrive at [81]
+[74] Elevator #5 arrived at floor 9
+[74] Elevator #5 started idleing (no buttons pressed)
+[75] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [68]
+[75] Elevator #3 arrived at floor 24
+[75] Elevator #3 continues MovingUp - next target floor 25, will arrive at [82]
+[75] Elevator #4 arrived at floor 12
+[75] Passenger #86 arrived at floor 12 via elevator #4
+[75] Passenger #88 entered elevator on floor 12
+[75] Elevator #4 continues MovingUp - next target floor 13, will arrive at [79]
+[75] Elevator #5 arrived at floor 9
+[75] Elevator #5 started idleing (no buttons pressed)
+[76] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [69]
+[76] Elevator #3 arrived at floor 24
+[76] Elevator #3 continues MovingUp - next target floor 25, will arrive at [83]
+[76] Elevator #5 arrived at floor 9
+[76] Elevator #5 started idleing (no buttons pressed)
+[77] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [70]
+[77] Elevator #3 arrived at floor 24
+[77] Elevator #3 continues MovingUp - next target floor 25, will arrive at [84]
+[77] Elevator #5 arrived at floor 9
+[77] Elevator #5 started idleing (no buttons pressed)
+[78] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [71]
+[78] Elevator #3 arrived at floor 24
+[78] Elevator #3 continues MovingUp - next target floor 25, will arrive at [85]
+[78] Elevator #5 arrived at floor 9
+[78] Elevator #5 started idleing (no buttons pressed)
+[78] Elevator #6 arrived at floor 10
+[78] Passenger #52 arrived at floor 10 via elevator #6
+[78] Elevator #6 started idleing (no buttons pressed)
+[79] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [72]
+[79] Elevator #3 arrived at floor 24
+[79] Elevator #3 continues MovingUp - next target floor 25, will arrive at [86]
+[79] Elevator #4 arrived at floor 13
+[79] Passenger #88 arrived at floor 13 via elevator #4
+[79] Elevator #4 changes direction to MovingDown - next target floor 7, will arrive at [55]
+[79] Elevator #5 arrived at floor 9
+[79] Elevator #5 started idleing (no buttons pressed)
+[80] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [73]
+[80] Elevator #3 arrived at floor 24
+[80] Elevator #3 continues MovingUp - next target floor 25, will arrive at [87]
+[80] Elevator #4 arrived at floor 7
+[80] Passenger #62 arrived at floor 7 via elevator #4
+[80] Passenger #12 arrived at floor 7 via elevator #4
+[80] Passenger #8 entered elevator on floor 7
+[80] Passenger #33 entered elevator on floor 7
+[80] Passenger #83 entered elevator on floor 7
+[80] Passenger #58 entered elevator on floor 7
+[80] Elevator #4 continues MovingUp - next target floor 15, will arrive at [120]
+[80] Elevator #5 arrived at floor 9
+[80] Elevator #5 started idleing (no buttons pressed)
+[81] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [74]
+[81] Elevator #3 arrived at floor 24
+[81] Elevator #3 continues MovingUp - next target floor 25, will arrive at [88]
+[81] Elevator #5 arrived at floor 9
+[81] Elevator #5 started idleing (no buttons pressed)
+[82] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [75]
+[82] Elevator #3 arrived at floor 24
+[82] Elevator #3 continues MovingUp - next target floor 25, will arrive at [89]
+[82] Elevator #5 arrived at floor 9
+[82] Elevator #5 started idleing (no buttons pressed)
+[83] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [76]
+[83] Elevator #3 arrived at floor 24
+[83] Elevator #3 continues MovingUp - next target floor 25, will arrive at [90]
+[83] Elevator #5 arrived at floor 9
+[83] Elevator #5 started idleing (no buttons pressed)
+[84] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [77]
+[84] Elevator #3 arrived at floor 24
+[84] Elevator #3 continues MovingUp - next target floor 25, will arrive at [91]
+[84] Elevator #5 arrived at floor 9
+[84] Elevator #5 started idleing (no buttons pressed)
+[85] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [78]
+[85] Elevator #3 arrived at floor 24
+[85] Elevator #3 continues MovingUp - next target floor 25, will arrive at [92]
+[85] Elevator #5 arrived at floor 9
+[85] Elevator #5 started idleing (no buttons pressed)
+[86] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [79]
+[86] Elevator #3 arrived at floor 24
+[86] Elevator #3 continues MovingUp - next target floor 25, will arrive at [93]
+[86] Elevator #5 arrived at floor 9
+[86] Elevator #5 started idleing (no buttons pressed)
+[87] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [80]
+[87] Elevator #3 arrived at floor 24
+[87] Elevator #3 continues MovingUp - next target floor 25, will arrive at [94]
+[87] Elevator #5 arrived at floor 9
+[87] Elevator #5 started idleing (no buttons pressed)
+[88] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [81]
+[88] Elevator #3 arrived at floor 24
+[88] Elevator #3 continues MovingUp - next target floor 25, will arrive at [95]
+[88] Elevator #5 arrived at floor 9
+[88] Elevator #5 started idleing (no buttons pressed)
+[89] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [82]
+[89] Elevator #3 arrived at floor 24
+[89] Elevator #3 continues MovingUp - next target floor 25, will arrive at [96]
+[89] Elevator #5 arrived at floor 9
+[89] Elevator #5 started idleing (no buttons pressed)
+[90] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [83]
+[90] Elevator #3 arrived at floor 24
+[90] Elevator #3 continues MovingUp - next target floor 25, will arrive at [97]
+[90] Elevator #5 arrived at floor 9
+[90] Elevator #5 started idleing (no buttons pressed)
+[91] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [84]
+[91] Elevator #3 arrived at floor 24
+[91] Elevator #3 continues MovingUp - next target floor 25, will arrive at [98]
+[91] Elevator #5 arrived at floor 9
+[91] Elevator #5 started idleing (no buttons pressed)
+[92] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [85]
+[92] Elevator #3 arrived at floor 24
+[92] Elevator #3 continues MovingUp - next target floor 25, will arrive at [99]
+[92] Elevator #5 arrived at floor 9
+[92] Elevator #5 started idleing (no buttons pressed)
+[93] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [86]
+[93] Elevator #3 arrived at floor 24
+[93] Elevator #3 continues MovingUp - next target floor 25, will arrive at [100]
+[93] Elevator #5 arrived at floor 9
+[93] Elevator #5 started idleing (no buttons pressed)
+[94] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [87]
+[94] Elevator #3 arrived at floor 24
+[94] Elevator #3 continues MovingUp - next target floor 25, will arrive at [101]
+[94] Elevator #5 arrived at floor 9
+[94] Elevator #5 started idleing (no buttons pressed)
+[95] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [88]
+[95] Elevator #3 arrived at floor 24
+[95] Elevator #3 continues MovingUp - next target floor 25, will arrive at [102]
+[95] Elevator #5 arrived at floor 9
+[95] Elevator #5 started idleing (no buttons pressed)
+[96] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [89]
+[96] Elevator #3 arrived at floor 24
+[96] Elevator #3 continues MovingUp - next target floor 25, will arrive at [103]
+[96] Elevator #5 arrived at floor 9
+[96] Elevator #5 started idleing (no buttons pressed)
+[97] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [90]
+[97] Elevator #3 arrived at floor 24
+[97] Elevator #3 continues MovingUp - next target floor 25, will arrive at [104]
+[97] Elevator #5 arrived at floor 9
+[97] Elevator #5 started idleing (no buttons pressed)
+[98] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [91]
+[98] Elevator #3 arrived at floor 24
+[98] Elevator #3 continues MovingUp - next target floor 25, will arrive at [105]
+[98] Elevator #5 arrived at floor 9
+[98] Elevator #5 started idleing (no buttons pressed)
+[99] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [92]
+[99] Elevator #3 arrived at floor 24
+[99] Elevator #3 continues MovingUp - next target floor 25, will arrive at [106]
+[99] Elevator #5 arrived at floor 9
+[99] Elevator #5 started idleing (no buttons pressed)
+[100] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [93]
+[100] Elevator #3 arrived at floor 24
+[100] Elevator #3 continues MovingUp - next target floor 25, will arrive at [107]
+[100] Elevator #5 arrived at floor 9
+[100] Elevator #5 started idleing (no buttons pressed)
+[101] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [94]
+[101] Elevator #3 arrived at floor 24
+[101] Elevator #3 continues MovingUp - next target floor 25, will arrive at [108]
+[101] Elevator #5 arrived at floor 9
+[101] Elevator #5 started idleing (no buttons pressed)
+[102] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [95]
+[102] Elevator #3 arrived at floor 24
+[102] Elevator #3 continues MovingUp - next target floor 25, will arrive at [109]
+[102] Elevator #5 arrived at floor 9
+[102] Elevator #5 started idleing (no buttons pressed)
+[103] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [96]
+[103] Elevator #3 arrived at floor 24
+[103] Elevator #3 continues MovingUp - next target floor 25, will arrive at [110]
+[103] Elevator #5 arrived at floor 9
+[103] Elevator #5 started idleing (no buttons pressed)
+[104] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [97]
+[104] Elevator #3 arrived at floor 24
+[104] Elevator #3 continues MovingUp - next target floor 25, will arrive at [111]
+[104] Elevator #5 arrived at floor 9
+[104] Elevator #5 started idleing (no buttons pressed)
+[105] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [98]
+[105] Elevator #3 arrived at floor 24
+[105] Elevator #3 continues MovingUp - next target floor 25, will arrive at [112]
+[105] Elevator #5 arrived at floor 9
+[105] Elevator #5 started idleing (no buttons pressed)
+[105] Elevator #6 arrived at floor 10
+[105] Elevator #6 started idleing (no buttons pressed)
+[106] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [99]
+[106] Elevator #3 arrived at floor 24
+[106] Elevator #3 continues MovingUp - next target floor 25, will arrive at [113]
+[106] Elevator #5 arrived at floor 9
+[106] Elevator #5 started idleing (no buttons pressed)
+[106] Elevator #6 arrived at floor 10
+[106] Elevator #6 started idleing (no buttons pressed)
+[107] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [100]
+[107] Elevator #3 arrived at floor 24
+[107] Elevator #3 continues MovingUp - next target floor 25, will arrive at [114]
+[107] Elevator #5 arrived at floor 9
+[107] Elevator #5 started idleing (no buttons pressed)
+[107] Elevator #6 arrived at floor 10
+[107] Elevator #6 started idleing (no buttons pressed)
+[108] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [101]
+[108] Elevator #3 arrived at floor 24
+[108] Elevator #3 continues MovingUp - next target floor 25, will arrive at [115]
+[108] Elevator #5 arrived at floor 9
+[108] Elevator #5 started idleing (no buttons pressed)
+[108] Elevator #6 arrived at floor 10
+[108] Elevator #6 started idleing (no buttons pressed)
+[109] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [102]
+[109] Elevator #3 arrived at floor 24
+[109] Elevator #3 continues MovingUp - next target floor 25, will arrive at [116]
+[109] Elevator #5 arrived at floor 9
+[109] Elevator #5 started idleing (no buttons pressed)
+[109] Elevator #6 arrived at floor 10
+[109] Elevator #6 started idleing (no buttons pressed)
+[110] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [103]
+[110] Elevator #3 arrived at floor 24
+[110] Elevator #3 continues MovingUp - next target floor 25, will arrive at [117]
+[110] Elevator #5 arrived at floor 9
+[110] Elevator #5 started idleing (no buttons pressed)
+[110] Elevator #6 arrived at floor 10
+[110] Elevator #6 started idleing (no buttons pressed)
+[111] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [104]
+[111] Elevator #3 arrived at floor 24
+[111] Elevator #3 continues MovingUp - next target floor 25, will arrive at [118]
+[111] Elevator #5 arrived at floor 9
+[111] Elevator #5 started idleing (no buttons pressed)
+[111] Elevator #6 arrived at floor 10
+[111] Elevator #6 started idleing (no buttons pressed)
+[112] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [105]
+[112] Elevator #2 arrived at floor 17
+[112] Passenger #34 arrived at floor 17 via elevator #2
+[112] Passenger #84 arrived at floor 17 via elevator #2
+[112] Passenger #93 entered elevator on floor 17
+[112] Passenger #18 entered elevator on floor 17
+[112] Passenger #68 entered elevator on floor 17
+[112] Passenger #43 entered elevator on floor 17
+[112] Elevator #2 changes direction to MovingDown - next target floor 12, will arrive at [77]
+[112] Elevator #3 arrived at floor 24
+[112] Elevator #3 continues MovingUp - next target floor 25, will arrive at [119]
+[112] Elevator #5 arrived at floor 9
+[112] Elevator #5 started idleing (no buttons pressed)
+[112] Elevator #6 arrived at floor 10
+[112] Elevator #6 started idleing (no buttons pressed)
+[113] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [106]
+[113] Elevator #2 arrived at floor 12
+[113] Passenger #18 arrived at floor 12 via elevator #2
+[113] Passenger #68 arrived at floor 12 via elevator #2
+[113] Elevator #2 changes direction to MovingDown - next target floor 5, will arrive at [71]
+[113] Elevator #3 arrived at floor 24
+[113] Elevator #3 continues MovingUp - next target floor 25, will arrive at [120]
+[113] Elevator #5 arrived at floor 9
+[113] Elevator #5 started idleing (no buttons pressed)
+[113] Elevator #6 arrived at floor 10
+[113] Elevator #6 started idleing (no buttons pressed)
+[114] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [107]
+[114] Elevator #2 arrived at floor 5
+[114] Passenger #35 arrived at floor 5 via elevator #2
+[114] Passenger #85 arrived at floor 5 via elevator #2
+[114] Passenger #31 entered elevator on floor 5
+[114] Passenger #81 entered elevator on floor 5
+[114] Passenger #56 entered elevator on floor 5
+[114] Elevator #2 continues MovingUp - next target floor 12, will arrive at [163]
+[114] Elevator #3 arrived at floor 24
+[114] Elevator #3 continues MovingUp - next target floor 25, will arrive at [121]
+[114] Elevator #5 arrived at floor 9
+[114] Elevator #5 started idleing (no buttons pressed)
+[114] Elevator #6 arrived at floor 10
+[114] Elevator #6 started idleing (no buttons pressed)
+[115] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [108]
+[115] Elevator #3 arrived at floor 24
+[115] Elevator #3 continues MovingUp - next target floor 25, will arrive at [122]
+[115] Elevator #5 arrived at floor 9
+[115] Elevator #5 started idleing (no buttons pressed)
+[115] Elevator #6 arrived at floor 10
+[115] Elevator #6 started idleing (no buttons pressed)
+[116] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [109]
+[116] Elevator #3 arrived at floor 24
+[116] Elevator #3 continues MovingUp - next target floor 25, will arrive at [123]
+[116] Elevator #5 arrived at floor 9
+[116] Elevator #5 started idleing (no buttons pressed)
+[116] Elevator #6 arrived at floor 10
+[116] Elevator #6 started idleing (no buttons pressed)
+[117] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [110]
+[117] Elevator #3 arrived at floor 24
+[117] Elevator #3 continues MovingUp - next target floor 25, will arrive at [124]
+[117] Elevator #5 arrived at floor 9
+[117] Elevator #5 started idleing (no buttons pressed)
+[117] Elevator #6 arrived at floor 10
+[117] Elevator #6 started idleing (no buttons pressed)
+[118] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [111]
+[118] Elevator #3 arrived at floor 24
+[118] Elevator #3 continues MovingUp - next target floor 25, will arrive at [125]
+[118] Elevator #5 arrived at floor 9
+[118] Elevator #5 started idleing (no buttons pressed)
+[118] Elevator #6 arrived at floor 10
+[118] Elevator #6 started idleing (no buttons pressed)
+[119] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [112]
+[119] Elevator #3 arrived at floor 24
+[119] Elevator #3 continues MovingUp - next target floor 25, will arrive at [126]
+[119] Elevator #5 arrived at floor 9
+[119] Elevator #5 started idleing (no buttons pressed)
+[119] Elevator #6 arrived at floor 10
+[119] Elevator #6 started idleing (no buttons pressed)
+[120] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [113]
+[120] Elevator #3 arrived at floor 24
+[120] Elevator #3 continues MovingUp - next target floor 25, will arrive at [127]
+[120] Elevator #4 arrived at floor 15
+[120] Passenger #8 arrived at floor 15 via elevator #4
+[120] Passenger #58 arrived at floor 15 via elevator #4
+[120] Elevator #4 changes direction to MovingDown - next target floor 3, will arrive at [72]
+[120] Elevator #5 arrived at floor 9
+[120] Elevator #5 started idleing (no buttons pressed)
+[120] Elevator #6 arrived at floor 10
+[120] Elevator #6 started idleing (no buttons pressed)
+[121] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [114]
+[121] Elevator #3 arrived at floor 24
+[121] Elevator #3 continues MovingUp - next target floor 25, will arrive at [128]
+[121] Elevator #4 arrived at floor 3
+[121] Passenger #33 arrived at floor 3 via elevator #4
+[121] Passenger #83 arrived at floor 3 via elevator #4
+[121] Passenger #4 entered elevator on floor 3
+[121] Passenger #29 entered elevator on floor 3
+[121] Passenger #79 entered elevator on floor 3
+[121] Passenger #54 entered elevator on floor 3
+[121] Elevator #4 continues MovingUp - next target floor 14, will arrive at [165]
+[121] Elevator #5 arrived at floor 9
+[121] Elevator #5 started idleing (no buttons pressed)
+[121] Elevator #6 arrived at floor 10
+[121] Elevator #6 started idleing (no buttons pressed)
+[122] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [115]
+[122] Elevator #3 arrived at floor 24
+[122] Elevator #3 continues MovingUp - next target floor 25, will arrive at [129]
+[122] Elevator #5 arrived at floor 9
+[122] Elevator #5 started idleing (no buttons pressed)
+[122] Elevator #6 arrived at floor 10
+[122] Elevator #6 started idleing (no buttons pressed)
+[123] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [116]
+[123] Elevator #3 arrived at floor 24
+[123] Elevator #3 continues MovingUp - next target floor 25, will arrive at [130]
+[123] Elevator #5 arrived at floor 9
+[123] Elevator #5 started idleing (no buttons pressed)
+[123] Elevator #6 arrived at floor 10
+[123] Elevator #6 started idleing (no buttons pressed)
+[124] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [117]
+[124] Elevator #3 arrived at floor 24
+[124] Elevator #3 continues MovingUp - next target floor 25, will arrive at [131]
+[124] Elevator #5 arrived at floor 9
+[124] Elevator #5 started idleing (no buttons pressed)
+[124] Elevator #6 arrived at floor 10
+[124] Elevator #6 started idleing (no buttons pressed)
+[125] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [118]
+[125] Elevator #3 arrived at floor 24
+[125] Elevator #3 continues MovingUp - next target floor 25, will arrive at [132]
+[125] Elevator #5 arrived at floor 9
+[125] Elevator #5 started idleing (no buttons pressed)
+[125] Elevator #6 arrived at floor 10
+[125] Elevator #6 started idleing (no buttons pressed)
+[126] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [119]
+[126] Elevator #3 arrived at floor 24
+[126] Elevator #3 continues MovingUp - next target floor 25, will arrive at [133]
+[126] Elevator #5 arrived at floor 9
+[126] Elevator #5 started idleing (no buttons pressed)
+[126] Elevator #6 arrived at floor 10
+[126] Elevator #6 started idleing (no buttons pressed)
+[127] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [120]
+[127] Elevator #3 arrived at floor 24
+[127] Elevator #3 continues MovingUp - next target floor 25, will arrive at [134]
+[127] Elevator #5 arrived at floor 9
+[127] Elevator #5 started idleing (no buttons pressed)
+[127] Elevator #6 arrived at floor 10
+[127] Elevator #6 started idleing (no buttons pressed)
+[128] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [121]
+[128] Elevator #3 arrived at floor 24
+[128] Elevator #3 continues MovingUp - next target floor 25, will arrive at [135]
+[128] Elevator #5 arrived at floor 9
+[128] Elevator #5 started idleing (no buttons pressed)
+[128] Elevator #6 arrived at floor 10
+[128] Elevator #6 started idleing (no buttons pressed)
+[129] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [122]
+[129] Elevator #1 arrived at floor 18
+[129] Passenger #60 arrived at floor 18 via elevator #1
+[129] Elevator #1 changes direction to MovingDown - next target floor 7, will arrive at [63]
+[129] Elevator #3 arrived at floor 24
+[129] Elevator #3 continues MovingUp - next target floor 25, will arrive at [136]
+[129] Elevator #5 arrived at floor 9
+[129] Elevator #5 started idleing (no buttons pressed)
+[129] Elevator #6 arrived at floor 10
+[129] Elevator #6 started idleing (no buttons pressed)
+[130] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [123]
+[130] Elevator #1 arrived at floor 7
+[130] Passenger #91 arrived at floor 7 via elevator #1
+[130] Passenger #41 arrived at floor 7 via elevator #1
+[130] Elevator #1 changes direction to MovingDown - next target floor 6, will arrive at [124]
+[130] Elevator #3 arrived at floor 24
+[130] Elevator #3 continues MovingUp - next target floor 25, will arrive at [137]
+[130] Elevator #5 arrived at floor 9
+[130] Elevator #5 started idleing (no buttons pressed)
+[130] Elevator #6 arrived at floor 10
+[130] Elevator #6 started idleing (no buttons pressed)
+[131] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [124]
+[131] Elevator #1 arrived at floor 6
+[131] Passenger #7 entered elevator on floor 6
+[131] Passenger #32 entered elevator on floor 6
+[131] Passenger #82 entered elevator on floor 6
+[131] Passenger #57 entered elevator on floor 6
+[131] Elevator #1 continues MovingUp - next target floor 9, will arrive at [152]
+[131] Elevator #3 arrived at floor 24
+[131] Elevator #3 continues MovingUp - next target floor 25, will arrive at [138]
+[131] Elevator #5 arrived at floor 9
+[131] Elevator #5 started idleing (no buttons pressed)
+[131] Elevator #6 arrived at floor 10
+[131] Elevator #6 started idleing (no buttons pressed)
+[132] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [125]
+[132] Elevator #3 arrived at floor 24
+[132] Elevator #3 continues MovingUp - next target floor 25, will arrive at [139]
+[132] Elevator #5 arrived at floor 9
+[132] Elevator #5 started idleing (no buttons pressed)
+[132] Elevator #6 arrived at floor 10
+[132] Elevator #6 started idleing (no buttons pressed)
+[133] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [126]
+[133] Elevator #3 arrived at floor 24
+[133] Elevator #3 continues MovingUp - next target floor 25, will arrive at [140]
+[133] Elevator #5 arrived at floor 9
+[133] Elevator #5 started idleing (no buttons pressed)
+[133] Elevator #6 arrived at floor 10
+[133] Elevator #6 started idleing (no buttons pressed)
+[134] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [127]
+[134] Elevator #3 arrived at floor 24
+[134] Elevator #3 continues MovingUp - next target floor 25, will arrive at [141]
+[134] Elevator #5 arrived at floor 9
+[134] Elevator #5 started idleing (no buttons pressed)
+[134] Elevator #6 arrived at floor 10
+[134] Elevator #6 started idleing (no buttons pressed)
+[135] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [128]
+[135] Elevator #3 arrived at floor 24
+[135] Elevator #3 continues MovingUp - next target floor 25, will arrive at [142]
+[135] Elevator #5 arrived at floor 9
+[135] Elevator #5 started idleing (no buttons pressed)
+[135] Elevator #6 arrived at floor 10
+[135] Elevator #6 started idleing (no buttons pressed)
+[136] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [129]
+[136] Elevator #3 arrived at floor 24
+[136] Elevator #3 continues MovingUp - next target floor 25, will arrive at [143]
+[136] Elevator #5 arrived at floor 9
+[136] Elevator #5 started idleing (no buttons pressed)
+[136] Elevator #6 arrived at floor 10
+[136] Elevator #6 started idleing (no buttons pressed)
+[137] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [130]
+[137] Elevator #3 arrived at floor 24
+[137] Elevator #3 continues MovingUp - next target floor 25, will arrive at [144]
+[137] Elevator #5 arrived at floor 9
+[137] Elevator #5 started idleing (no buttons pressed)
+[137] Elevator #6 arrived at floor 10
+[137] Elevator #6 started idleing (no buttons pressed)
+[138] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [131]
+[138] Elevator #3 arrived at floor 24
+[138] Elevator #3 continues MovingUp - next target floor 25, will arrive at [145]
+[138] Elevator #5 arrived at floor 9
+[138] Elevator #5 started idleing (no buttons pressed)
+[138] Elevator #6 arrived at floor 10
+[138] Elevator #6 started idleing (no buttons pressed)
+[139] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [132]
+[139] Elevator #3 arrived at floor 24
+[139] Elevator #3 continues MovingUp - next target floor 25, will arrive at [146]
+[139] Elevator #5 arrived at floor 9
+[139] Elevator #5 started idleing (no buttons pressed)
+[139] Elevator #6 arrived at floor 10
+[139] Elevator #6 started idleing (no buttons pressed)
+[140] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [133]
+[140] Elevator #3 arrived at floor 24
+[140] Elevator #3 continues MovingUp - next target floor 25, will arrive at [147]
+[140] Elevator #5 arrived at floor 9
+[140] Elevator #5 started idleing (no buttons pressed)
+[140] Elevator #6 arrived at floor 10
+[140] Elevator #6 started idleing (no buttons pressed)
+[141] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [134]
+[141] Elevator #3 arrived at floor 24
+[141] Elevator #3 continues MovingUp - next target floor 25, will arrive at [148]
+[141] Elevator #5 arrived at floor 9
+[141] Elevator #5 started idleing (no buttons pressed)
+[141] Elevator #6 arrived at floor 10
+[141] Elevator #6 started idleing (no buttons pressed)
+[142] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [135]
+[142] Elevator #3 arrived at floor 24
+[142] Elevator #3 continues MovingUp - next target floor 25, will arrive at [149]
+[142] Elevator #5 arrived at floor 9
+[142] Elevator #5 started idleing (no buttons pressed)
+[142] Elevator #6 arrived at floor 10
+[142] Elevator #6 started idleing (no buttons pressed)
+[143] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [136]
+[143] Elevator #3 arrived at floor 24
+[143] Elevator #3 continues MovingUp - next target floor 25, will arrive at [150]
+[143] Elevator #5 arrived at floor 9
+[143] Elevator #5 started idleing (no buttons pressed)
+[143] Elevator #6 arrived at floor 10
+[143] Elevator #6 started idleing (no buttons pressed)
+[144] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [137]
+[144] Elevator #3 arrived at floor 24
+[144] Elevator #3 continues MovingUp - next target floor 25, will arrive at [151]
+[144] Elevator #5 arrived at floor 9
+[144] Elevator #5 started idleing (no buttons pressed)
+[144] Elevator #6 arrived at floor 10
+[144] Elevator #6 started idleing (no buttons pressed)
+[145] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [138]
+[145] Elevator #3 arrived at floor 24
+[145] Elevator #3 continues MovingUp - next target floor 25, will arrive at [152]
+[145] Elevator #5 arrived at floor 9
+[145] Elevator #5 started idleing (no buttons pressed)
+[145] Elevator #6 arrived at floor 10
+[145] Elevator #6 started idleing (no buttons pressed)
+[146] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [139]
+[146] Elevator #3 arrived at floor 24
+[146] Elevator #3 continues MovingUp - next target floor 25, will arrive at [153]
+[146] Elevator #5 arrived at floor 9
+[146] Elevator #5 started idleing (no buttons pressed)
+[146] Elevator #6 arrived at floor 10
+[146] Elevator #6 started idleing (no buttons pressed)
+[147] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [140]
+[147] Elevator #3 arrived at floor 24
+[147] Elevator #3 continues MovingUp - next target floor 25, will arrive at [154]
+[147] Elevator #5 arrived at floor 9
+[147] Elevator #5 started idleing (no buttons pressed)
+[147] Elevator #6 arrived at floor 10
+[147] Elevator #6 started idleing (no buttons pressed)
+[148] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [141]
+[148] Elevator #3 arrived at floor 24
+[148] Elevator #3 continues MovingUp - next target floor 25, will arrive at [155]
+[148] Elevator #5 arrived at floor 9
+[148] Elevator #5 started idleing (no buttons pressed)
+[148] Elevator #6 arrived at floor 10
+[148] Elevator #6 started idleing (no buttons pressed)
+[149] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [142]
+[149] Elevator #3 arrived at floor 24
+[149] Elevator #3 continues MovingUp - next target floor 25, will arrive at [156]
+[149] Elevator #5 arrived at floor 9
+[149] Elevator #5 started idleing (no buttons pressed)
+[149] Elevator #6 arrived at floor 10
+[149] Elevator #6 started idleing (no buttons pressed)
+[150] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [143]
+[150] Elevator #3 arrived at floor 24
+[150] Elevator #3 continues MovingUp - next target floor 25, will arrive at [157]
+[150] Elevator #5 arrived at floor 9
+[150] Elevator #5 started idleing (no buttons pressed)
+[150] Elevator #6 arrived at floor 10
+[150] Elevator #6 started idleing (no buttons pressed)
+[151] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [144]
+[151] Elevator #3 arrived at floor 24
+[151] Elevator #3 continues MovingUp - next target floor 25, will arrive at [158]
+[151] Elevator #5 arrived at floor 9
+[151] Elevator #5 started idleing (no buttons pressed)
+[151] Elevator #6 arrived at floor 10
+[151] Elevator #6 started idleing (no buttons pressed)
+[152] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [145]
+[152] Elevator #1 arrived at floor 9
+[152] Passenger #32 arrived at floor 9 via elevator #1
+[152] Passenger #82 arrived at floor 9 via elevator #1
+[152] Elevator #1 changes direction to MovingDown - next target floor 5, will arrive at [128]
+[152] Elevator #3 arrived at floor 24
+[152] Elevator #3 continues MovingUp - next target floor 25, will arrive at [159]
+[152] Elevator #5 arrived at floor 9
+[152] Elevator #5 started idleing (no buttons pressed)
+[152] Elevator #6 arrived at floor 10
+[152] Elevator #6 started idleing (no buttons pressed)
+[153] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [146]
+[153] Elevator #1 arrived at floor 5
+[153] Passenger #19 arrived at floor 5 via elevator #1
+[153] Passenger #69 arrived at floor 5 via elevator #1
+[153] Elevator #1 changes direction to MovingDown - next target floor 3, will arrive at [141]
+[153] Elevator #3 arrived at floor 24
+[153] Elevator #3 continues MovingUp - next target floor 25, will arrive at [160]
+[153] Elevator #5 arrived at floor 9
+[153] Elevator #5 started idleing (no buttons pressed)
+[153] Elevator #6 arrived at floor 10
+[153] Elevator #6 started idleing (no buttons pressed)
+[154] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [147]
+[154] Elevator #1 arrived at floor 3
+[154] Passenger #16 arrived at floor 3 via elevator #1
+[154] Passenger #66 arrived at floor 3 via elevator #1
+[154] Passenger #49 arrived at floor 3 via elevator #1
+[154] Passenger #7 arrived at floor 3 via elevator #1
+[154] Passenger #57 arrived at floor 3 via elevator #1
+[154] Elevator #1 changes direction to MovingDown - next target floor 2, will arrive at [151]
+[154] Elevator #3 arrived at floor 24
+[154] Elevator #3 continues MovingUp - next target floor 25, will arrive at [161]
+[154] Elevator #5 arrived at floor 9
+[154] Elevator #5 started idleing (no buttons pressed)
+[154] Elevator #6 arrived at floor 10
+[154] Elevator #6 started idleing (no buttons pressed)
+[155] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [148]
+[155] Elevator #1 arrived at floor 2
+[155] Passenger #9 arrived at floor 2 via elevator #1
+[155] Passenger #3 entered elevator on floor 2
+[155] Passenger #28 entered elevator on floor 2
+[155] Passenger #78 entered elevator on floor 2
+[155] Passenger #53 entered elevator on floor 2
+[155] Elevator #1 continues MovingUp - next target floor 6, will arrive at [175]
+[155] Elevator #3 arrived at floor 24
+[155] Elevator #3 continues MovingUp - next target floor 25, will arrive at [162]
+[155] Elevator #5 arrived at floor 9
+[155] Elevator #5 started idleing (no buttons pressed)
+[155] Elevator #6 arrived at floor 10
+[155] Elevator #6 started idleing (no buttons pressed)
+[156] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [149]
+[156] Elevator #3 arrived at floor 24
+[156] Elevator #3 continues MovingUp - next target floor 25, will arrive at [163]
+[156] Elevator #5 arrived at floor 9
+[156] Elevator #5 started idleing (no buttons pressed)
+[156] Elevator #6 arrived at floor 10
+[156] Elevator #6 started idleing (no buttons pressed)
+[157] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [150]
+[157] Elevator #3 arrived at floor 24
+[157] Elevator #3 continues MovingUp - next target floor 25, will arrive at [164]
+[157] Elevator #5 arrived at floor 9
+[157] Elevator #5 started idleing (no buttons pressed)
+[157] Elevator #6 arrived at floor 10
+[157] Elevator #6 started idleing (no buttons pressed)
+[158] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [151]
+[158] Elevator #3 arrived at floor 24
+[158] Elevator #3 continues MovingUp - next target floor 25, will arrive at [165]
+[158] Elevator #5 arrived at floor 9
+[158] Elevator #5 started idleing (no buttons pressed)
+[158] Elevator #6 arrived at floor 10
+[158] Elevator #6 started idleing (no buttons pressed)
+[159] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [152]
+[159] Elevator #3 arrived at floor 24
+[159] Elevator #3 continues MovingUp - next target floor 25, will arrive at [166]
+[159] Elevator #5 arrived at floor 9
+[159] Elevator #5 started idleing (no buttons pressed)
+[159] Elevator #6 arrived at floor 10
+[159] Elevator #6 started idleing (no buttons pressed)
+[160] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [153]
+[160] Elevator #3 arrived at floor 24
+[160] Elevator #3 continues MovingUp - next target floor 25, will arrive at [167]
+[160] Elevator #5 arrived at floor 9
+[160] Elevator #5 started idleing (no buttons pressed)
+[160] Elevator #6 arrived at floor 10
+[160] Elevator #6 started idleing (no buttons pressed)
+[161] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [154]
+[161] Elevator #3 arrived at floor 24
+[161] Elevator #3 continues MovingUp - next target floor 25, will arrive at [168]
+[161] Elevator #5 arrived at floor 9
+[161] Elevator #5 started idleing (no buttons pressed)
+[161] Elevator #6 arrived at floor 10
+[161] Elevator #6 started idleing (no buttons pressed)
+[162] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [155]
+[162] Elevator #3 arrived at floor 24
+[162] Elevator #3 continues MovingUp - next target floor 25, will arrive at [169]
+[162] Elevator #5 arrived at floor 9
+[162] Elevator #5 started idleing (no buttons pressed)
+[162] Elevator #6 arrived at floor 10
+[162] Elevator #6 started idleing (no buttons pressed)
+[163] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [156]
+[163] Elevator #2 arrived at floor 12
+[163] Passenger #56 arrived at floor 12 via elevator #2
+[163] Elevator #2 continues MovingUp - next target floor 16, will arrive at [187]
+[163] Elevator #3 arrived at floor 24
+[163] Elevator #3 continues MovingUp - next target floor 25, will arrive at [170]
+[163] Elevator #5 arrived at floor 9
+[163] Elevator #5 started idleing (no buttons pressed)
+[163] Elevator #6 arrived at floor 10
+[163] Elevator #6 started idleing (no buttons pressed)
+[164] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [157]
+[164] Elevator #3 arrived at floor 24
+[164] Elevator #3 continues MovingUp - next target floor 25, will arrive at [171]
+[164] Elevator #5 arrived at floor 9
+[164] Elevator #5 started idleing (no buttons pressed)
+[164] Elevator #6 arrived at floor 10
+[164] Elevator #6 started idleing (no buttons pressed)
+[165] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [158]
+[165] Elevator #3 arrived at floor 24
+[165] Elevator #3 continues MovingUp - next target floor 25, will arrive at [172]
+[165] Elevator #4 arrived at floor 14
+[165] Passenger #29 arrived at floor 14 via elevator #4
+[165] Passenger #79 arrived at floor 14 via elevator #4
+[165] Passenger #90 entered elevator on floor 14
+[165] Passenger #65 entered elevator on floor 14
+[165] Passenger #15 entered elevator on floor 14
+[165] Passenger #40 entered elevator on floor 14
+[165] Elevator #4 continues MovingUp - next target floor 20, will arrive at [195]
+[165] Elevator #5 arrived at floor 9
+[165] Elevator #5 started idleing (no buttons pressed)
+[165] Elevator #6 arrived at floor 10
+[165] Elevator #6 started idleing (no buttons pressed)
+[166] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [159]
+[166] Elevator #3 arrived at floor 24
+[166] Elevator #3 continues MovingUp - next target floor 25, will arrive at [173]
+[166] Elevator #5 arrived at floor 9
+[166] Elevator #5 started idleing (no buttons pressed)
+[166] Elevator #6 arrived at floor 10
+[166] Elevator #6 started idleing (no buttons pressed)
+[167] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [160]
+[167] Elevator #3 arrived at floor 24
+[167] Elevator #3 continues MovingUp - next target floor 25, will arrive at [174]
+[167] Elevator #5 arrived at floor 9
+[167] Elevator #5 started idleing (no buttons pressed)
+[167] Elevator #6 arrived at floor 10
+[167] Elevator #6 started idleing (no buttons pressed)
+[168] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [161]
+[168] Elevator #3 arrived at floor 24
+[168] Elevator #3 continues MovingUp - next target floor 25, will arrive at [175]
+[168] Elevator #5 arrived at floor 9
+[168] Elevator #5 started idleing (no buttons pressed)
+[168] Elevator #6 arrived at floor 10
+[168] Elevator #6 started idleing (no buttons pressed)
+[169] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [162]
+[169] Elevator #3 arrived at floor 24
+[169] Elevator #3 continues MovingUp - next target floor 25, will arrive at [176]
+[169] Elevator #5 arrived at floor 9
+[169] Elevator #5 started idleing (no buttons pressed)
+[169] Elevator #6 arrived at floor 10
+[169] Elevator #6 started idleing (no buttons pressed)
+[170] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [163]
+[170] Elevator #3 arrived at floor 24
+[170] Elevator #3 continues MovingUp - next target floor 25, will arrive at [177]
+[170] Elevator #5 arrived at floor 9
+[170] Elevator #5 started idleing (no buttons pressed)
+[170] Elevator #6 arrived at floor 10
+[170] Elevator #6 started idleing (no buttons pressed)
+[171] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [164]
+[171] Elevator #3 arrived at floor 24
+[171] Elevator #3 continues MovingUp - next target floor 25, will arrive at [178]
+[171] Elevator #5 arrived at floor 9
+[171] Elevator #5 started idleing (no buttons pressed)
+[171] Elevator #6 arrived at floor 10
+[171] Elevator #6 started idleing (no buttons pressed)
+[172] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [165]
+[172] Elevator #3 arrived at floor 24
+[172] Elevator #3 continues MovingUp - next target floor 25, will arrive at [179]
+[172] Elevator #5 arrived at floor 9
+[172] Elevator #5 started idleing (no buttons pressed)
+[172] Elevator #6 arrived at floor 10
+[172] Elevator #6 started idleing (no buttons pressed)
+[173] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [166]
+[173] Elevator #3 arrived at floor 24
+[173] Elevator #3 continues MovingUp - next target floor 25, will arrive at [180]
+[173] Elevator #5 arrived at floor 9
+[173] Elevator #5 started idleing (no buttons pressed)
+[173] Elevator #6 arrived at floor 10
+[173] Elevator #6 started idleing (no buttons pressed)
+[174] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [167]
+[174] Elevator #3 arrived at floor 24
+[174] Elevator #3 continues MovingUp - next target floor 25, will arrive at [181]
+[174] Elevator #5 arrived at floor 9
+[174] Elevator #5 started idleing (no buttons pressed)
+[174] Elevator #6 arrived at floor 10
+[174] Elevator #6 started idleing (no buttons pressed)
+[175] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [168]
+[175] Elevator #1 arrived at floor 6
+[175] Passenger #28 arrived at floor 6 via elevator #1
+[175] Passenger #78 arrived at floor 6 via elevator #1
+[175] Elevator #1 continues MovingUp - next target floor 10, will arrive at [191]
+[175] Elevator #3 arrived at floor 24
+[175] Elevator #3 continues MovingUp - next target floor 25, will arrive at [182]
+[175] Elevator #5 arrived at floor 9
+[175] Elevator #5 started idleing (no buttons pressed)
+[175] Elevator #6 arrived at floor 10
+[175] Elevator #6 started idleing (no buttons pressed)
+[176] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [169]
+[176] Elevator #3 arrived at floor 24
+[176] Elevator #3 continues MovingUp - next target floor 25, will arrive at [183]
+[176] Elevator #5 arrived at floor 9
+[176] Elevator #5 started idleing (no buttons pressed)
+[176] Elevator #6 arrived at floor 10
+[176] Elevator #6 started idleing (no buttons pressed)
+[177] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [170]
+[177] Elevator #3 arrived at floor 24
+[177] Elevator #3 continues MovingUp - next target floor 25, will arrive at [184]
+[177] Elevator #5 arrived at floor 9
+[177] Elevator #5 started idleing (no buttons pressed)
+[177] Elevator #6 arrived at floor 10
+[177] Elevator #6 started idleing (no buttons pressed)
+[178] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [171]
+[178] Elevator #3 arrived at floor 24
+[178] Elevator #3 continues MovingUp - next target floor 25, will arrive at [185]
+[178] Elevator #5 arrived at floor 9
+[178] Elevator #5 started idleing (no buttons pressed)
+[178] Elevator #6 arrived at floor 10
+[178] Elevator #6 started idleing (no buttons pressed)
+[179] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [172]
+[179] Elevator #3 arrived at floor 24
+[179] Elevator #3 continues MovingUp - next target floor 25, will arrive at [186]
+[179] Elevator #5 arrived at floor 9
+[179] Elevator #5 started idleing (no buttons pressed)
+[179] Elevator #6 arrived at floor 10
+[179] Elevator #6 started idleing (no buttons pressed)
+[180] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [173]
+[180] Elevator #3 arrived at floor 24
+[180] Elevator #3 continues MovingUp - next target floor 25, will arrive at [187]
+[180] Elevator #5 arrived at floor 9
+[180] Elevator #5 started idleing (no buttons pressed)
+[180] Elevator #6 arrived at floor 10
+[180] Elevator #6 started idleing (no buttons pressed)
+[181] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [174]
+[181] Elevator #3 arrived at floor 24
+[181] Elevator #3 continues MovingUp - next target floor 25, will arrive at [188]
+[181] Elevator #5 arrived at floor 9
+[181] Elevator #5 started idleing (no buttons pressed)
+[181] Elevator #6 arrived at floor 10
+[181] Elevator #6 started idleing (no buttons pressed)
+[182] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [175]
+[182] Elevator #3 arrived at floor 24
+[182] Elevator #3 continues MovingUp - next target floor 25, will arrive at [189]
+[182] Elevator #5 arrived at floor 9
+[182] Elevator #5 started idleing (no buttons pressed)
+[182] Elevator #6 arrived at floor 10
+[182] Elevator #6 started idleing (no buttons pressed)
+[183] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [176]
+[183] Elevator #3 arrived at floor 24
+[183] Elevator #3 continues MovingUp - next target floor 25, will arrive at [190]
+[183] Elevator #5 arrived at floor 9
+[183] Elevator #5 started idleing (no buttons pressed)
+[183] Elevator #6 arrived at floor 10
+[183] Elevator #6 started idleing (no buttons pressed)
+[184] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [177]
+[184] Elevator #3 arrived at floor 24
+[184] Elevator #3 continues MovingUp - next target floor 25, will arrive at [191]
+[184] Elevator #5 arrived at floor 9
+[184] Elevator #5 started idleing (no buttons pressed)
+[184] Elevator #6 arrived at floor 10
+[184] Elevator #6 started idleing (no buttons pressed)
+[185] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [178]
+[185] Elevator #3 arrived at floor 24
+[185] Elevator #3 continues MovingUp - next target floor 25, will arrive at [192]
+[185] Elevator #5 arrived at floor 9
+[185] Elevator #5 started idleing (no buttons pressed)
+[185] Elevator #6 arrived at floor 10
+[185] Elevator #6 started idleing (no buttons pressed)
+[186] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [179]
+[186] Elevator #3 arrived at floor 24
+[186] Elevator #3 continues MovingUp - next target floor 25, will arrive at [193]
+[186] Elevator #5 arrived at floor 9
+[186] Elevator #5 started idleing (no buttons pressed)
+[186] Elevator #6 arrived at floor 10
+[186] Elevator #6 started idleing (no buttons pressed)
+[187] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [180]
+[187] Elevator #2 arrived at floor 16
+[187] Passenger #31 arrived at floor 16 via elevator #2
+[187] Passenger #81 arrived at floor 16 via elevator #2
+[187] Passenger #92 entered elevator on floor 16
+[187] Passenger #17 entered elevator on floor 16
+[187] Passenger #67 entered elevator on floor 16
+[187] Elevator #2 continues MovingUp - next target floor 18, will arrive at [201]
+[187] Elevator #3 arrived at floor 24
+[187] Elevator #3 continues MovingUp - next target floor 25, will arrive at [194]
+[187] Elevator #5 arrived at floor 9
+[187] Elevator #5 started idleing (no buttons pressed)
+[187] Elevator #6 arrived at floor 10
+[187] Elevator #6 started idleing (no buttons pressed)
+[188] Elevator #2 continues MovingUp - next target floor 18, will arrive at [195]
+[188] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [181]
+[188] Elevator #3 arrived at floor 24
+[188] Elevator #3 continues MovingUp - next target floor 25, will arrive at [195]
+[188] Elevator #5 arrived at floor 9
+[188] Elevator #5 started idleing (no buttons pressed)
+[188] Elevator #6 arrived at floor 10
+[188] Elevator #6 started idleing (no buttons pressed)
+[189] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [182]
+[189] Elevator #3 arrived at floor 24
+[189] Elevator #3 continues MovingUp - next target floor 25, will arrive at [196]
+[189] Elevator #5 arrived at floor 9
+[189] Elevator #5 started idleing (no buttons pressed)
+[189] Elevator #6 arrived at floor 10
+[189] Elevator #6 started idleing (no buttons pressed)
+[190] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [183]
+[190] Elevator #3 arrived at floor 24
+[190] Elevator #3 continues MovingUp - next target floor 25, will arrive at [197]
+[190] Elevator #5 arrived at floor 9
+[190] Elevator #5 started idleing (no buttons pressed)
+[190] Elevator #6 arrived at floor 10
+[190] Elevator #6 started idleing (no buttons pressed)
+[191] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [184]
+[191] Elevator #1 arrived at floor 10
+[191] Passenger #53 arrived at floor 10 via elevator #1
+[191] Elevator #1 continues MovingUp - next target floor 24, will arrive at [233]
+[191] Elevator #3 arrived at floor 24
+[191] Elevator #3 continues MovingUp - next target floor 25, will arrive at [198]
+[191] Elevator #5 arrived at floor 9
+[191] Elevator #5 started idleing (no buttons pressed)
+[191] Elevator #6 arrived at floor 10
+[191] Elevator #6 started idleing (no buttons pressed)
+[192] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [185]
+[192] Elevator #3 arrived at floor 24
+[192] Elevator #3 continues MovingUp - next target floor 25, will arrive at [199]
+[192] Elevator #5 arrived at floor 9
+[192] Elevator #5 started idleing (no buttons pressed)
+[192] Elevator #6 arrived at floor 10
+[192] Elevator #6 started idleing (no buttons pressed)
+[193] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [186]
+[193] Elevator #3 arrived at floor 24
+[193] Elevator #3 continues MovingUp - next target floor 25, will arrive at [200]
+[193] Elevator #5 arrived at floor 9
+[193] Elevator #5 started idleing (no buttons pressed)
+[193] Elevator #6 arrived at floor 10
+[193] Elevator #6 started idleing (no buttons pressed)
+[194] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [187]
+[194] Elevator #3 arrived at floor 24
+[194] Elevator #3 continues MovingUp - next target floor 25, will arrive at [201]
+[194] Elevator #5 arrived at floor 9
+[194] Elevator #5 started idleing (no buttons pressed)
+[194] Elevator #6 arrived at floor 10
+[194] Elevator #6 started idleing (no buttons pressed)
+[195] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [188]
+[195] Elevator #2 arrived at floor 18
+[195] Passenger #92 arrived at floor 18 via elevator #2
+[195] Elevator #2 changes direction to MovingDown - next target floor 16, will arrive at [181]
+[195] Elevator #3 arrived at floor 24
+[195] Elevator #3 continues MovingUp - next target floor 25, will arrive at [202]
+[195] Elevator #4 arrived at floor 20
+[195] Passenger #65 arrived at floor 20 via elevator #4
+[195] Passenger #15 arrived at floor 20 via elevator #4
+[195] Passenger #96 entered elevator on floor 20
+[195] Passenger #21 entered elevator on floor 20
+[195] Passenger #71 entered elevator on floor 20
+[195] Passenger #46 entered elevator on floor 20
+[195] Elevator #4 changes direction to MovingDown - next target floor 14, will arrive at [159]
+[195] Elevator #5 arrived at floor 9
+[195] Elevator #5 started idleing (no buttons pressed)
+[195] Elevator #6 arrived at floor 10
+[195] Elevator #6 started idleing (no buttons pressed)
+[196] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [189]
+[196] Elevator #2 arrived at floor 16
+[196] Passenger #42 entered elevator on floor 16
+[196] Elevator #2 continues MovingUp - next target floor 18, will arrive at [210]
+[196] Elevator #3 arrived at floor 24
+[196] Elevator #3 continues MovingUp - next target floor 25, will arrive at [203]
+[196] Elevator #4 arrived at floor 14
+[196] Passenger #96 arrived at floor 14 via elevator #4
+[196] Passenger #46 arrived at floor 14 via elevator #4
+[196] Elevator #4 changes direction to MovingDown - next target floor 10, will arrive at [176]
+[196] Elevator #5 arrived at floor 9
+[196] Elevator #5 started idleing (no buttons pressed)
+[196] Elevator #6 arrived at floor 10
+[196] Elevator #6 started idleing (no buttons pressed)
+[197] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [190]
+[197] Elevator #3 arrived at floor 24
+[197] Elevator #3 continues MovingUp - next target floor 25, will arrive at [204]
+[197] Elevator #4 arrived at floor 10
+[197] Passenger #90 arrived at floor 10 via elevator #4
+[197] Passenger #40 arrived at floor 10 via elevator #4
+[197] Passenger #21 arrived at floor 10 via elevator #4
+[197] Passenger #71 arrived at floor 10 via elevator #4
+[197] Elevator #4 changes direction to MovingDown - next target floor 1, will arrive at [170]
+[197] Elevator #5 arrived at floor 9
+[197] Elevator #5 started idleing (no buttons pressed)
+[197] Elevator #6 arrived at floor 10
+[197] Elevator #6 started idleing (no buttons pressed)
+[198] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [191]
+[198] Elevator #3 arrived at floor 24
+[198] Elevator #3 continues MovingUp - next target floor 25, will arrive at [205]
+[198] Elevator #4 arrived at floor 1
+[198] Passenger #4 arrived at floor 1 via elevator #4
+[198] Passenger #54 arrived at floor 1 via elevator #4
+[198] Elevator #4 started idleing (no buttons pressed)
+[198] Elevator #5 arrived at floor 9
+[198] Elevator #5 started idleing (no buttons pressed)
+[198] Elevator #6 arrived at floor 10
+[198] Elevator #6 started idleing (no buttons pressed)
+[199] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [192]
+[199] Elevator #3 arrived at floor 24
+[199] Elevator #3 continues MovingUp - next target floor 25, will arrive at [206]
+[199] Elevator #4 arrived at floor 1
+[199] Elevator #4 started idleing (no buttons pressed)
+[199] Elevator #5 arrived at floor 9
+[199] Elevator #5 started idleing (no buttons pressed)
+[199] Elevator #6 arrived at floor 10
+[199] Elevator #6 started idleing (no buttons pressed)
+[200] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [193]
+[200] Elevator #3 arrived at floor 24
+[200] Elevator #3 continues MovingUp - next target floor 25, will arrive at [207]
+[200] Elevator #4 arrived at floor 1
+[200] Elevator #4 started idleing (no buttons pressed)
+[200] Elevator #5 arrived at floor 9
+[200] Elevator #5 started idleing (no buttons pressed)
+[200] Elevator #6 arrived at floor 10
+[200] Elevator #6 started idleing (no buttons pressed)
+[201] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [194]
+[201] Elevator #3 arrived at floor 24
+[201] Elevator #3 continues MovingUp - next target floor 25, will arrive at [208]
+[201] Elevator #4 arrived at floor 1
+[201] Elevator #4 started idleing (no buttons pressed)
+[201] Elevator #5 arrived at floor 9
+[201] Elevator #5 started idleing (no buttons pressed)
+[201] Elevator #6 arrived at floor 10
+[201] Elevator #6 started idleing (no buttons pressed)
+[202] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [195]
+[202] Elevator #3 arrived at floor 24
+[202] Elevator #3 continues MovingUp - next target floor 25, will arrive at [209]
+[202] Elevator #4 arrived at floor 1
+[202] Elevator #4 started idleing (no buttons pressed)
+[202] Elevator #5 arrived at floor 9
+[202] Elevator #5 started idleing (no buttons pressed)
+[202] Elevator #6 arrived at floor 10
+[202] Elevator #6 started idleing (no buttons pressed)
+[203] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [196]
+[203] Elevator #3 arrived at floor 24
+[203] Elevator #3 continues MovingUp - next target floor 25, will arrive at [210]
+[203] Elevator #4 arrived at floor 1
+[203] Elevator #4 started idleing (no buttons pressed)
+[203] Elevator #5 arrived at floor 9
+[203] Elevator #5 started idleing (no buttons pressed)
+[203] Elevator #6 arrived at floor 10
+[203] Elevator #6 started idleing (no buttons pressed)
+[204] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [197]
+[204] Elevator #3 arrived at floor 24
+[204] Elevator #3 continues MovingUp - next target floor 25, will arrive at [211]
+[204] Elevator #4 arrived at floor 1
+[204] Elevator #4 started idleing (no buttons pressed)
+[204] Elevator #5 arrived at floor 9
+[204] Elevator #5 started idleing (no buttons pressed)
+[204] Elevator #6 arrived at floor 10
+[204] Elevator #6 started idleing (no buttons pressed)
+[205] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [198]
+[205] Elevator #3 arrived at floor 24
+[205] Elevator #3 continues MovingUp - next target floor 25, will arrive at [212]
+[205] Elevator #4 arrived at floor 1
+[205] Elevator #4 started idleing (no buttons pressed)
+[205] Elevator #5 arrived at floor 9
+[205] Elevator #5 started idleing (no buttons pressed)
+[205] Elevator #6 arrived at floor 10
+[205] Elevator #6 started idleing (no buttons pressed)
+[206] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [199]
+[206] Elevator #3 arrived at floor 24
+[206] Elevator #3 continues MovingUp - next target floor 25, will arrive at [213]
+[206] Elevator #4 arrived at floor 1
+[206] Elevator #4 started idleing (no buttons pressed)
+[206] Elevator #5 arrived at floor 9
+[206] Elevator #5 started idleing (no buttons pressed)
+[206] Elevator #6 arrived at floor 10
+[206] Elevator #6 started idleing (no buttons pressed)
+[207] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [200]
+[207] Elevator #3 arrived at floor 24
+[207] Elevator #3 continues MovingUp - next target floor 25, will arrive at [214]
+[207] Elevator #4 arrived at floor 1
+[207] Elevator #4 started idleing (no buttons pressed)
+[207] Elevator #5 arrived at floor 9
+[207] Elevator #5 started idleing (no buttons pressed)
+[207] Elevator #6 arrived at floor 10
+[207] Elevator #6 started idleing (no buttons pressed)
+[208] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [201]
+[208] Elevator #3 arrived at floor 24
+[208] Elevator #3 continues MovingUp - next target floor 25, will arrive at [215]
+[208] Elevator #4 arrived at floor 1
+[208] Elevator #4 started idleing (no buttons pressed)
+[208] Elevator #5 arrived at floor 9
+[208] Elevator #5 started idleing (no buttons pressed)
+[208] Elevator #6 arrived at floor 10
+[208] Elevator #6 started idleing (no buttons pressed)
+[209] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [202]
+[209] Elevator #3 arrived at floor 24
+[209] Elevator #3 continues MovingUp - next target floor 25, will arrive at [216]
+[209] Elevator #4 arrived at floor 1
+[209] Elevator #4 started idleing (no buttons pressed)
+[209] Elevator #5 arrived at floor 9
+[209] Elevator #5 started idleing (no buttons pressed)
+[209] Elevator #6 arrived at floor 10
+[209] Elevator #6 started idleing (no buttons pressed)
+[210] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [203]
+[210] Elevator #2 arrived at floor 18
+[210] Passenger #42 arrived at floor 18 via elevator #2
+[210] Elevator #2 changes direction to MovingDown - next target floor 8, will arrive at [140]
+[210] Elevator #3 arrived at floor 24
+[210] Elevator #3 continues MovingUp - next target floor 25, will arrive at [217]
+[210] Elevator #4 arrived at floor 1
+[210] Elevator #4 started idleing (no buttons pressed)
+[210] Elevator #5 arrived at floor 9
+[210] Elevator #5 started idleing (no buttons pressed)
+[210] Elevator #6 arrived at floor 10
+[210] Elevator #6 started idleing (no buttons pressed)
+[211] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [204]
+[211] Elevator #2 arrived at floor 8
+[211] Passenger #17 arrived at floor 8 via elevator #2
+[211] Passenger #67 arrived at floor 8 via elevator #2
+[211] Elevator #2 changes direction to MovingDown - next target floor 4, will arrive at [187]
+[211] Elevator #3 arrived at floor 24
+[211] Elevator #3 continues MovingUp - next target floor 25, will arrive at [218]
+[211] Elevator #4 arrived at floor 1
+[211] Elevator #4 started idleing (no buttons pressed)
+[211] Elevator #5 arrived at floor 9
+[211] Elevator #5 started idleing (no buttons pressed)
+[211] Elevator #6 arrived at floor 10
+[211] Elevator #6 started idleing (no buttons pressed)
+[212] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [205]
+[212] Elevator #2 arrived at floor 4
+[212] Passenger #93 arrived at floor 4 via elevator #2
+[212] Passenger #43 arrived at floor 4 via elevator #2
+[212] Passenger #30 entered elevator on floor 4
+[212] Passenger #80 entered elevator on floor 4
+[212] Passenger #55 entered elevator on floor 4
+[212] Elevator #2 continues MovingUp - next target floor 8, will arrive at [236]
+[212] Elevator #3 arrived at floor 24
+[212] Elevator #3 continues MovingUp - next target floor 25, will arrive at [219]
+[212] Elevator #4 arrived at floor 1
+[212] Elevator #4 started idleing (no buttons pressed)
+[212] Elevator #5 arrived at floor 9
+[212] Elevator #5 started idleing (no buttons pressed)
+[212] Elevator #6 arrived at floor 10
+[212] Elevator #6 started idleing (no buttons pressed)
+[213] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [206]
+[213] Elevator #3 arrived at floor 24
+[213] Elevator #3 continues MovingUp - next target floor 25, will arrive at [220]
+[213] Elevator #4 arrived at floor 1
+[213] Elevator #4 started idleing (no buttons pressed)
+[213] Elevator #5 arrived at floor 9
+[213] Elevator #5 started idleing (no buttons pressed)
+[213] Elevator #6 arrived at floor 10
+[213] Elevator #6 started idleing (no buttons pressed)
+[214] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [207]
+[214] Elevator #3 arrived at floor 24
+[214] Elevator #3 continues MovingUp - next target floor 25, will arrive at [221]
+[214] Elevator #4 arrived at floor 1
+[214] Elevator #4 started idleing (no buttons pressed)
+[214] Elevator #5 arrived at floor 9
+[214] Elevator #5 started idleing (no buttons pressed)
+[214] Elevator #6 arrived at floor 10
+[214] Elevator #6 started idleing (no buttons pressed)
+[215] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [208]
+[215] Elevator #3 arrived at floor 24
+[215] Elevator #3 continues MovingUp - next target floor 25, will arrive at [222]
+[215] Elevator #4 arrived at floor 1
+[215] Elevator #4 started idleing (no buttons pressed)
+[215] Elevator #5 arrived at floor 9
+[215] Elevator #5 started idleing (no buttons pressed)
+[215] Elevator #6 arrived at floor 10
+[215] Elevator #6 started idleing (no buttons pressed)
+[216] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [209]
+[216] Elevator #3 arrived at floor 24
+[216] Elevator #3 continues MovingUp - next target floor 25, will arrive at [223]
+[216] Elevator #4 arrived at floor 1
+[216] Elevator #4 started idleing (no buttons pressed)
+[216] Elevator #5 arrived at floor 9
+[216] Elevator #5 started idleing (no buttons pressed)
+[216] Elevator #6 arrived at floor 10
+[216] Elevator #6 started idleing (no buttons pressed)
+[217] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [210]
+[217] Elevator #3 arrived at floor 24
+[217] Elevator #3 continues MovingUp - next target floor 25, will arrive at [224]
+[217] Elevator #4 arrived at floor 1
+[217] Elevator #4 started idleing (no buttons pressed)
+[217] Elevator #5 arrived at floor 9
+[217] Elevator #5 started idleing (no buttons pressed)
+[217] Elevator #6 arrived at floor 10
+[217] Elevator #6 started idleing (no buttons pressed)
+[218] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [211]
+[218] Elevator #3 arrived at floor 24
+[218] Elevator #3 continues MovingUp - next target floor 25, will arrive at [225]
+[218] Elevator #4 arrived at floor 1
+[218] Elevator #4 started idleing (no buttons pressed)
+[218] Elevator #5 arrived at floor 9
+[218] Elevator #5 started idleing (no buttons pressed)
+[218] Elevator #6 arrived at floor 10
+[218] Elevator #6 started idleing (no buttons pressed)
+[219] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [212]
+[219] Elevator #3 arrived at floor 24
+[219] Elevator #3 continues MovingUp - next target floor 25, will arrive at [226]
+[219] Elevator #4 arrived at floor 1
+[219] Elevator #4 started idleing (no buttons pressed)
+[219] Elevator #5 arrived at floor 9
+[219] Elevator #5 started idleing (no buttons pressed)
+[219] Elevator #6 arrived at floor 10
+[219] Elevator #6 started idleing (no buttons pressed)
+[220] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [213]
+[220] Elevator #3 arrived at floor 24
+[220] Elevator #3 continues MovingUp - next target floor 25, will arrive at [227]
+[220] Elevator #4 arrived at floor 1
+[220] Elevator #4 started idleing (no buttons pressed)
+[220] Elevator #5 arrived at floor 9
+[220] Elevator #5 started idleing (no buttons pressed)
+[220] Elevator #6 arrived at floor 10
+[220] Elevator #6 started idleing (no buttons pressed)
+[221] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [214]
+[221] Elevator #3 arrived at floor 24
+[221] Elevator #3 continues MovingUp - next target floor 25, will arrive at [228]
+[221] Elevator #4 arrived at floor 1
+[221] Elevator #4 started idleing (no buttons pressed)
+[221] Elevator #5 arrived at floor 9
+[221] Elevator #5 started idleing (no buttons pressed)
+[221] Elevator #6 arrived at floor 10
+[221] Elevator #6 started idleing (no buttons pressed)
+[222] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [215]
+[222] Elevator #3 arrived at floor 24
+[222] Elevator #3 continues MovingUp - next target floor 25, will arrive at [229]
+[222] Elevator #4 arrived at floor 1
+[222] Elevator #4 started idleing (no buttons pressed)
+[222] Elevator #5 arrived at floor 9
+[222] Elevator #5 started idleing (no buttons pressed)
+[222] Elevator #6 arrived at floor 10
+[222] Elevator #6 started idleing (no buttons pressed)
+[223] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [216]
+[223] Elevator #3 arrived at floor 24
+[223] Elevator #3 continues MovingUp - next target floor 25, will arrive at [230]
+[223] Elevator #4 arrived at floor 1
+[223] Elevator #4 started idleing (no buttons pressed)
+[223] Elevator #5 arrived at floor 9
+[223] Elevator #5 started idleing (no buttons pressed)
+[223] Elevator #6 arrived at floor 10
+[223] Elevator #6 started idleing (no buttons pressed)
+[224] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [217]
+[224] Elevator #3 arrived at floor 24
+[224] Elevator #3 continues MovingUp - next target floor 25, will arrive at [231]
+[224] Elevator #4 arrived at floor 1
+[224] Elevator #4 started idleing (no buttons pressed)
+[224] Elevator #5 arrived at floor 9
+[224] Elevator #5 started idleing (no buttons pressed)
+[224] Elevator #6 arrived at floor 10
+[224] Elevator #6 started idleing (no buttons pressed)
+[225] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [218]
+[225] Elevator #3 arrived at floor 24
+[225] Elevator #3 continues MovingUp - next target floor 25, will arrive at [232]
+[225] Elevator #4 arrived at floor 1
+[225] Elevator #4 started idleing (no buttons pressed)
+[225] Elevator #5 arrived at floor 9
+[225] Elevator #5 started idleing (no buttons pressed)
+[225] Elevator #6 arrived at floor 10
+[225] Elevator #6 started idleing (no buttons pressed)
+[226] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [219]
+[226] Elevator #3 arrived at floor 24
+[226] Elevator #3 continues MovingUp - next target floor 25, will arrive at [233]
+[226] Elevator #4 arrived at floor 1
+[226] Elevator #4 started idleing (no buttons pressed)
+[226] Elevator #5 arrived at floor 9
+[226] Elevator #5 started idleing (no buttons pressed)
+[226] Elevator #6 arrived at floor 10
+[226] Elevator #6 started idleing (no buttons pressed)
+[227] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [220]
+[227] Elevator #3 arrived at floor 24
+[227] Elevator #3 continues MovingUp - next target floor 25, will arrive at [234]
+[227] Elevator #4 arrived at floor 1
+[227] Elevator #4 started idleing (no buttons pressed)
+[227] Elevator #5 arrived at floor 9
+[227] Elevator #5 started idleing (no buttons pressed)
+[227] Elevator #6 arrived at floor 10
+[227] Elevator #6 started idleing (no buttons pressed)
+[228] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [221]
+[228] Elevator #3 arrived at floor 24
+[228] Elevator #3 continues MovingUp - next target floor 25, will arrive at [235]
+[228] Elevator #4 arrived at floor 1
+[228] Elevator #4 started idleing (no buttons pressed)
+[228] Elevator #5 arrived at floor 9
+[228] Elevator #5 started idleing (no buttons pressed)
+[228] Elevator #6 arrived at floor 10
+[228] Elevator #6 started idleing (no buttons pressed)
+[229] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [222]
+[229] Elevator #3 arrived at floor 24
+[229] Elevator #3 continues MovingUp - next target floor 25, will arrive at [236]
+[229] Elevator #4 arrived at floor 1
+[229] Elevator #4 started idleing (no buttons pressed)
+[229] Elevator #5 arrived at floor 9
+[229] Elevator #5 started idleing (no buttons pressed)
+[229] Elevator #6 arrived at floor 10
+[229] Elevator #6 started idleing (no buttons pressed)
+[230] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [223]
+[230] Elevator #3 arrived at floor 24
+[230] Elevator #3 continues MovingUp - next target floor 25, will arrive at [237]
+[230] Elevator #4 arrived at floor 1
+[230] Elevator #4 started idleing (no buttons pressed)
+[230] Elevator #5 arrived at floor 9
+[230] Elevator #5 started idleing (no buttons pressed)
+[230] Elevator #6 arrived at floor 10
+[230] Elevator #6 started idleing (no buttons pressed)
+[231] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [224]
+[231] Elevator #3 arrived at floor 24
+[231] Elevator #3 continues MovingUp - next target floor 25, will arrive at [238]
+[231] Elevator #4 arrived at floor 1
+[231] Elevator #4 started idleing (no buttons pressed)
+[231] Elevator #5 arrived at floor 9
+[231] Elevator #5 started idleing (no buttons pressed)
+[231] Elevator #6 arrived at floor 10
+[231] Elevator #6 started idleing (no buttons pressed)
+[232] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [225]
+[232] Elevator #3 arrived at floor 24
+[232] Elevator #3 continues MovingUp - next target floor 25, will arrive at [239]
+[232] Elevator #4 arrived at floor 1
+[232] Elevator #4 started idleing (no buttons pressed)
+[232] Elevator #5 arrived at floor 9
+[232] Elevator #5 started idleing (no buttons pressed)
+[232] Elevator #6 arrived at floor 10
+[232] Elevator #6 started idleing (no buttons pressed)
+[233] Elevator #3 changes direction to MovingDown - next target floor 24, will arrive at [226]
+[233] Elevator #1 arrived at floor 24
+[233] Passenger #3 arrived at floor 24 via elevator #1
+[233] Passenger #75 entered elevator on floor 24
+[233] Passenger #50 entered elevator on floor 24
+[233] Elevator #1 changes direction to MovingDown - next target floor 19, will arrive at [213]
+[233] Elevator #3 arrived at floor 24
+[233] Elevator #3 continues MovingUp - next target floor 25, will arrive at [240]
+[233] Elevator #4 arrived at floor 1
+[233] Elevator #4 started idleing (no buttons pressed)
+[233] Elevator #5 arrived at floor 9
+[233] Elevator #5 started idleing (no buttons pressed)
+[233] Elevator #6 arrived at floor 10
+[233] Elevator #6 started idleing (no buttons pressed)
+[234] Elevator #1 arrived at floor 19
+[234] Passenger #75 arrived at floor 19 via elevator #1
+[234] Passenger #95 entered elevator on floor 19
+[234] Passenger #20 entered elevator on floor 19
+[234] Passenger #70 entered elevator on floor 19
+[234] Passenger #45 entered elevator on floor 19
+[234] Elevator #1 changes direction to MovingDown - next target floor 16, will arrive at [219]
+[234] Elevator #4 arrived at floor 1
+[234] Elevator #4 started idleing (no buttons pressed)
+[234] Elevator #5 arrived at floor 9
+[234] Elevator #5 started idleing (no buttons pressed)
+[234] Elevator #6 arrived at floor 10
+[234] Elevator #6 started idleing (no buttons pressed)
+[235] Elevator #1 arrived at floor 16
+[235] Passenger #50 arrived at floor 16 via elevator #1
+[235] Elevator #1 changes direction to MovingDown - next target floor 6, will arrive at [185]
+[235] Elevator #4 arrived at floor 1
+[235] Elevator #4 started idleing (no buttons pressed)
+[235] Elevator #5 arrived at floor 9
+[235] Elevator #5 started idleing (no buttons pressed)
+[235] Elevator #6 arrived at floor 10
+[235] Elevator #6 started idleing (no buttons pressed)
+[236] Elevator #1 arrived at floor 6
+[236] Passenger #95 arrived at floor 6 via elevator #1
+[236] Passenger #45 arrived at floor 6 via elevator #1
+[236] Elevator #1 changes direction to MovingDown - next target floor 1, will arrive at [216]
+[236] Elevator #2 arrived at floor 8
+[236] Passenger #55 arrived at floor 8 via elevator #2
+[236] Elevator #2 changes direction to MovingDown - next target floor 2, will arrive at [200]
+[236] Elevator #4 arrived at floor 1
+[236] Elevator #4 started idleing (no buttons pressed)
+[236] Elevator #5 arrived at floor 9
+[236] Elevator #5 started idleing (no buttons pressed)
+[236] Elevator #6 arrived at floor 10
+[236] Elevator #6 started idleing (no buttons pressed)
+[237] Elevator #1 arrived at floor 1
+[237] Passenger #47 arrived at floor 1 via elevator #1
+[237] Passenger #20 arrived at floor 1 via elevator #1
+[237] Passenger #70 arrived at floor 1 via elevator #1
+[237] Elevator #1 started idleing (no buttons pressed)
+[237] Elevator #2 arrived at floor 2
+[237] Passenger #89 arrived at floor 2 via elevator #2
+[237] Passenger #39 arrived at floor 2 via elevator #2
+[237] Passenger #59 arrived at floor 2 via elevator #2
+[237] Elevator #2 changes direction to MovingDown - next target floor 1, will arrive at [233]
+[237] Elevator #4 arrived at floor 1
+[237] Elevator #4 started idleing (no buttons pressed)
+[237] Elevator #5 arrived at floor 9
+[237] Elevator #5 started idleing (no buttons pressed)
+[237] Elevator #6 arrived at floor 10
+[237] Elevator #6 started idleing (no buttons pressed)
+[238] Elevator #1 arrived at floor 1
+[238] Elevator #1 started idleing (no buttons pressed)
+[238] Elevator #2 arrived at floor 1
+[238] Passenger #63 arrived at floor 1 via elevator #2
+[238] Passenger #13 arrived at floor 1 via elevator #2
+[238] Passenger #30 arrived at floor 1 via elevator #2
+[238] Passenger #80 arrived at floor 1 via elevator #2
+[238] Elevator #2 started idleing (no buttons pressed)
+[238] Elevator #4 arrived at floor 1
+[238] Elevator #4 started idleing (no buttons pressed)
+[238] Elevator #5 arrived at floor 9
+[238] Elevator #5 started idleing (no buttons pressed)
+[238] Elevator #6 arrived at floor 10
+[238] Elevator #6 started idleing (no buttons pressed)
+[239] Elevator #1 arrived at floor 1
+[239] Elevator #1 started idleing (no buttons pressed)
+[239] Elevator #2 arrived at floor 1
+[239] Elevator #2 started idleing (no buttons pressed)
+[239] Elevator #4 arrived at floor 1
+[239] Elevator #4 started idleing (no buttons pressed)
+[239] Elevator #5 arrived at floor 9
+[239] Elevator #5 started idleing (no buttons pressed)
+[239] Elevator #6 arrived at floor 10
+[239] Elevator #6 started idleing (no buttons pressed)
+[240] Elevator #1 arrived at floor 1
+[240] Elevator #1 started idleing (no buttons pressed)
+[240] Elevator #2 arrived at floor 1
+[240] Elevator #2 started idleing (no buttons pressed)
+[240] Elevator #3 arrived at floor 25
+[240] Elevator #3 changes direction to MovingDown - next target floor 20, will arrive at [205]
+[240] Elevator #4 arrived at floor 1
+[240] Elevator #4 started idleing (no buttons pressed)
+[240] Elevator #5 arrived at floor 9
+[240] Elevator #5 started idleing (no buttons pressed)
+[240] Elevator #6 arrived at floor 10
+[240] Elevator #6 started idleing (no buttons pressed)
+[241] Elevator #1 continues MovingUp - next target floor 25, will arrive at [287]
+[241] Elevator #2 arrived at floor 1
+[241] Elevator #2 started idleing (no buttons pressed)
+[241] Elevator #3 arrived at floor 20
+[241] Elevator #3 changes direction to MovingDown - next target floor 19, will arrive at [234]
+[241] Elevator #4 arrived at floor 1
+[241] Elevator #4 started idleing (no buttons pressed)
+[241] Elevator #5 arrived at floor 9
+[241] Elevator #5 started idleing (no buttons pressed)
+[241] Elevator #6 arrived at floor 10
+[241] Elevator #6 started idleing (no buttons pressed)
+[242] Elevator #2 arrived at floor 1
+[242] Elevator #2 started idleing (no buttons pressed)
+[242] Elevator #3 arrived at floor 19
+[242] Passenger #25 arrived at floor 19 via elevator #3
+[242] Elevator #3 changes direction to MovingDown - next target floor 18, will arrive at [235]
+[242] Elevator #4 arrived at floor 1
+[242] Elevator #4 started idleing (no buttons pressed)
+[242] Elevator #5 arrived at floor 9
+[242] Elevator #5 started idleing (no buttons pressed)
+[242] Elevator #6 arrived at floor 10
+[242] Elevator #6 started idleing (no buttons pressed)
+[243] Elevator #2 arrived at floor 1
+[243] Elevator #2 started idleing (no buttons pressed)
+[243] Elevator #3 arrived at floor 18
+[243] Elevator #3 changes direction to MovingDown - next target floor 17, will arrive at [236]
+[243] Elevator #4 arrived at floor 1
+[243] Elevator #4 started idleing (no buttons pressed)
+[243] Elevator #5 arrived at floor 9
+[243] Elevator #5 started idleing (no buttons pressed)
+[243] Elevator #6 arrived at floor 10
+[243] Elevator #6 started idleing (no buttons pressed)
+[244] Elevator #2 arrived at floor 1
+[244] Elevator #2 started idleing (no buttons pressed)
+[244] Elevator #3 arrived at floor 17
+[244] Elevator #3 changes direction to MovingDown - next target floor 16, will arrive at [237]
+[244] Elevator #4 arrived at floor 1
+[244] Elevator #4 started idleing (no buttons pressed)
+[244] Elevator #5 arrived at floor 9
+[244] Elevator #5 started idleing (no buttons pressed)
+[244] Elevator #6 arrived at floor 10
+[244] Elevator #6 started idleing (no buttons pressed)
+[245] Elevator #2 arrived at floor 1
+[245] Elevator #2 started idleing (no buttons pressed)
+[245] Elevator #3 arrived at floor 16
+[245] Passenger #100 arrived at floor 16 via elevator #3
+[245] Elevator #3 changes direction to MovingDown - next target floor 15, will arrive at [238]
+[245] Elevator #4 arrived at floor 1
+[245] Elevator #4 started idleing (no buttons pressed)
+[245] Elevator #5 arrived at floor 9
+[245] Elevator #5 started idleing (no buttons pressed)
+[245] Elevator #6 arrived at floor 10
+[245] Elevator #6 started idleing (no buttons pressed)
+[246] Elevator #2 arrived at floor 1
+[246] Elevator #2 started idleing (no buttons pressed)
+[246] Elevator #3 arrived at floor 15
+[246] Passenger #22 arrived at floor 15 via elevator #3
+[246] Passenger #72 arrived at floor 15 via elevator #3
+[246] Elevator #3 changes direction to MovingDown - next target floor 14, will arrive at [240]
+[246] Elevator #4 arrived at floor 1
+[246] Elevator #4 started idleing (no buttons pressed)
+[246] Elevator #5 arrived at floor 9
+[246] Elevator #5 started idleing (no buttons pressed)
+[246] Elevator #6 arrived at floor 10
+[246] Elevator #6 started idleing (no buttons pressed)
+[247] Elevator #2 arrived at floor 1
+[247] Elevator #2 started idleing (no buttons pressed)
+[247] Elevator #3 arrived at floor 14
+[247] Elevator #3 changes direction to MovingDown - next target floor 13, will arrive at [241]
+[247] Elevator #4 arrived at floor 1
+[247] Elevator #4 started idleing (no buttons pressed)
+[247] Elevator #5 arrived at floor 9
+[247] Elevator #5 started idleing (no buttons pressed)
+[247] Elevator #6 arrived at floor 10
+[247] Elevator #6 started idleing (no buttons pressed)
+[248] Elevator #2 arrived at floor 1
+[248] Elevator #2 started idleing (no buttons pressed)
+[248] Elevator #3 arrived at floor 13
+[248] Elevator #3 changes direction to MovingDown - next target floor 12, will arrive at [242]
+[248] Elevator #4 arrived at floor 1
+[248] Elevator #4 started idleing (no buttons pressed)
+[248] Elevator #5 arrived at floor 9
+[248] Elevator #5 started idleing (no buttons pressed)
+[248] Elevator #6 arrived at floor 10
+[248] Elevator #6 started idleing (no buttons pressed)
+[249] Elevator #2 arrived at floor 1
+[249] Elevator #2 started idleing (no buttons pressed)
+[249] Elevator #3 arrived at floor 12
+[249] Elevator #3 changes direction to MovingDown - next target floor 11, will arrive at [243]
+[249] Elevator #4 arrived at floor 1
+[249] Elevator #4 started idleing (no buttons pressed)
+[249] Elevator #5 arrived at floor 9
+[249] Elevator #5 started idleing (no buttons pressed)
+[249] Elevator #6 arrived at floor 10
+[249] Elevator #6 started idleing (no buttons pressed)
+[250] Elevator #2 arrived at floor 1
+[250] Elevator #2 started idleing (no buttons pressed)
+[250] Elevator #3 arrived at floor 11
+[250] Elevator #3 changes direction to MovingDown - next target floor 10, will arrive at [244]
+[250] Elevator #4 arrived at floor 1
+[250] Elevator #4 started idleing (no buttons pressed)
+[250] Elevator #5 arrived at floor 9
+[250] Elevator #5 started idleing (no buttons pressed)
+[250] Elevator #6 arrived at floor 10
+[250] Elevator #6 started idleing (no buttons pressed)
+[251] Elevator #2 arrived at floor 1
+[251] Elevator #2 started idleing (no buttons pressed)
+[251] Elevator #3 arrived at floor 10
+[251] Elevator #3 changes direction to MovingDown - next target floor 9, will arrive at [245]
+[251] Elevator #4 arrived at floor 1
+[251] Elevator #4 started idleing (no buttons pressed)
+[251] Elevator #5 arrived at floor 9
+[251] Elevator #5 started idleing (no buttons pressed)
+[251] Elevator #6 arrived at floor 10
+[251] Elevator #6 started idleing (no buttons pressed)
+[252] Elevator #2 arrived at floor 1
+[252] Elevator #2 started idleing (no buttons pressed)
+[252] Elevator #3 arrived at floor 9
+[252] Passenger #98 arrived at floor 9 via elevator #3
+[252] Elevator #3 changes direction to MovingDown - next target floor 7, will arrive at [240]
+[252] Elevator #4 arrived at floor 1
+[252] Elevator #4 started idleing (no buttons pressed)
+[252] Elevator #5 arrived at floor 9
+[252] Elevator #5 started idleing (no buttons pressed)
+[252] Elevator #6 arrived at floor 10
+[252] Elevator #6 started idleing (no buttons pressed)
+[253] Elevator #2 arrived at floor 1
+[253] Elevator #2 started idleing (no buttons pressed)
+[253] Elevator #3 arrived at floor 7
+[253] Passenger #23 arrived at floor 7 via elevator #3
+[253] Passenger #73 arrived at floor 7 via elevator #3
+[253] Elevator #3 changes direction to MovingDown - next target floor 5, will arrive at [243]
+[253] Elevator #4 arrived at floor 1
+[253] Elevator #4 started idleing (no buttons pressed)
+[253] Elevator #5 arrived at floor 9
+[253] Elevator #5 started idleing (no buttons pressed)
+[253] Elevator #6 arrived at floor 10
+[253] Elevator #6 started idleing (no buttons pressed)
+[254] Elevator #2 arrived at floor 1
+[254] Elevator #2 started idleing (no buttons pressed)
+[254] Elevator #3 arrived at floor 5
+[254] Elevator #3 changes direction to MovingDown - next target floor 3, will arrive at [244]
+[254] Elevator #4 arrived at floor 1
+[254] Elevator #4 started idleing (no buttons pressed)
+[254] Elevator #5 arrived at floor 9
+[254] Elevator #5 started idleing (no buttons pressed)
+[254] Elevator #6 arrived at floor 10
+[254] Elevator #6 started idleing (no buttons pressed)
+[255] Elevator #2 arrived at floor 1
+[255] Elevator #2 started idleing (no buttons pressed)
+[255] Elevator #3 arrived at floor 3
+[255] Passenger #99 arrived at floor 3 via elevator #3
+[255] Elevator #3 changes direction to MovingDown - next target floor 2, will arrive at [251]
+[255] Elevator #4 arrived at floor 1
+[255] Elevator #4 started idleing (no buttons pressed)
+[255] Elevator #5 arrived at floor 9
+[255] Elevator #5 started idleing (no buttons pressed)
+[255] Elevator #6 arrived at floor 10
+[255] Elevator #6 started idleing (no buttons pressed)
+[256] Elevator #2 arrived at floor 1
+[256] Elevator #2 started idleing (no buttons pressed)
+[256] Elevator #3 arrived at floor 2
+[256] Passenger #24 arrived at floor 2 via elevator #3
+[256] Passenger #74 arrived at floor 2 via elevator #3
+[256] Elevator #3 changes direction to MovingDown - next target floor 1, will arrive at [253]
+[256] Elevator #4 arrived at floor 1
+[256] Elevator #4 started idleing (no buttons pressed)
+[256] Elevator #5 arrived at floor 9
+[256] Elevator #5 started idleing (no buttons pressed)
+[256] Elevator #6 arrived at floor 10
+[256] Elevator #6 started idleing (no buttons pressed)
+[257] Elevator #2 arrived at floor 1
+[257] Elevator #2 started idleing (no buttons pressed)
+[257] Elevator #3 arrived at floor 1
+[257] Passenger #97 arrived at floor 1 via elevator #3
+[257] Elevator #3 started idleing (no buttons pressed)
+[257] Elevator #4 arrived at floor 1
+[257] Elevator #4 started idleing (no buttons pressed)
+[257] Elevator #5 arrived at floor 9
+[257] Elevator #5 started idleing (no buttons pressed)
+[257] Elevator #6 arrived at floor 10
+[257] Elevator #6 started idleing (no buttons pressed)
+[258] Elevator #2 arrived at floor 1
+[258] Elevator #2 started idleing (no buttons pressed)
+[258] Elevator #3 arrived at floor 1
+[258] Elevator #3 started idleing (no buttons pressed)
+[258] Elevator #4 arrived at floor 1
+[258] Elevator #4 started idleing (no buttons pressed)
+[258] Elevator #5 arrived at floor 9
+[258] Elevator #5 started idleing (no buttons pressed)
+[258] Elevator #6 arrived at floor 10
+[258] Elevator #6 started idleing (no buttons pressed)
+[259] Elevator #2 arrived at floor 1
+[259] Elevator #2 started idleing (no buttons pressed)
+[259] Elevator #3 arrived at floor 1
+[259] Elevator #3 started idleing (no buttons pressed)
+[259] Elevator #4 arrived at floor 1
+[259] Elevator #4 started idleing (no buttons pressed)
+[259] Elevator #5 arrived at floor 9
+[259] Elevator #5 started idleing (no buttons pressed)
+[259] Elevator #6 arrived at floor 10
+[259] Elevator #6 started idleing (no buttons pressed)
+[260] Elevator #2 arrived at floor 1
+[260] Elevator #2 started idleing (no buttons pressed)
+[260] Elevator #3 arrived at floor 1
+[260] Elevator #3 started idleing (no buttons pressed)
+[260] Elevator #4 arrived at floor 1
+[260] Elevator #4 started idleing (no buttons pressed)
+[260] Elevator #5 arrived at floor 9
+[260] Elevator #5 started idleing (no buttons pressed)
+[260] Elevator #6 arrived at floor 10
+[260] Elevator #6 started idleing (no buttons pressed)
+[261] Elevator #2 arrived at floor 1
+[261] Elevator #2 started idleing (no buttons pressed)
+[261] Elevator #3 arrived at floor 1
+[261] Elevator #3 started idleing (no buttons pressed)
+[261] Elevator #4 arrived at floor 1
+[261] Elevator #4 started idleing (no buttons pressed)
+[261] Elevator #5 arrived at floor 9
+[261] Elevator #5 started idleing (no buttons pressed)
+[261] Elevator #6 arrived at floor 10
+[261] Elevator #6 started idleing (no buttons pressed)
+[262] Elevator #2 arrived at floor 1
+[262] Elevator #2 started idleing (no buttons pressed)
+[262] Elevator #3 arrived at floor 1
+[262] Elevator #3 started idleing (no buttons pressed)
+[262] Elevator #4 arrived at floor 1
+[262] Elevator #4 started idleing (no buttons pressed)
+[262] Elevator #5 arrived at floor 9
+[262] Elevator #5 started idleing (no buttons pressed)
+[262] Elevator #6 arrived at floor 10
+[262] Elevator #6 started idleing (no buttons pressed)
+[263] Elevator #2 arrived at floor 1
+[263] Elevator #2 started idleing (no buttons pressed)
+[263] Elevator #3 arrived at floor 1
+[263] Elevator #3 started idleing (no buttons pressed)
+[263] Elevator #4 arrived at floor 1
+[263] Elevator #4 started idleing (no buttons pressed)
+[263] Elevator #5 arrived at floor 9
+[263] Elevator #5 started idleing (no buttons pressed)
+[263] Elevator #6 arrived at floor 10
+[263] Elevator #6 started idleing (no buttons pressed)
+[264] Elevator #2 arrived at floor 1
+[264] Elevator #2 started idleing (no buttons pressed)
+[264] Elevator #3 arrived at floor 1
+[264] Elevator #3 started idleing (no buttons pressed)
+[264] Elevator #4 arrived at floor 1
+[264] Elevator #4 started idleing (no buttons pressed)
+[264] Elevator #5 arrived at floor 9
+[264] Elevator #5 started idleing (no buttons pressed)
+[264] Elevator #6 arrived at floor 10
+[264] Elevator #6 started idleing (no buttons pressed)
+[265] Elevator #2 arrived at floor 1
+[265] Elevator #2 started idleing (no buttons pressed)
+[265] Elevator #3 arrived at floor 1
+[265] Elevator #3 started idleing (no buttons pressed)
+[265] Elevator #4 arrived at floor 1
+[265] Elevator #4 started idleing (no buttons pressed)
+[265] Elevator #5 arrived at floor 9
+[265] Elevator #5 started idleing (no buttons pressed)
+[265] Elevator #6 arrived at floor 10
+[265] Elevator #6 started idleing (no buttons pressed)
+[266] Elevator #2 arrived at floor 1
+[266] Elevator #2 started idleing (no buttons pressed)
+[266] Elevator #3 arrived at floor 1
+[266] Elevator #3 started idleing (no buttons pressed)
+[266] Elevator #4 arrived at floor 1
+[266] Elevator #4 started idleing (no buttons pressed)
+[266] Elevator #5 arrived at floor 9
+[266] Elevator #5 started idleing (no buttons pressed)
+[266] Elevator #6 arrived at floor 10
+[266] Elevator #6 started idleing (no buttons pressed)
+[267] Elevator #2 arrived at floor 1
+[267] Elevator #2 started idleing (no buttons pressed)
+[267] Elevator #3 arrived at floor 1
+[267] Elevator #3 started idleing (no buttons pressed)
+[267] Elevator #4 arrived at floor 1
+[267] Elevator #4 started idleing (no buttons pressed)
+[267] Elevator #5 arrived at floor 9
+[267] Elevator #5 started idleing (no buttons pressed)
+[267] Elevator #6 arrived at floor 10
+[267] Elevator #6 started idleing (no buttons pressed)
+[268] Elevator #2 arrived at floor 1
+[268] Elevator #2 started idleing (no buttons pressed)
+[268] Elevator #3 arrived at floor 1
+[268] Elevator #3 started idleing (no buttons pressed)
+[268] Elevator #4 arrived at floor 1
+[268] Elevator #4 started idleing (no buttons pressed)
+[268] Elevator #5 arrived at floor 9
+[268] Elevator #5 started idleing (no buttons pressed)
+[268] Elevator #6 arrived at floor 10
+[268] Elevator #6 started idleing (no buttons pressed)
+[269] Elevator #2 arrived at floor 1
+[269] Elevator #2 started idleing (no buttons pressed)
+[269] Elevator #3 arrived at floor 1
+[269] Elevator #3 started idleing (no buttons pressed)
+[269] Elevator #4 arrived at floor 1
+[269] Elevator #4 started idleing (no buttons pressed)
+[269] Elevator #5 arrived at floor 9
+[269] Elevator #5 started idleing (no buttons pressed)
+[269] Elevator #6 arrived at floor 10
+[269] Elevator #6 started idleing (no buttons pressed)
+[270] Elevator #2 arrived at floor 1
+[270] Elevator #2 started idleing (no buttons pressed)
+[270] Elevator #3 arrived at floor 1
+[270] Elevator #3 started idleing (no buttons pressed)
+[270] Elevator #4 arrived at floor 1
+[270] Elevator #4 started idleing (no buttons pressed)
+[270] Elevator #5 arrived at floor 9
+[270] Elevator #5 started idleing (no buttons pressed)
+[270] Elevator #6 arrived at floor 10
+[270] Elevator #6 started idleing (no buttons pressed)
+[271] Elevator #2 arrived at floor 1
+[271] Elevator #2 started idleing (no buttons pressed)
+[271] Elevator #3 arrived at floor 1
+[271] Elevator #3 started idleing (no buttons pressed)
+[271] Elevator #4 arrived at floor 1
+[271] Elevator #4 started idleing (no buttons pressed)
+[271] Elevator #5 arrived at floor 9
+[271] Elevator #5 started idleing (no buttons pressed)
+[271] Elevator #6 arrived at floor 10
+[271] Elevator #6 started idleing (no buttons pressed)
+[272] Elevator #2 arrived at floor 1
+[272] Elevator #2 started idleing (no buttons pressed)
+[272] Elevator #3 arrived at floor 1
+[272] Elevator #3 started idleing (no buttons pressed)
+[272] Elevator #4 arrived at floor 1
+[272] Elevator #4 started idleing (no buttons pressed)
+[272] Elevator #5 arrived at floor 9
+[272] Elevator #5 started idleing (no buttons pressed)
+[272] Elevator #6 arrived at floor 10
+[272] Elevator #6 started idleing (no buttons pressed)
+[273] Elevator #2 arrived at floor 1
+[273] Elevator #2 started idleing (no buttons pressed)
+[273] Elevator #3 arrived at floor 1
+[273] Elevator #3 started idleing (no buttons pressed)
+[273] Elevator #4 arrived at floor 1
+[273] Elevator #4 started idleing (no buttons pressed)
+[273] Elevator #5 arrived at floor 9
+[273] Elevator #5 started idleing (no buttons pressed)
+[273] Elevator #6 arrived at floor 10
+[273] Elevator #6 started idleing (no buttons pressed)
+[274] Elevator #2 arrived at floor 1
+[274] Elevator #2 started idleing (no buttons pressed)
+[274] Elevator #3 arrived at floor 1
+[274] Elevator #3 started idleing (no buttons pressed)
+[274] Elevator #4 arrived at floor 1
+[274] Elevator #4 started idleing (no buttons pressed)
+[274] Elevator #5 arrived at floor 9
+[274] Elevator #5 started idleing (no buttons pressed)
+[274] Elevator #6 arrived at floor 10
+[274] Elevator #6 started idleing (no buttons pressed)
+[275] Elevator #2 arrived at floor 1
+[275] Elevator #2 started idleing (no buttons pressed)
+[275] Elevator #3 arrived at floor 1
+[275] Elevator #3 started idleing (no buttons pressed)
+[275] Elevator #4 arrived at floor 1
+[275] Elevator #4 started idleing (no buttons pressed)
+[275] Elevator #5 arrived at floor 9
+[275] Elevator #5 started idleing (no buttons pressed)
+[275] Elevator #6 arrived at floor 10
+[275] Elevator #6 started idleing (no buttons pressed)
+[276] Elevator #2 arrived at floor 1
+[276] Elevator #2 started idleing (no buttons pressed)
+[276] Elevator #3 arrived at floor 1
+[276] Elevator #3 started idleing (no buttons pressed)
+[276] Elevator #4 arrived at floor 1
+[276] Elevator #4 started idleing (no buttons pressed)
+[276] Elevator #5 arrived at floor 9
+[276] Elevator #5 started idleing (no buttons pressed)
+[276] Elevator #6 arrived at floor 10
+[276] Elevator #6 started idleing (no buttons pressed)
+[277] Elevator #2 arrived at floor 1
+[277] Elevator #2 started idleing (no buttons pressed)
+[277] Elevator #3 arrived at floor 1
+[277] Elevator #3 started idleing (no buttons pressed)
+[277] Elevator #4 arrived at floor 1
+[277] Elevator #4 started idleing (no buttons pressed)
+[277] Elevator #5 arrived at floor 9
+[277] Elevator #5 started idleing (no buttons pressed)
+[277] Elevator #6 arrived at floor 10
+[277] Elevator #6 started idleing (no buttons pressed)
+[278] Elevator #2 arrived at floor 1
+[278] Elevator #2 started idleing (no buttons pressed)
+[278] Elevator #3 arrived at floor 1
+[278] Elevator #3 started idleing (no buttons pressed)
+[278] Elevator #4 arrived at floor 1
+[278] Elevator #4 started idleing (no buttons pressed)
+[278] Elevator #5 arrived at floor 9
+[278] Elevator #5 started idleing (no buttons pressed)
+[278] Elevator #6 arrived at floor 10
+[278] Elevator #6 started idleing (no buttons pressed)
+[279] Elevator #2 arrived at floor 1
+[279] Elevator #2 started idleing (no buttons pressed)
+[279] Elevator #3 arrived at floor 1
+[279] Elevator #3 started idleing (no buttons pressed)
+[279] Elevator #4 arrived at floor 1
+[279] Elevator #4 started idleing (no buttons pressed)
+[279] Elevator #5 arrived at floor 9
+[279] Elevator #5 started idleing (no buttons pressed)
+[279] Elevator #6 arrived at floor 10
+[279] Elevator #6 started idleing (no buttons pressed)
+[280] Elevator #2 arrived at floor 1
+[280] Elevator #2 started idleing (no buttons pressed)
+[280] Elevator #3 arrived at floor 1
+[280] Elevator #3 started idleing (no buttons pressed)
+[280] Elevator #4 arrived at floor 1
+[280] Elevator #4 started idleing (no buttons pressed)
+[280] Elevator #5 arrived at floor 9
+[280] Elevator #5 started idleing (no buttons pressed)
+[280] Elevator #6 arrived at floor 10
+[280] Elevator #6 started idleing (no buttons pressed)
+[281] Elevator #2 arrived at floor 1
+[281] Elevator #2 started idleing (no buttons pressed)
+[281] Elevator #3 arrived at floor 1
+[281] Elevator #3 started idleing (no buttons pressed)
+[281] Elevator #4 arrived at floor 1
+[281] Elevator #4 started idleing (no buttons pressed)
+[281] Elevator #5 arrived at floor 9
+[281] Elevator #5 started idleing (no buttons pressed)
+[281] Elevator #6 arrived at floor 10
+[281] Elevator #6 started idleing (no buttons pressed)
+[282] Elevator #2 arrived at floor 1
+[282] Elevator #2 started idleing (no buttons pressed)
+[282] Elevator #3 arrived at floor 1
+[282] Elevator #3 started idleing (no buttons pressed)
+[282] Elevator #4 arrived at floor 1
+[282] Elevator #4 started idleing (no buttons pressed)
+[282] Elevator #5 arrived at floor 9
+[282] Elevator #5 started idleing (no buttons pressed)
+[282] Elevator #6 arrived at floor 10
+[282] Elevator #6 started idleing (no buttons pressed)
+[283] Elevator #2 arrived at floor 1
+[283] Elevator #2 started idleing (no buttons pressed)
+[283] Elevator #3 arrived at floor 1
+[283] Elevator #3 started idleing (no buttons pressed)
+[283] Elevator #4 arrived at floor 1
+[283] Elevator #4 started idleing (no buttons pressed)
+[283] Elevator #5 arrived at floor 9
+[283] Elevator #5 started idleing (no buttons pressed)
+[283] Elevator #6 arrived at floor 10
+[283] Elevator #6 started idleing (no buttons pressed)
+[284] Elevator #2 arrived at floor 1
+[284] Elevator #2 started idleing (no buttons pressed)
+[284] Elevator #3 arrived at floor 1
+[284] Elevator #3 started idleing (no buttons pressed)
+[284] Elevator #4 arrived at floor 1
+[284] Elevator #4 started idleing (no buttons pressed)
+[284] Elevator #5 arrived at floor 9
+[284] Elevator #5 started idleing (no buttons pressed)
+[284] Elevator #6 arrived at floor 10
+[284] Elevator #6 started idleing (no buttons pressed)
+[285] Elevator #2 arrived at floor 1
+[285] Elevator #2 started idleing (no buttons pressed)
+[285] Elevator #3 arrived at floor 1
+[285] Elevator #3 started idleing (no buttons pressed)
+[285] Elevator #4 arrived at floor 1
+[285] Elevator #4 started idleing (no buttons pressed)
+[285] Elevator #5 arrived at floor 9
+[285] Elevator #5 started idleing (no buttons pressed)
+[285] Elevator #6 arrived at floor 10
+[285] Elevator #6 started idleing (no buttons pressed)
+[286] Elevator #2 arrived at floor 1
+[286] Elevator #2 started idleing (no buttons pressed)
+[286] Elevator #3 arrived at floor 1
+[286] Elevator #3 started idleing (no buttons pressed)
+[286] Elevator #4 arrived at floor 1
+[286] Elevator #4 started idleing (no buttons pressed)
+[286] Elevator #5 arrived at floor 9
+[286] Elevator #5 started idleing (no buttons pressed)
+[286] Elevator #6 arrived at floor 10
+[286] Elevator #6 started idleing (no buttons pressed)
+[287] Elevator #1 arrived at floor 25
+[287] Passenger #26 entered elevator on floor 25
+[287] Passenger #76 entered elevator on floor 25
+[287] Passenger #51 entered elevator on floor 25
+[287] Elevator #1 changes direction to MovingDown - next target floor 10, will arrive at [227]
+[287] Elevator #2 arrived at floor 1
+[287] Elevator #2 started idleing (no buttons pressed)
+[287] Elevator #3 arrived at floor 1
+[287] Elevator #3 started idleing (no buttons pressed)
+[287] Elevator #4 arrived at floor 1
+[287] Elevator #4 started idleing (no buttons pressed)
+[287] Elevator #5 arrived at floor 9
+[287] Elevator #5 started idleing (no buttons pressed)
+[287] Elevator #6 arrived at floor 10
+[287] Elevator #6 started idleing (no buttons pressed)
+[288] Elevator #1 arrived at floor 10
+[288] Passenger #51 arrived at floor 10 via elevator #1
+[288] Elevator #1 changes direction to MovingDown - next target floor 4, will arrive at [270]
+[288] Elevator #2 arrived at floor 1
+[288] Elevator #2 started idleing (no buttons pressed)
+[288] Elevator #3 arrived at floor 1
+[288] Elevator #3 started idleing (no buttons pressed)
+[288] Elevator #4 arrived at floor 1
+[288] Elevator #4 started idleing (no buttons pressed)
+[288] Elevator #5 arrived at floor 9
+[288] Elevator #5 started idleing (no buttons pressed)
+[288] Elevator #6 arrived at floor 10
+[288] Elevator #6 started idleing (no buttons pressed)
+[289] Elevator #1 arrived at floor 4
+[289] Passenger #26 arrived at floor 4 via elevator #1
+[289] Passenger #76 arrived at floor 4 via elevator #1
+[289] Elevator #1 started idleing (no buttons pressed)
+[289] Elevator #2 arrived at floor 1
+[289] Elevator #2 started idleing (no buttons pressed)
+[289] Elevator #3 arrived at floor 1
+[289] Elevator #3 started idleing (no buttons pressed)
+[289] Elevator #4 arrived at floor 1
+[289] Elevator #4 started idleing (no buttons pressed)
+[289] Elevator #5 arrived at floor 9
+[289] Elevator #5 started idleing (no buttons pressed)
+[289] Elevator #6 arrived at floor 10
+[289] Elevator #6 started idleing (no buttons pressed)

@@ -1,6 +1,7 @@
 #include "elevator_system.h"
 
 #include <cmath>
+#include <cstdlib>
 #include <fstream>
 #include <iostream>
 #include <stdexcept>
@@ -25,23 +26,21 @@ ElevatorSystem &ElevatorSystem::model(std::string const &input_file) {
       "starts!\n-----------------------------------------------------------");
 
   while (m_remaining_passengers > 0) {
+    // getchar();
     arrive_passengers(m_time);
     for (int i = 1; i < m_waiting_passengers_by_floor.size(); ++i) {
       auto &pas_list = m_waiting_passengers_by_floor.at(i);
       if (pas_list.size() > 0 &&
           !m_floors_already_called_elevator.contains(i)) {
         Elevator *e = calculate_most_suitable_elevator(i);
-        if (e == nullptr) {
-          throw std::runtime_error(
-              "Not found most suitable elevator {UNREACHABLE}");
-        }
-        m_floors_already_called_elevator.insert(i);
-        if (e->current_floor() == i &&
-            (e->state() != ElevatorState::MovingDown &&
-             e->state() != ElevatorState::MovingUp)) {
-          process_floor_arival(i, e);
-        } else {
-          interrupt_elevator(e, i);
+        if (e != nullptr) {
+          m_floors_already_called_elevator.insert(i);
+          if (e->current_floor() == i &&
+              (e->state() == ElevatorState::IdleClosed)) {
+            process_floor_arival(i, e);
+          } else {
+            interrupt_elevator(e, i);
+          }
         }
       }
     }
@@ -103,7 +102,8 @@ ElevatorSystem &ElevatorSystem::print_results(
     for (auto const &elevator : m_elevators) {
       elevators_file << "Elevator " << elevator.id() << ":\n";
       elevators_file << "  Idle time: " << elevator.idle_time() << "\n";
-      elevators_file << "  Moving time: " << elevator.moving_time() << "\n";
+      elevators_file << "  Moving time: " << m_time - elevator.idle_time()
+                     << "\n";
       elevators_file << "  Floors passed: " << elevator.floors_passed() << "\n";
       elevators_file << "  Total cargo: " << elevator.total_cargo() << "\n";
       elevators_file << "  Max load reached: " << elevator.max_load_reached()
@@ -202,6 +202,11 @@ void ElevatorSystem::process_floor_arival(size_t floor, Elevator *elevator) {
   if (floor >= m_waiting_passengers_by_floor.size()) {
     throw std::out_of_range("Invalid floor number");
   }
+
+  elevator->set_floors_passed(
+      elevator->floors_passed() +
+      std::abs(static_cast<int>(elevator->target_floor() -
+                                elevator->current_floor())));
 
   elevator->set_state(ElevatorState::IdleOpen, m_time);
   elevator->pressed_buttons().at(floor) = false;
@@ -357,6 +362,7 @@ void ElevatorSystem::calculate_next_elevator_target(size_t floor,
                          std::to_string(elevator->id()) +
                          " started idleing (no buttons pressed)");
   elevator->set_state(ElevatorState::IdleClosed, m_time);
+  // elevator->set_target_floor(0);
 }
 void ElevatorSystem::arrive_passengers(size_t current_time) {
   auto range_in_time = m_time_index.equal_range(current_time);
@@ -376,10 +382,15 @@ Elevator *ElevatorSystem::calculate_most_suitable_elevator(size_t floor) {
   Elevator *best_elevator = nullptr;
   int min_distance = std::numeric_limits<int>::max();
 
+  std::cout << "finding elevator for interrupt to floor " << floor << std::endl;
+
   for (auto &elevator : m_elevators) {
     auto current_floor =
         static_cast<int>(elevator.elevator_aproximate_floor(m_time));
     int distance = std::abs(current_floor - static_cast<int>(floor));
+    std::cout << "finding elevator. id: " << elevator.id()
+              << ", current_floor: " << current_floor
+              << ", distance: " << distance;
     ElevatorState elevator_state = elevator.state();
 
     bool suitable = false;
@@ -387,20 +398,25 @@ Elevator *ElevatorSystem::calculate_most_suitable_elevator(size_t floor) {
     if (elevator_state == ElevatorState::IdleClosed ||
         elevator_state == ElevatorState::IdleOpen) {
       suitable = true;
-    }
-
-    else if (elevator_state == ElevatorState::MovingUp) {
+    } else if (elevator_state == ElevatorState::MovingUp) {
       suitable = (current_floor <= static_cast<int>(floor));
     } else if (elevator_state == ElevatorState::MovingDown) {
       suitable = (current_floor >= static_cast<int>(floor));
     }
+    std::cout << ". Suitable? " << (suitable ? "true" : "false") << std::endl;
 
-    if (suitable) {
-      if (distance == min_distance &&
-              elevator.state() == ElevatorState::IdleClosed &&
-              best_elevator != nullptr &&
-              best_elevator->state() != ElevatorState::IdleClosed ||
-          distance < min_distance) {
+    if (suitable && distance <= min_distance) {
+      if (elevator_state == ElevatorState::IdleClosed) {
+        if (best_elevator != nullptr) {
+          if (best_elevator->state() != ElevatorState::IdleClosed) {
+            min_distance = distance;
+            best_elevator = &elevator;
+          }
+        } else {
+          min_distance = distance;
+          best_elevator = &elevator;
+        }
+      } else {
         min_distance = distance;
         best_elevator = &elevator;
       }
@@ -408,16 +424,20 @@ Elevator *ElevatorSystem::calculate_most_suitable_elevator(size_t floor) {
   }
 
   if (best_elevator == nullptr) {
-    for (auto &elevator : m_elevators) {
-      auto current_floor =
-          static_cast<int>(elevator.elevator_aproximate_floor(m_time));
-      int distance = abs(current_floor - static_cast<int>(floor));
-      if (distance < min_distance) {
-        min_distance = distance;
-        best_elevator = &elevator;
-      }
-    }
+    information_with_guard("No suitable elevator found for interrupt");
+    //   for (auto &elevator : m_elevators) {
+    //     auto current_floor =
+    //         static_cast<int>(elevator.elevator_aproximate_floor(m_time));
+    //     int distance = abs(current_floor - static_cast<int>(floor));
+    //     if (distance < min_distance) {
+    //       min_distance = distance;
+    //       best_elevator = &elevator;
+    //     }
+    //   }
   }
+  //
+  // std::cout << "most suitable elevator id: " << best_elevator->id()
+  //           << std::endl;
 
   return best_elevator;
 }
@@ -431,24 +451,26 @@ void ElevatorSystem::interrupt_elevator(Elevator *elevator,
     throw std::runtime_error("target floor can not be 0");
   };
 
-  // Mark the button as pressed
   auto &buttons = elevator->pressed_buttons();
   buttons.at(target_floor) = true;
 
-  // Determine direction based on current approximate position
-  size_t current_approx_floor = elevator->elevator_aproximate_floor(m_time);
+  size_t current_approx_floor = elevator->elevator_aproximate_floor(m_time) + 1;
   elevator->set_current_floor(current_approx_floor);
-  ElevatorState new_state = current_approx_floor < target_floor
-                                ? ElevatorState::MovingUp
-                                : ElevatorState::MovingDown;
+  calculate_next_elevator_target(current_approx_floor, elevator);
 
-  elevator->set_target_floor(target_floor);
-  elevator->set_state(new_state, m_time);
-
-  information_with_guard(
-      "[" + std::to_string(m_time) + "] Elevator #" +
-      std::to_string(elevator->id()) + " interrupted to floor " +
-      std::to_string(target_floor) + " (approximate current floor: " +
-      std::to_string(current_approx_floor) + "), will arrive at [" +
-      std::to_string(elevator->time_travel_ends()) + "]");
+  // ElevatorState
+  // new_state = current_approx_floor < target_floor
+  //                               ? ElevatorState::MovingUp
+  //                               : ElevatorState::MovingDown;
+  //
+  // elevator->set_target_floor(target_floor);
+  // elevator->set_state(new_state, m_time);
+  // elevator->calculate_moving_time_with_interrupt(m_time, target_floor);
+  //
+  // information_with_guard(
+  //     "[" + std::to_string(m_time) + "] Elevator #" +
+  //     std::to_string(elevator->id()) + " interrupted to floor " +
+  //     std::to_string(target_floor) + " (approximate current floor: " +
+  //     std::to_string(current_approx_floor) + "), will arrive at [" +
+  //     std::to_string(elevator->time_travel_ends()) + "]");
 }

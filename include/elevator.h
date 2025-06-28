@@ -57,14 +57,15 @@ class Elevator final {
   const double m_max_load;
   std::vector<bool> m_pressed_buttons;
   std::vector<Passenger *> m_passengers;
-  size_t m_target_floor;
-  size_t m_timestamp_when_last_state_set;  // aka when the moving process starts
-  size_t m_time_travel_ends;
+  size_t m_target_floor = 0;
+  size_t m_timestamp_when_last_state_set =
+      0;  // aka when the moving process starts
+  size_t m_time_travel_ends = 0;
 
-  size_t m_idle_time;
-  size_t m_moving_time;
-  size_t m_floors_passed;
-  double m_total_cargo;
-  double m_max_load_reached;
-  size_t m_overloads_count;
+  size_t m_idle_time = 0;
+  size_t m_moving_time = 0;
+  size_t m_floors_passed = 0;
+  double m_total_cargo = 0;
+  double m_max_load_reached = 0;
+  size_t m_overloads_count = 0;
 };
