@@ -29,8 +29,8 @@ std::pair<std::vector<Elevator>, size_t> parse_elevators_file(
     throw std::runtime_error("Failed to read number of floors and elevators");
   }
 
-  if (n_floors == 0) {
-    throw std::runtime_error("Number of floors (n) must be positive");
+  if (n_floors == 0 && n_floors == 1) {
+    throw std::runtime_error("Number of floors (n) must be greater than 1");
   }
   if (k_elevators == 0) {
     throw std::runtime_error("Number of elevators (k) must be positive");
@@ -94,6 +94,8 @@ int main(int argc, char **argv) {
 
     ElevatorSystem system(elevators, floors_count, log.get());
     system.model(argv[2]).print_results(argv[3], argv[4]);
+    std::cout << "Modelation ended. Results written into " << argv[3] << " and "
+              << argv[4] << std::endl;
     return 0;
   } catch (std::exception const &e) {
     std::cerr << "Runtime error occured during the execution: " << e.what()

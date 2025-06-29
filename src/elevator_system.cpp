@@ -253,6 +253,14 @@ void ElevatorSystem::process_passengers_deboarding(size_t floor,
       --m_remaining_passengers;
       ++test_pasengers_succesfully_moved_to_dest;
     } else {
+      Elevator *max_weight_elevator = nullptr;
+      double max_weight = 0;
+      for (auto &e : m_elevators) {
+        if (e.max_load() > max_weight) {
+          max_weight = e.max_load();
+          max_weight_elevator = &e;
+        }
+      }
       ++it;
     }
   }
@@ -382,15 +390,11 @@ Elevator *ElevatorSystem::calculate_most_suitable_elevator(size_t floor) {
   Elevator *best_elevator = nullptr;
   int min_distance = std::numeric_limits<int>::max();
 
-  std::cout << "finding elevator for interrupt to floor " << floor << std::endl;
-
   for (auto &elevator : m_elevators) {
     auto current_floor =
         static_cast<int>(elevator.elevator_aproximate_floor(m_time));
     int distance = std::abs(current_floor - static_cast<int>(floor));
-    std::cout << "finding elevator. id: " << elevator.id()
-              << ", current_floor: " << current_floor
-              << ", distance: " << distance;
+
     ElevatorState elevator_state = elevator.state();
 
     bool suitable = false;
@@ -403,9 +407,8 @@ Elevator *ElevatorSystem::calculate_most_suitable_elevator(size_t floor) {
     } else if (elevator_state == ElevatorState::MovingDown) {
       suitable = (current_floor >= static_cast<int>(floor));
     }
-    std::cout << ". Suitable? " << (suitable ? "true" : "false") << std::endl;
 
-    if (suitable && distance <= min_distance) {
+    if (suitable && distance == min_distance) {
       if (elevator_state == ElevatorState::IdleClosed) {
         if (best_elevator != nullptr) {
           if (best_elevator->state() != ElevatorState::IdleClosed) {
@@ -416,10 +419,15 @@ Elevator *ElevatorSystem::calculate_most_suitable_elevator(size_t floor) {
           min_distance = distance;
           best_elevator = &elevator;
         }
-      } else {
+      }
+      if (best_elevator != nullptr &&
+          elevator.max_load() > best_elevator->max_load()) {
         min_distance = distance;
         best_elevator = &elevator;
       }
+    } else if (suitable && distance < min_distance) {
+      min_distance = distance;
+      best_elevator = &elevator;
     }
   }
 

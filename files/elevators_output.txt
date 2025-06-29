@@ -1,53 +1,53 @@
 Elevator 1:
-  Idle time: 5
-  Moving time: 285
-  Floors passed: 146
-  Total cargo: 2679
-  Max load reached: 986
+  Idle time: 199
+  Moving time: 0
+  Floors passed: 0
+  Total cargo: 0
+  Max load reached: 0
   Overloads count: 0
 
 Elevator 2:
-  Idle time: 53
-  Moving time: 237
-  Floors passed: 85
-  Total cargo: 2614.7
-  Max load reached: 976.3
-  Overloads count: 1
+  Idle time: 199
+  Moving time: 0
+  Floors passed: 0
+  Total cargo: 0
+  Max load reached: 0
+  Overloads count: 0
 
 Elevator 3:
-  Idle time: 35
-  Moving time: 255
-  Floors passed: 218
-  Total cargo: 985.3
-  Max load reached: 985.3
-  Overloads count: 376
+  Idle time: 199
+  Moving time: 0
+  Floors passed: 0
+  Total cargo: 0
+  Max load reached: 0
+  Overloads count: 0
 
 Elevator 4:
-  Idle time: 97
-  Moving time: 193
-  Floors passed: 89
-  Total cargo: 2122.3
-  Max load reached: 608
+  Idle time: 199
+  Moving time: 0
+  Floors passed: 0
+  Total cargo: 0
+  Max load reached: 0
   Overloads count: 0
 
 Elevator 5:
-  Idle time: 261
-  Moving time: 29
-  Floors passed: 5
-  Total cargo: 70.9
-  Max load reached: 70.9
+  Idle time: 199
+  Moving time: 0
+  Floors passed: 0
+  Total cargo: 0
+  Max load reached: 0
   Overloads count: 0
 
 Elevator 6:
-  Idle time: 263
-  Moving time: 27
-  Floors passed: 10
-  Total cargo: 72.9
-  Max load reached: 72.9
+  Idle time: 199
+  Moving time: 0
+  Floors passed: 0
+  Total cargo: 0
+  Max load reached: 0
   Overloads count: 0
 
 Elevator 7:
-  Idle time: 290
+  Idle time: 199
   Moving time: 0
   Floors passed: 0
   Total cargo: 0
@@ -55,10 +55,26 @@ Elevator 7:
   Overloads count: 0
 
 Elevator 8:
-  Idle time: 290
+  Idle time: 199
   Moving time: 0
   Floors passed: 0
   Total cargo: 0
   Max load reached: 0
+  Overloads count: 0
+
+Elevator 9:
+  Idle time: 199
+  Moving time: 0
+  Floors passed: 0
+  Total cargo: 0
+  Max load reached: 0
+  Overloads count: 0
+
+Elevator 10:
+  Idle time: 1
+  Moving time: 198
+  Floors passed: 120
+  Total cargo: 989.7
+  Max load reached: 252.7
   Overloads count: 0
 
